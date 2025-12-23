@@ -1,0 +1,7 @@
+Find the customer name and email with phone number 555-229-3326
+1. Click "Customers" on the left sidebar
+2. Click the “all customers” tab on the right
+3. Click on the search box above the list
+4. Type in the phone number “5552293326”
+5. Press enter 
+6. Record the customer's name from the second column in the table and email from the third table column

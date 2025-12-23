@@ -1,0 +1,8 @@
+Set my gitlab status as Out of Office.
+
+1. Click on the user account button, located in the top, rightmost corner of the page to open up navigation options related to the user’s account. It is located in the purple navigation bar at the top of the page. It contains a small icon of the user’s profile picture. 
+2. Click on the “Set status” link in the drop-down menu, directly below the “@username” of the user and above the “Edit profile” link. This opens up the status editing pop-up.
+3. If the status text box is already populated, click the “X” button directly to the right of the status text box to clear it. The status textbox is directly below the bolded heading “Set a status”. It is populated if the gray text “What’s your status?” is not displayed within it.
+4. Click into the status text box to focus in. The status textbox is directly below the bolded heading “Set a status”.
+5. Type in the desired status, in this case “Out of Office”.
+6. Click the blue “Set status” button, located in the bottom right corner of the pop-up. This sets the desired status.

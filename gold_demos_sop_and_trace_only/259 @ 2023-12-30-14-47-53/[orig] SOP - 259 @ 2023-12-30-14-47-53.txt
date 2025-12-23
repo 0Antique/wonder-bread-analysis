@@ -1,0 +1,7 @@
+Get me my RSS feed token
+1. Click the user profile icon in the top right of the screen to open up a dropdown menu.
+2. Within the dropdown menu, click the "Edit Profile" option.
+3. Click the "Access Tokens" button from the left sidebar.
+4. Scroll down to the bottom of the page until the "Feed token" section is shown.
+5. Click on the "Click to reveal" icon, which is shaped like an eye, to make the RSS feed token visible.
+6. Given the information, state the RSS feed token. 

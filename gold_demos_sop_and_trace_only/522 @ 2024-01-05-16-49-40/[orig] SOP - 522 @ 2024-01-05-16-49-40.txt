@@ -1,0 +1,17 @@
+Fork all repos from facebook.
+1. Click the search bar at the top left of the screen next to the orange symbol
+2. Type “facebook”
+3. Press enter
+4. Click the white “Users” tab on the left
+5. Click the user with “facebook” in the name from the dropdown of user panes
+6. Scroll down until the list of projects with colored icons for projects is visible on the bottom right of the screen in white and black
+7. Click the first project on the list of projects on the bottom right of the screen
+8. Click the gray “Fork” button on the top right of the screen near the central area with the symbol of paths splitting
+9. Click the dropdown next to the “Namespace” text box in gray
+10. Click “byteblaze” from the drop down at the bottom
+11. Click the blue “Fork repo” button at the bottom left of the screen
+12. Click the second project on the list of projects on the bottom right of the screen
+13. Click the gray “Fork” button on the top right of the screen near the central area with the symbol of paths splitting
+14. Click the dropdown next to the “Namespace” text box in gray
+15. Click “byteblaze” from the drop down at the bottom
+16. Click the blue “Fork repo” button at the bottom left of the screen

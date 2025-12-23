@@ -1,0 +1,17 @@
+Add the following users to repo millennials-to-snake-people as reporter: ['yjlou', 'a11yproject'].
+1. Click on “Search GitLab” bar in the top left of the page. It is located next to the three horizontal bars icon.
+2. Search for “millennials-to-snake-people” by typing it in the search bar.
+3. From the search results, click on "millennials-to-snake-people" project. The “millennials-to-snake-people” project page will open.
+4. Click on "Project Information" tab in the left sidebar. It is the top-most tab in the sidebar Menu. This will open the dropdown options.
+5. Click on “Members” option in the dropdown menu to open the “Project Members” page.
+6. Click the blue "Invite members" button located at the top right of this page. A dialog box “Invite members” will open.
+7. In the dialog box, click in the text box under the "Username or email address" label.
+8. Type "yjlou" in this text box. A dropdown selection will open.
+9. Choose the relevant "yjlou" from the suggested options and click on it to select it.
+10. Click again in the text box under the "Username or email address" label.
+11. Type "a11yproject" in this text box. A dropdown selection will again open.
+12. Choose the relevant "a11yproject" from the suggested options and click on it to select it.
+13. Both the selected names "yjlou" and "a11yproject" will show in the text box.
+14. Click the text box under the “Select a role” label to open the dropdown options.
+15. Choose “Reporter” from the options and click on it to select it.
+16. Click the blue "Invite" button in the bottom right of the dialog box to send the invitation.

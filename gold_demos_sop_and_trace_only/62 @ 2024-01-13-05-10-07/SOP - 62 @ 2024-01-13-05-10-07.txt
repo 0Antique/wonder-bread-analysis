@@ -1,0 +1,12 @@
+Which customer has completed the most number of orders in the entire history?
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page.
+2. Click on “Order Total” in the pop up menu, located under the heading “Customers”.
+3. Click on the Show By box, located directly to the right of the text “Show By:”.
+4. Click on “Year” in the pop-up menu.
+5. Click into the “From” text field, located on the left side of the page.
+6. Type in “1/1/10”.
+7. Click into the “To” text field, located directly to the right of the “From” text field.
+8. Type in the current date.
+9. Press enter.
+10. Scroll down through all records. Keep track of how many total orders each customer has made. The customer can be identified by their name, located in the second column of the data table. The number of orders they made on a given occasion is given in the third column of the data table.
+11. The customer with the greatest total number of orders has completed the most orders in the history of the store.

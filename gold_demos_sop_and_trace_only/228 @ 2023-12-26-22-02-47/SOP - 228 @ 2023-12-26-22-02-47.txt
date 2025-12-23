@@ -1,0 +1,10 @@
+To get the price range for products from Sephora:
+1. Click “Advanced Search”, which can be found below the search bar and the top right hand side of the page.
+2. Click into the “Product Name” text field.
+3. Type “Amazon basic”.
+4. Press enter. 
+5. Click the “Sort By” drop down menu, on the right side of the page.
+6. Click “Price”.
+7. Record the price of the first item, this is the cheapest item.
+8. Scroll until the last item is visible.
+9. Record the price of the last item. This is the most expensive item.

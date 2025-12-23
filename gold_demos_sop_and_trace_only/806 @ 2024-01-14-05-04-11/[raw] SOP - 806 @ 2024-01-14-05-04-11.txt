@@ -1,0 +1,19 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to submit a merge request for a11yproject.com/redesign branch to be merged into markdown-figure-block branch, and to assign the user as the reviewer:
+
+1. Click the merge requests button, which is an icon located directly to the right of the issues button.
+2. Click “Review requests for you” in the pop-up menu.
+3. Click on the blue drop down button, located near the top right of the page.
+4. Type in the project name.
+5. Press enter.
+6. Click on the blue “New merge request” button.
+7. Click on the “Select source branch” box, beneath and to the right of the bolded text “Source branch”.
+8. Type in the branch to be merged.
+9. Press enter.
+10. Click on the Select target branch box, beneath and to the right of the bolded text “Target branch”.
+11. Type in the branch to be merged into.
+12. Press enter.
+13. Scroll to the bottom of the page.
+14. Click the blue “Create merge request” button.
+15. Click the “Edit” button for Reviewers, located to the right of the bolded text “0 Reviewers”.
+16. Type in the name of the first person to assign the issue to for review.
+17. Press enter.

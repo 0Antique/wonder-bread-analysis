@@ -1,0 +1,7 @@
+Upvote the newest post in deeplearning subreddit.
+1. In the red ribbon at the top of the page, click on the gray "Forums" button.
+2. Click on the gray tab at the top labeled "Alphabetical".
+3. Under the letter D, find and click on "deeplearning".
+4. Click on the sort icon (to the right of the gray Comments tab) to open the dropdown menu.
+5. From the dropdown menu, click on the "New" option.
+6. For the post that is closet to the top, click the small gray up arrow to upvote the post.

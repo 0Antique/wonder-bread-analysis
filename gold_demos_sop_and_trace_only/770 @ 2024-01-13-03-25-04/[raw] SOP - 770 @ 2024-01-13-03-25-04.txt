@@ -1,0 +1,21 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to update the stock of white size 28 Cora parachute pant given the arrival of 12 of the product and update the stock of blue size 29 Cora parachute pant given the arrival of 56 of the product:
+
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the heading “Catalog”.
+3. Click into the search field, located above the products table.
+4. Type in “Cora parachute pant”.
+5. Press enter.
+6. Scroll down to the first relevant product.
+7. Click on the product name of this row of the products table.
+8. Click into the “Quantity” field.
+9. Delete the existing number.
+10. Type in the value of 12 + the existing number.
+11. Scroll to the top of the page.
+12. Click the orange “Save” button, located near the top right of the page.
+13. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+14. Scroll down to the next relevant product.
+14. Click on the product name of this row of the products table.
+15. Click into the “Quantity” field.
+16. Delete the existing number.
+17. Type in the value of 56 + the existing number.
+18. Click the orange “Save” button, located near the top right of the page.

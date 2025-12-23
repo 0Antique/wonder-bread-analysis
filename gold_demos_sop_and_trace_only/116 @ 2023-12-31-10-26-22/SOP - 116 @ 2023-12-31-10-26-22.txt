@@ -1,0 +1,8 @@
+Show me the name of the customers who have expressed dissatisfaction with tanks products
+1. Click on the "Marketing" icon on the gray sidebar on the left of the page.
+2. Click on "All Reviews" under the "User Content" section in the pop-up.
+3. Click in the textbox under the "Product" heading.
+4. Type "tank" to search for relevant reviews and press enter.
+5. Scroll down and up on the page.
+6. Click the right arrow to the right of the page to look at the next page.
+7. Given the information in the table, state the name of the customers who have expressed dissatisfaction.

@@ -1,0 +1,13 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+127 @ 2023-12-28-15-32-33.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+127 @ 2023-12-28-15-32-33.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[1]/div[1]/ul/li[2]/a/span,,,,,span,Search Terms,
+127 @ 2023-12-28-16-53-48.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1],,,,,a,REPORTS,
+127 @ 2023-12-28-16-53-48.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[1]/div[1]/ul/li[2]/a,,,,,a,Search Terms,
+127 @ 2023-12-28-16-53-48.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+127 @ 2023-12-28-16-53-48.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+127 @ 2023-12-31-15-31-12.json,1,1,scroll,,,,,,,,
+127 @ 2024-01-08-19-59-09.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1]/span,,,,,span,REPORTS,
+127 @ 2024-01-08-19-59-09.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[1]/div[1]/ul/li[2]/a/span,,,,,span,Search Terms,
+127 @ 2024-01-08-19-59-09.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+127 @ 2024-01-13-06-06-56.json,1,1,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[15]/td[4]/div,,,,,div,Circe Hooded Ice Fleece-XS-Green,
+127 @ 2024-01-13-06-06-56.json,3,3,scroll,,,,,,,,

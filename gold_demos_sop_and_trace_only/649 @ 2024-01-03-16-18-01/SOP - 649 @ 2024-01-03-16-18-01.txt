@@ -1,0 +1,7 @@
+Post in history subreddit about what could diffusion model help the correpong field.
+1. On the top bar, click on the "Forums" tab.
+2. At the top of the list, click on the "Alphabetical" button.
+3. Under the "H" subsection, click on the "history" subreddit.
+4. On the top bar at the right, click on the "Submit" button.
+5. In the "Title" field, enter "How diffusion model can help in the history industry".
+6. Click on the red "Create submission" button under the form.

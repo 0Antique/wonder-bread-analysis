@@ -1,0 +1,21 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+693 @ 2023-12-28-00-38-52.json,1,1,scroll,,,,,,,,
+693 @ 2023-12-28-00-38-52.json,3,3,mouseup,/html/body[1]/div[2]/footer[1]/div/ul[1]/li[4]/a,,,,,a,Contact Us,
+693 @ 2023-12-28-00-38-52.json,5,5,mouseup,//*[@id='comment'],,,,,textarea,,
+693 @ 2023-12-28-00-38-52.json,7,7,keystroke,//*[@id='comment'],,,,,textarea,,
+693 @ 2023-12-29-03-39-36.json,1,1,scroll,,,,,,,,
+693 @ 2023-12-29-03-39-36.json,3,3,mouseup,/html/body[1]/div[2]/footer[1]/div/ul[1]/li[4]/a,,,,,a,Contact Us,
+693 @ 2023-12-29-03-39-36.json,5,5,mouseup,//*[@id='comment'],,,,,textarea,,
+693 @ 2023-12-29-03-39-36.json,7,7,keystroke,//*[@id='comment'],,,,,textarea,,"I am a student, and I am writing to request a coupon"
+693 @ 2023-12-29-13-12-30.json,1,1,scroll,,,,,,,,
+693 @ 2023-12-29-13-12-30.json,3,3,mouseup,/html/body[1]/div[2]/footer[1]/div/ul[1]/li[4]/a,,,,,a,Contact Us,
+693 @ 2023-12-29-13-12-30.json,5,5,mouseup,//*[@id='comment'],,,,,textarea,,
+693 @ 2023-12-29-13-12-30.json,7,7,keystroke,//*[@id='comment'],,,,,textarea,,
+693 @ 2024-01-03-00-48-56.json,1,1,scroll,,,,,,,,
+693 @ 2024-01-03-00-48-56.json,3,3,mouseup,/html/body[1]/div[2]/footer[1]/div/ul[1]/li[4]/a,,,,,a,Contact Us,
+693 @ 2024-01-03-00-48-56.json,5,5,mouseup,//*[@id='comment'],,,,,textarea,,
+693 @ 2024-01-03-00-48-56.json,7,7,keystroke,//*[@id='comment'],,,,,textarea,,
+693 @ 2024-01-06-13-48-30.json,1,1,scroll,,,,,,,,
+693 @ 2024-01-06-13-48-30.json,3,3,mouseup,/html/body[1]/div[2]/footer[1]/div/ul[1]/li[5]/a,,,,,a,Contact Us,
+693 @ 2024-01-06-13-48-30.json,5,5,mouseup,//*[@id='comment'],,,,,textarea,,
+693 @ 2024-01-06-13-48-30.json,7,7,keystroke,//*[@id='comment'],,,,,textarea,,Can I get a coupon since I am a student?

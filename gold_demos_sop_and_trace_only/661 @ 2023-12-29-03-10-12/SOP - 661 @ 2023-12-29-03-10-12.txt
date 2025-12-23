@@ -1,0 +1,6 @@
+Open an issue to report the issue of connection refused in ChatGPT.
+1. Search for the correct repo by clicking on the search bar in the top left of the page and typing in "ChatGPT" and clicking on the corresponding repo
+2. Locate the gray sidebar, and click on the "Issues" button
+3. Identify and click on the blue "New issue" button in the top right of the page
+4. Identify and click on the "Title (required)" textbox and type in "Connection Refused"
+5. Click the blue "Create Issue" button at the bottom left of the page

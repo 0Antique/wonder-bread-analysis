@@ -1,0 +1,11 @@
+Post "lgtm" for the merge request related to fixing the broken links in byteblaze/empathy-prompts project
+
+1. Click into the search bar above the list of the user’s projects to focus it. The search bar has the grayed out text “Filter by name” within it, and is on the right half of the page.
+2. Type in the keyword for the desired project, in this case “empathy”, to filter for the desired project.
+3. Click on the search result that is the desired project, in this case “byteblaze/empathy-prompts”. You can identify the desired project by finding the project title that most closely matches the desired project. The project title is the black text directly to the right of the top half of the project image. Scroll down through search results if necessary.
+4. Click on the “Merge requests” tab, located on the lefthand sidebar, to navigate to the project’s merge requests. The “Merge requests” tab is directly under the “Issues” tab and directly above the “CI/CD” tab.
+5. Click on the desired merge request link, in this case “Fix broken link”, which is the bold black text in the top left of each row of the list of merge requests. You can tell what the most relevant merge request is by finding the merge request title which most closely matches the user’s request description, in this case “the merge request related to fixing the broken links”.
+6. Scroll down to the comment text box, located at the bottom of the “Activity” section and with the gray text “Write a comment or drag your files here...“ located within it.
+7. Click into the comment text box in order to focus it.
+8. Type in the desired comment, in this case “lgtm”, to write the comment.
+9. Click the blue “Comment” button directly below the comment text box to post the comment. Scroll down to view the blue “Comment” button if necessary.

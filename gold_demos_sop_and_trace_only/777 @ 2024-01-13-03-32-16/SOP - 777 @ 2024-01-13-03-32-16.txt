@@ -1,0 +1,46 @@
+Reduce the price of green Hollister backyard sweater in all size by $5
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the heading “Catalog”.
+3. Click into the search field, located above the products table.
+4. Type in “Hollister backyard sweater”.
+5. Press enter.
+6. Since there are no results, we will try a modified search term.
+7. Delete “ sweater”.
+8. Press enter.
+9. Scroll down to the first relevant product in the color green.
+10. Click on the product name of this row of the products table.
+11. Click into the “Price” field.
+12. Delete the existing number.
+13. Type in the value of the existing number - 5.00
+14. Click the orange “Save” button, located near the top right of the page.
+15. Click the “Back” button, located near the top of the page.
+16. Scroll down to the next relevant product in the color green.
+17. Click on the product name of this row of the products table.
+18. Click into the “Price” field.
+19. Delete the existing number.
+20. Type in the value of the existing number - 5.00
+21. Click the orange “Save” button, located near the top right of the page.
+22. Click the “Back” button, located near the top of the page.
+23. Scroll down to the next relevant product in the color green.
+24. Click on the product name of this row of the products table.
+25. Click into the “Price” field.
+26. Delete the existing number.
+27. Type in the value of the existing number - 5.00
+28. Click the orange “Save” button, located near the top right of the page.
+29. Click the “Back” button, located near the top of the page.
+30. Scroll down to the next relevant product in the color green.
+31. Click on the product name of this row of the products table.
+32. Click into the “Price” field.
+33. Delete the existing number.
+34. Type in the value of the existing number - 5.00
+35. Click the orange “Save” button, located near the top right of the page.
+36. Click the “Back” button, located near the top of the page.
+37. Scroll down to the next relevant product in the color green.
+38. Click on the product name of this row of the products table.
+39. Click into the “Price” field.
+40. Delete the existing number.
+41. Type in the value of the existing number - 5.00
+42. Click the orange “Save” button, located near the top right of the page.
+43. Click the “Back” button, located near the top of the page.
+44. Scroll down to the next relevant product in the color green.
+45. Since there are no more relevant products remaining, we have updated the inventory of all relevant products.

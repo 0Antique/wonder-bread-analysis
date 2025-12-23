@@ -1,0 +1,10 @@
+List all opened issues that don't have any labels
+1. Click on "Issues" in the left sidebar
+2. Click the search bar at the top middle of the page that says "Search or filter results..."
+3. Type "label"
+4. Click enter when the autocomplete result "Label" appears and is selected.
+5. Type "="
+6. Click enter when the autocomplete result "=" appears and is selected.
+7. Type the keyword "None".
+8. Click enter when the autocomplete result "None" appears and is selected.
+9. Press Enter to display the requested issues.

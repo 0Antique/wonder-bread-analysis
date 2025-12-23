@@ -1,0 +1,10 @@
+5 blue Cronus yoga pants with size 33 arrived, update the stock
+1. Navigate to the sidebar located on the left side of the screen
+2. Click on the "Catalog" section to reveal the pop-out menu
+3. Click on the "Products" button to reveal the "Products" page
+4. Identify and click on the "Search by keyword" search bar and type in "Cronus"
+5. From the list, identify the "Cronus yoga pants" item of color blue and size 33 and click on it
+6. Identify the "Quantity" textbox and type in 5
+7. Click the orange "Save" button in the top right of the page
+
+

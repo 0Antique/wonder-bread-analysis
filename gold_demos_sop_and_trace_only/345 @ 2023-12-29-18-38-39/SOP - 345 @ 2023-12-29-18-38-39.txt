@@ -1,0 +1,9 @@
+How many reviews our shop received in Apr 2023?
+1. Click the "Marketing" tab from the left sidebar to open the dropdown menu. This tab is directly below "Customers" and directly above "Content". There is also a symbol depicting a megaphone.
+2. From the resulting menu, click on "All Reviews" in the bottom right of the dropdown.
+3. At the top of the third column titled "Created", click inside the "From" box.
+4. Type in the first date of Apr 2023 "04/01/2023".
+5. Click inside the "To" box just below.
+6. Type in the last date of Apr 2023 "04/30/2023".
+7. Press the "Enter/Return" key to show all results.
+8. Near the top of the page, there is text that says "351 results shown". Thus, this number is the answer for how many reviews our shop received in Apr 2023.

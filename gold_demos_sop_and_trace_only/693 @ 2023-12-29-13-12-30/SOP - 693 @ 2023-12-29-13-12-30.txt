@@ -1,0 +1,5 @@
+Draft an email to the shop owner via their contact us function for a coupon as my refund is suppoed to be replaced by a coupon
+1. Scroll to the bottom of the page 
+2. Click the blue "Contact Us" link at the bottom of the page, below the advanced search function 
+3. Click the text box with the lefthand text saying "What's on your mind?*" bolded with a red asterisk 
+4. Type "My refund is supposed to be replaced by a coupon. Can I get a coupon?"

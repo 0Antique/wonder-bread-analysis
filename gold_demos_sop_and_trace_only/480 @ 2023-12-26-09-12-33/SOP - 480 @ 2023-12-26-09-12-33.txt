@@ -1,0 +1,20 @@
+﻿Invite yjlou as collaborator to solarized-prism-theme
+
+
+
+
+1. Locate the search bar labeled “Search GitLab”, located in the top left of the screen, in the dark purple header.
+2. Click on the search bar to focus it.
+3. Type in "solarized-prism-theme" in the search bar.
+4. Click on the project "solarized-prism-theme" out of the available options.
+5. Locate the “Project information” button on the top right side of the screen, in the light gray sidebar.
+6. Click on the “Project information” button to reveal the dropdown options.
+7. Click on the "Members" option in the Project information section.
+8. Identify the blue “Invite members” button at the top right of the screen.
+9. Click on the blue “Invite members” button to reveal a pop-up menu.
+10. Locate the text box below the “Username or email address” black text.
+11. Click on the textbox to focus it.
+12. Type the username "yjlou" in the textbox.
+13. Click on "yjlou" out of the available options under the "Username or email address" input box.
+14. Navigate to the bottom right of the pop-up menu to find the blue “Invite” button.
+15. Click on the blue "Invite" button in the pop-up menu.

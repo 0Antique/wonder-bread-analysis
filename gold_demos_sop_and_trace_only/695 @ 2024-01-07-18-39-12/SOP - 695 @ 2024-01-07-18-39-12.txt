@@ -1,0 +1,10 @@
+Add a simple product named Energy-Bulk Man Yoga Pant with 50 in stock, available in size 38 and color yellow, priced at $69.99.
+1. Click on the "CATALOG" option in the left side bar under the "Sales" option.
+2. Click on the "Products" option in the "Catalog" menu that appeared.
+3. Click on the orange "Add Product" button at the top right of the screen.
+4. Type "Energy-Bulk Man Yoga Pant” in the "Product Name" text box under the "Attribute Set" dropdown menu.
+5. Type "69.99” in the "Price" text box under the "SKU" text box.
+6. Type “50” in the “Quantity” text box under “Tax Class” text box.
+7. Scroll down until you see the “Color” attribute, and click on “yellow” from the dropdown menu.
+8. Click on the “ Size” attribute and click on “38” from the dropdown menu.
+9. Click on the orange "Save" button at the top right of the screen.

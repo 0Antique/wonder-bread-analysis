@@ -1,0 +1,8 @@
+I am doing a market survey for one stop market, show me the most expensive product from competative swimwear category
+1. Click on the "Clothing, Shoes & Jewelry" tab on the top gray bar.
+2. On the left hand sidebar, click on the "Sport Specific Clothing" button under "Category".
+3. On the left hand sidebar, click on the "Competitive Swimwear" button under "Category".
+4. Click the box to the right of "Sort By".
+5. Select "Price" in the dropdown.
+6. Click the arrow next to the "Sort By" box so that it points downward.
+7. Click the first search result. This is the most expensive product in this category.

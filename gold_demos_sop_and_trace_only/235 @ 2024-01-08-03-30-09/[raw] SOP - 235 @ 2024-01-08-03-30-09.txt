@@ -1,0 +1,5 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the order number of the user’s most recent order:
+
+1. Click on the blue text "My Account" at the top of the page.
+2. Click on the "My Orders" tab in the light gray column on the leftmost side of the page.
+3. The first row of the order table contains information on the user’s most recent order. The “Order #” column of that row describes the order number of the most recent order.

@@ -1,0 +1,14 @@
+Update order #304 with the USPS tracking number 13849373987.
+1. Click on the "SALES" option in the left side bar under the "DASHBOARD" option.
+2. Click on the "Orders" option in the "Sales" menu that appeared.
+3. Type "000000304" in the "Search by keyword" search bar.
+4. Click on the magnifying glass in the "Search by keyword" search bar.
+5. Click on the blue "View" link under the column "Action" corresponding to the "000000304" order.
+6. Click on the gray "Ship" button at the left of the orange "Edit" button.
+7. Scroll down until you see the gray "Add Tracking Number" button in the "Shipping Information" section at the right of the screen.
+8. Click on the gray "Add Tracking Number" button in the "Shipping Information" section at the right of the screen.
+9. Click on the white "Carrier" dropdown meny in the "Shipping information" section.
+10. Click on "United States Postal Service" option of the "Carrier" dropdown menu.
+11. Type "13849373987" in the "Number" text field in the "Shipping Information" section.
+12. Scroll down until you see the orange "Submit Shipment" at the bottom right of the screen.
+13. Click on the orange "Submit Shipment" at the bottom right of the screen.

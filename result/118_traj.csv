@@ -1,0 +1,20 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+118 @ 2023-12-27-12-25-24.json,1,1,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2023-12-27-12-25-24.json,3,3,keystroke,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw bruxism
+118 @ 2023-12-27-12-25-24.json,5,5,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw bruxism
+118 @ 2023-12-28-21-26-09.json,1,1,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2023-12-28-21-26-09.json,3,3,keystroke,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2023-12-28-21-26-09.json,5,5,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[2]/button,Search,submit,,,button,Search,
+118 @ 2023-12-28-21-26-09.json,7,7,scroll,,,,,,,,
+118 @ 2023-12-31-17-33-39.json,1,1,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2023-12-31-17-33-39.json,3,3,keystroke,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2023-12-31-17-33-39.json,5,5,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw bruxism
+118 @ 2024-01-08-01-14-57.json,1,1,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2024-01-08-01-14-57.json,3,3,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2024-01-08-01-14-57.json,5,5,keystroke,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw be
+118 @ 2024-01-08-01-14-57.json,7,7,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw bruxism
+118 @ 2024-01-08-01-14-57.json,9,9,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[2]/div[2]/ol/li[1]/div/a[1]/span[1]/span/img,,,,,img,,
+118 @ 2024-01-11-08-57-48.json,1,1,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2024-01-11-08-57-48.json,3,3,keystroke,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+118 @ 2024-01-11-08-57-48.json,5,5,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,jaw bruxism
+118 @ 2024-01-11-08-57-48.json,7,7,scroll,,,,,,,,

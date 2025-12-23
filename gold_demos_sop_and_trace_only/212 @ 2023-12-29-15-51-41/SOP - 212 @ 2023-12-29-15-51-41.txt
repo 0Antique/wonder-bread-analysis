@@ -1,0 +1,5 @@
+Find the customer name and email with phone number 555-229-3326
+1. Click the "Customers" icon on the left sidebar to open up the dropdown menu.
+2. From the dropdown, click on the first option "All Customers".
+3. Scroll down until all customers are shown.
+4. Given the information, state the customer name and email with phone number 555-229-3326.

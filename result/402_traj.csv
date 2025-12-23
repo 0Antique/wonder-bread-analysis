@@ -1,0 +1,27 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+402 @ 2023-12-25-22-45-20.json,1,1,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/button[1]/strong[1],,,,,strong,MarvelsGrantMan136,
+402 @ 2023-12-25-22-45-20.json,3,3,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/ul[1]/li[3]/a,,,,,a,Profile,
+402 @ 2023-12-25-22-45-20.json,5,5,mouseup,/html/body[1]/div[2]/aside[1]/section[1]/p[1]/a/span[2],,,,,span,Edit biography,
+402 @ 2023-12-25-22-45-20.json,7,7,mouseup,/html/body[1],,,,,body,Jump to main content\nJump to sidebar\nPostmill\nForums\nWiki\n Submit\n MarvelsGrantMan136 \nEditing biography for /u/MarvelsGrantMan136\nBiography\nPreview\n\nSeeking SDE positions\n\nMarkdown allowed. Formatting help \nSave\nMarvelsGrantMan136\n\nRegistered 4 years ago\nNot whitelisted\n\nSeeking SDE positions\n\nEdit biography\n\nToolbox\nHidden forums\nTrash\n\nRunning Postmill,
+402 @ 2023-12-25-22-45-20.json,9,9,keystroke,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2023-12-25-22-45-20.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/form[1]/div[2]/button,,,,,button,Save,
+402 @ 2023-12-31-20-25-59.json,1,1,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/button[1],,button,,,button,MarvelsGrantMan136,
+402 @ 2023-12-31-20-25-59.json,3,3,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/ul[1]/li[3]/a/span/svg/use,,,,,use,,
+402 @ 2023-12-31-20-25-59.json,5,5,mouseup,/html/body[1]/div[2]/aside[1]/section[1]/p[1]/a/span[2],,,,,span,Edit biography,
+402 @ 2023-12-31-20-25-59.json,7,7,mouseup,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2023-12-31-20-25-59.json,9,9,mouseup,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2023-12-31-20-25-59.json,11,11,mouseup,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2023-12-31-20-25-59.json,13,13,keystroke,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2023-12-31-20-25-59.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/form[1]/div[2]/button,,,,,button,Save,
+402 @ 2024-01-06-17-19-31.json,1,1,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/button[1],,button,,,button,MarvelsGrantMan136,
+402 @ 2024-01-06-17-19-31.json,3,3,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/ul[1]/li[5]/a,,,,,a,User settings,
+402 @ 2024-01-06-17-19-31.json,5,5,mouseup,/html/body[1]/div[2]/aside[1]/section[1]/p[1]/a,,,,,a,Edit biography,
+402 @ 2024-01-06-17-19-31.json,7,7,mouseup,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2024-01-06-17-19-31.json,9,9,keystroke,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2024-01-06-17-19-31.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/form[1]/div[2]/button,,,,,button,Save,
+402 @ 2024-01-06-18-26-07.json,1,1,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/button[1]/strong[1],,,,,strong,MarvelsGrantMan136,
+402 @ 2024-01-06-18-26-07.json,3,3,mouseup,/html/body[1]/nav[2]/div/ul[1]/li[3]/ul[1]/li[3]/a,,,,,a,Profile,
+402 @ 2024-01-06-18-26-07.json,5,5,mouseup,/html/body[1]/div[2]/aside[1]/section[1]/p[1]/a/span[2],,,,,span,Edit biography,
+402 @ 2024-01-06-18-26-07.json,7,7,mouseup,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2024-01-06-18-26-07.json,9,9,keystroke,//*[@id='user_biography_biography'],,,,,textarea,,Seeking SDE positions
+402 @ 2024-01-06-18-26-07.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/form[1]/div[2]/button,,,,,button,Save,

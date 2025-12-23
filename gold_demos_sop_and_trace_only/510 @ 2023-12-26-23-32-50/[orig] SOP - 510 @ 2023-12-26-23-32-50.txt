@@ -1,0 +1,13 @@
+Buy the best rating product from \"Home Audio Speaker\" category with at least 5 reviews and the product is least expensive.
+1. Click on the "Electronics" option at the right of the "Patio, Lawn & Garden" option at the top.
+2. Click on the blue "Home Audio" link at the left of the screen under "Category".
+3. Click on the blue "Speakers" link at the left of the screen under "Shopping Options Category".
+4. Click on the "Sort By" dropdown menu at the right of the screen.
+5. Click on the "Price" option in the "Sort By" dropdown menu.
+6. Scroll down until you see the "Atlantic Technology FS-7" product with 5 start and 7 reviews.
+7. Click on the blue "Add to Cart" button under the "Atlantic Technology FS-7" product which costs $10.27, has 5 stars and 7 reviews.
+8. Scroll up until you see the green text with green background with the blue "shopping cart" link.
+9. Click on the blue "shopping cart" link at the top of the screen which has a green background.
+10. Click on the blue "Proceed to Checkout" button at the right of the screen under "Summary".
+11. Click on the blue "Next" button under the "Shipping Methods" section.
+12. Clcik on the blue "Place Order" button left to the "Ship To:" section.

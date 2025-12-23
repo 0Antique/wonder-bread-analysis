@@ -1,0 +1,11 @@
+List the customer names who complain about the quality of EYZUTAK phone cases
+1. In the top right corner, click on the button denoted by the text "Advanced Search".
+2. Click into the search bar denoted by "product Name". 
+3. Type "EYZUTAK".
+4. Press enter.
+5. Click on the first available product.
+6. Scroll until reaching the "reviews" tab, next to the grey "details" tab.
+7. Click on "reviews".
+8. Scroll through reviews.
+9. At the bottom of the "reviews" section, click the grey arrow to advance to the next page of reviews.
+10. Scroll through remaining reviews to find customer names who complain about quality.

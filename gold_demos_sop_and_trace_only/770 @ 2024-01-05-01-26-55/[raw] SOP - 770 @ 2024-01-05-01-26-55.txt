@@ -1,0 +1,15 @@
+We've received 12 white Cora parachute pant of size 28 and 56 blue of size 29, update the inventory.
+1. Navigate to the sidebar located on the left side of the screen
+2. Click on the "Catalog" section to reveal the pop-out menu
+3. Click on the "Products" button to reveal the "Products" page
+4. Identify and click on the "Search by keyword" search bar and type in "Cora parachute pant"
+5. From the list, identify and click on the "Cora parachute pant" item of color white and size 28
+6. Identify the "Quantity" textbox and type in 12 + 100 (112)
+7. Click the orange "Save" button in the top right of the page
+8. From the list, identify and click on the "Cora parachute pant" item of color blue and size 29
+6. Identify the "Quantity" textbox and type in 56 + 100 (156)
+7. Click the orange "Save" button in the top right of the page
+
+
+
+

@@ -1,0 +1,16 @@
+Rate my recent purchase of floor lamp with 5 stars, using my nickname Emma Lopez.
+1. Click on the blue "My Account" link at the top of the screen.
+2. Click on the "My Orders" option in the gray left side bar under the highlighted "My Account" option.
+3. Click on the blue "View Order" link corresponding to the order 000000170.
+4. Click on the highlighted "My Orders" option in the left side bar under the "My Account" option.
+5. Click on the blue "View Order" link corresponding to the order 000000189.
+6. Search on the top search bar for "B00J8RZL7I".
+7. Click on the magnifying glass in the top search bar to search for the product.
+8. Click on the lamp shown as the only product.
+9. Click on the blue "Be the first to review this product" link under the "IN STOCK" text.
+10. Double click on the "Nickname" input text to select all the text written.
+11. Type "Emma Lopez" in the Nickname input field.
+12. Click on the fifth gray start from left to right at the right of the "Your Rating" text.
+13. Type "Good product" in the "Summary" input field.
+14. Type "Good product" in the "Review" input field.
+15. Click on the gray "Submit Review" button at the bottom of the screen.

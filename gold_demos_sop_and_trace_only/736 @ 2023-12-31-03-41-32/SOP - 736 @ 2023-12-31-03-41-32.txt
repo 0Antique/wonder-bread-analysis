@@ -1,0 +1,17 @@
+To Make the LICENSE of gimmiethat.space and dotfiles to MIT license yourself:
+
+1. Click into the search bar at the top left of the page, with a purple background.
+2. Type in the name of the first repo that the user wants to update (gimmiethat.space).
+3. Press enter.
+4. Click on the most relevant search result, i.e. the desired repo which we can edit. We can edit a repo if we are, for example, its owner or a developer, which we can know based on the “Owner” or “Developer” tag appearing to the right of the repo’s title.
+5. If the project already has the MIT license, we don’t need to change anything. If not, follow steps 10-15 to update the license (and come back here when you are done).
+6. Now we do the second repo. Click into the search bar at the top left of the page, with a purple background.
+7. Type in the name of the next repo that the user wants to update (dotfiles).
+8. Press enter.
+9. Click on the most relevant search result, i.e. the desired repo which we can edit. We can edit a repo if we are, for example, its owner or a developer, which we can know based on the “Owner” or “Developer” tag appearing to the right of the repo’s title.
+10. Click on the “Add LICENSE” button, located above the table of repo contents.
+11. Click on the “Apply a template” button at the top of the code editor box.
+12. Type in “MIT”, the type of the desired license.
+13. Press enter.
+14. Scroll to the bottom of the page.
+15. Click the blue button “Commit changes” near the bottom of the page.

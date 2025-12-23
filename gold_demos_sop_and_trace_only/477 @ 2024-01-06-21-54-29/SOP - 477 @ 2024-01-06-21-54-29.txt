@@ -1,0 +1,7 @@
+Set up a new, empty repository with the name awesome_program_aided_reasoning?
+1. Click the "New project" button in the upper right corner of the GitLab dashboard.
+2. On the "New Project" page, click on the "Create blank project" box.
+3. Type "awesome_program_aided_reasoning" in the "Project name" field.
+4. Verify that the "Project slug" auto-fills correctly.
+5. Select the "Visibility Level" radio button (Private, Internal, or Public).
+6. Click the "Create project" button towards the bottom

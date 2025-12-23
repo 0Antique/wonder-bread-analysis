@@ -1,0 +1,27 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+450 @ 2023-12-25-13-19-39.json,1,1,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/a[1],,,,,a,,
+450 @ 2023-12-25-13-19-39.json,3,3,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/div[1]/ul/li[4]/a,,,,,a,Edit profile,
+450 @ 2023-12-25-13-19-39.json,5,5,scroll,,,,,,,,
+450 @ 2023-12-25-13-19-39.json,7,7,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-25-13-19-39.json,9,9,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-25-13-19-39.json,11,11,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-25-13-19-39.json,13,13,keystroke,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-25-13-19-39.json,15,15,scroll,,,,,,,,
+450 @ 2023-12-25-13-19-39.json,17,17,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/form[1]/div[5]/div/button[1]/span,,,,,span,Update profile settings,
+450 @ 2023-12-27-11-11-36.json,1,1,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/a[1]/img[1],,,,,img,,
+450 @ 2023-12-27-11-11-36.json,3,3,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/div[1]/ul/li[4]/a,,,,,a,Edit profile,
+450 @ 2023-12-27-11-11-36.json,5,5,scroll,,,,,,,,
+450 @ 2023-12-27-11-11-36.json,7,7,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-27-11-11-36.json,9,9,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-27-11-11-36.json,11,11,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,https://helloworld.xyz
+450 @ 2023-12-27-11-11-36.json,13,13,keystroke,//*[@id='user_website_url'],,text,https://website.com,,input,,a11yproject.contributor.me
+450 @ 2023-12-27-11-11-36.json,15,15,scroll,,,,,,,,
+450 @ 2023-12-27-11-11-36.json,17,17,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/form[1]/div[5]/div/button[1]/span,,,,,span,Update profile settings,
+450 @ 2024-01-06-13-00-03.json,1,1,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/a[1]/img[1],,,,,img,,
+450 @ 2024-01-06-13-00-03.json,3,3,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[6]/div[1]/ul/li[4]/a,,,,,a,Edit profile,
+450 @ 2024-01-06-13-00-03.json,5,5,scroll,,,,,,,,
+450 @ 2024-01-06-13-00-03.json,7,7,mouseup,//*[@id='user_website_url'],,text,https://website.com,,input,,
+450 @ 2024-01-06-13-00-03.json,9,9,keystroke,//*[@id='user_website_url'],,text,https://website.com,,input,,
+450 @ 2024-01-06-13-00-03.json,11,11,scroll,,,,,,,,
+450 @ 2024-01-06-13-00-03.json,13,13,scroll,,,,,,,,
+450 @ 2024-01-06-13-00-03.json,15,15,keypress,//*[@id='user_website_url'],,text,https://website.com,,input,,https://a11yproject.contributor.me

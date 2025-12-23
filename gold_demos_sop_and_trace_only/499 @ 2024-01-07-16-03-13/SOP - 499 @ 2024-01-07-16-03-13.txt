@@ -1,0 +1,27 @@
+﻿Update order #304 with the USPS tracking number 13849373987
+
+
+
+
+1. Locate the "SALES" button under the "DASHBOARD” button located on the left side of the screen in the gray sidebar.
+2. Click on the "SALES" button.
+3. Click on the “Orders” button to reveal the “Orders” page.
+4. Locate the gray “Filters” button, to the left of the “Default View” button.
+5. Click on the gray “Filters” button.
+6. Locate the “ID” textbox on the left side of the screen, above the “Braintree Transaction Source” textbox.
+7. Click on the “ID” textbox to focus it.
+8. Type “304” to select our desired order 304.
+9. Identify the dark gray “Apply Filters” button on the bottom right of the screen, to the right of the blue “Cancel” text.
+10. Click on the dark gray “Apply Filters” button.
+10. Locate the blue “View” link at the right side of the pending order row, under the “Action” column.
+11. Click on the blue “View” link to view the order details.
+12.Identify the gray text in the header “Ship”, towards the right of the screen.
+13. Click on the gray text “Ship”.
+14. Scroll down to locate the light gray “Add Tracking Number” button in the “Payment & Shipping Method section”.
+15. Click on the light gray “Add Tracking Number” button to add our desired tracking number.
+16. Locate the dropdown menu titled “Custom Value” at the left of the “Add Tracking Number” region.
+17. Click on our desired shipping provider, “United States Postal Service”
+18. Identify the text box labeled “Number” at the right of the “Add Tracking Number” region.
+19. Click on the text box labeled “Number” to focus it.
+20. Type in our tracking number, “13849373987”.
+21. Click on the light gray “Add Tracking Number” button to finalize our entry.

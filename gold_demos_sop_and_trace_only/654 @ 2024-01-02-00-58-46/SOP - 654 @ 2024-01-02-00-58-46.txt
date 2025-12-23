@@ -1,0 +1,8 @@
+Fill the "contact us" form in the site for a refund on the bluetooth speaker I bought, stating that it broke after just three days of use. Also, ensure to include the order number #161 and the product SKU. Don't submit yet, I will check.
+1. On the top bar, click on "My Account".
+2. On the left menu, click on "My Orders".
+3. On row of the order number #161, click on "View Order" on the right side of the row.
+4. Copy the SKU of the "Bluetooth Speaker".
+5. Scroll to the bottom of the page.
+6. Click on the "Contact Us" link in the footer menu
+7. Under the "What's on your mind" textarea, type "I am requesting a refund for the bluetooth speaker I ordered with order number #161 and SKU B09P7BFL4H since it broke only after 3 days of use."

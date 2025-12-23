@@ -1,0 +1,12 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+42 @ 2023-12-25-18-00-18.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1],,,,,a,REPORTS,
+42 @ 2023-12-25-18-00-18.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[1]/div[1]/ul/li[2]/a/span,,,,,span,Search Terms,
+42 @ 2023-12-25-18-00-18.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+42 @ 2023-12-25-18-00-18.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+42 @ 2023-12-27-13-30-23.json,1,1,scroll,,,,,,,,
+42 @ 2024-01-05-03-58-03.json,1,1,scroll,,,,,,,,
+42 @ 2024-01-08-17-43-43.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1]/span,,,,,span,REPORTS,
+42 @ 2024-01-08-17-43-43.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[1]/div[1]/ul/li[2]/a/span,,,,,span,Search Terms,
+42 @ 2024-01-08-17-43-43.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/thead[1]/tr[1]/th[5],,,,,th,Hits,
+42 @ 2024-01-13-05-03-47.json,1,1,mouseup,//*[@id='reviewGrid_filter_detail'],,text,,,input,,best
+42 @ 2024-01-13-05-03-47.json,3,3,scroll,,,,,,,,

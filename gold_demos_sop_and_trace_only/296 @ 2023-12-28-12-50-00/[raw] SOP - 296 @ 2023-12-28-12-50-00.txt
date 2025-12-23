@@ -1,0 +1,6 @@
+To show me the command to clone the best GAN python implementation with SSH, do the following.
+1. Click on the gray "Explore" button (third from left).
+2. In the search box on the top right, enter the keyword "GAN".
+3. Click on the first search result.
+4. Click on the blue "Clone" button on the right hand side of the page.
+5. On the dropdown, under the "clone with SSH" section, click the little clipboard icon to the right of the textbox. This is the command to clone ChatGPT with SSH.

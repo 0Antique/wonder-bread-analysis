@@ -1,0 +1,3 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to check out the user’s todos:
+
+1. Click the todos button, which is an icon that looks like a box with a check in it, located directly to the right of the merge requests button.

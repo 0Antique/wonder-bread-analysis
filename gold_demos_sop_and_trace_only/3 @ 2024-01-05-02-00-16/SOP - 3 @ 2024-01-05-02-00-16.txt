@@ -1,0 +1,9 @@
+What are the top-2 best-selling product in 2022
+1. Navigate to the sidebar located on the left side of the screen
+2. Click on the "Reports" section to reveal the pop-out menu
+3. Click on the "Bestsellers" button in the "Products" section of the pop-out menu, to reveal the "Bestsellers Report" page
+4. Locate the "Period" section on the page, and click on the dropdown menu, and click on "Year" to set the period as Year
+5. Click on the "From" textbox and type in the first day of our timeframe: 01/01/2022
+6. Click on the "To" textbox and type in the last day of our timeframe: 12/31/2022
+7. Click on the orange "Show Report" button which can be found on the top right of the page
+8. Scroll down to find the report and locate the correct information to answer the question

@@ -1,0 +1,12 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find customers who have expressed dissatisfaction with tanks products:
+
+1. Click on the “MARKETING” button in the dark gray column on the left hand side of the page.
+2. Click on “All Reviews” in the pop up menu, located under the bolded heading “User Content”.
+3. Click into the search box below the column heading “Product”.
+4. Type in “tank”.
+5. Press enter.
+6. Since we have 27 results, which we can see above the “Created” column heading, we will make it easier for us to see all reviews by displaying them all on one page.
+7. Click on the items per page drop down button, located above the “Review” column of the review table.
+8. Select “30” from the drop down menu.
+9. Scroll down through each row of the product table.
+10. Return the names of customers dissatisfied with tank products. Each row is a separate review for a product with “tank” in its name. You can find customer names in the “Nickname” column of a given row, and you can find whether a customer is dissatisfied by analyzing the text in the “Title” and “Review” columns of a given row.

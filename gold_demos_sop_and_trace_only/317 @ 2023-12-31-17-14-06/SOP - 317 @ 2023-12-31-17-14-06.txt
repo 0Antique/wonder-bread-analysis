@@ -1,0 +1,8 @@
+List the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits
+1. Click on the third tab at the top "Explore".
+2. Click in the "Filter by name" search bar at the top.
+3. Type the keyword "metaseq".
+4. From the dropdown, click on the project title "Administrator / metaseq" near the top of the list.
+5. Click on the "Repository" tab near the top of the left sidebar to shown more options.
+6. From the dropdown, click on the fifth option "Contributors".
+7. Given the information, state the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits.

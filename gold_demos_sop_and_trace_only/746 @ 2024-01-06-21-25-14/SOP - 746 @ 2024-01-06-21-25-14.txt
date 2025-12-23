@@ -1,0 +1,18 @@
+Create a new private project "llm_bulk_inference" and add primer, convexegg, abishek as members
+1. Click the blue “New Project” button on the top right
+2. Click the “Create blank project” pane on the top left
+3. Click the text box under the black bold text “Project name” on the top left
+4. Type “llm_bulk_inference”
+5. Click the white circle left of “Private” in the middle of the screen
+6. Click the blue “Create Project” button on the bottom left of the screen
+7. Click the “Project Information” tab on the top left in white and black
+8. Click the white and black “members” tab on the top left under “Labels”
+9. Click the blue “Invite members” label on the top right to the right of “Invite group” 
+10. Type “primer”
+11. Click the avatar icon from the popup pane that has that name
+12. Click the text box under “Username or email address”
+13. Type “convexegg”
+14. Click the avatar icon from the popup pane that has that name
+15. Click the text box under “Username or email address”
+16. Type “abishek”
+17. Click the blue “Invite” button on the bottom right of this popup window inside the shaded area 

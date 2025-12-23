@@ -1,0 +1,8 @@
+Show me the command to clone the best GAN python implementation with SSH.
+1. Click into the search bar located at the top left of the page, with a purple background.
+2. Type in the key word(s) of the desired repo.
+3. Press enter.
+4. Click on the name of the best relevant search result, i.e. the name of the desired repository. The best relevant repository is the one with the greatest number of stars and which has a title and description which closely matches the user's request.
+5. Click on the blue “Clone” button, located near the center right of the page.
+6. Click the clipboard symbol to the right of the text box under the bolded text “Clone with SSH”. This copies the text.
+7. “git clone “ prepended to the copied text is the desired SSH command.

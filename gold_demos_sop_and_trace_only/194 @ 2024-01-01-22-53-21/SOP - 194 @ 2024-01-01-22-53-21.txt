@@ -1,0 +1,7 @@
+Get the total payment amount of the last 5 completed orders
+1. On the left menu, click on "Sales".
+2. From the popped up sub-menu, click on "Orders".
+3. Click on the "Filters" button placed on the top-right of the table.
+4. Under the "Status" section, click on the dropdown.
+5. Select "Complete" from the dropdown.
+6. From the displayed table, report the total payment amount of the last 5 completed orders.

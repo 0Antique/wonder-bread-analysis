@@ -1,0 +1,5 @@
+To show me the usernames of people who have access to my repo "prism-theme", do the following.
+1. In the purple "Search Gitlab" box on the very top left of the page, type in "prism-theme".
+2. Select the option under "Projects" that shows up in the dropdown.
+3. On the left sidebar, click on the first button "Project information".
+4. On the screen, you'll see the usernames of the people in gray, starting with the "@" symbol.

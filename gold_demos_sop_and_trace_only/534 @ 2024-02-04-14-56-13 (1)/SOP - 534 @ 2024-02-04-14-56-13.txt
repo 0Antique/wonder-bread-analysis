@@ -1,0 +1,13 @@
+Follow ['Jakub Klinkovský', 'Koushik', 'Vinta Chen'] on Gitlab
+1. Tap the search bar located at the top left corner.
+2. Look up the user "Jakub Klinkovsk√Ω" using the search bar.
+3. Choose "Jakub Klinkovsk√Ω" from the dropdown list.
+4. If there's a "Follow" button available, click it. If it displays "Unfollow," do not make any changes.
+5. Return to the search bar at the top left.
+6. Search for the user "Koushik" in the search bar.
+7. Select "Koushik" from the dropdown menu.
+8. Click the "Follow" button if it's present. If it indicates "Unfollow," leave it unchanged.
+9. Go back to the search bar at the top left.
+10. Enter "Vinta Chen" into the search bar.
+11. Pick "Vinta Chen" from the dropdown options.
+12. If there is a "Follow" button visible, click it. If it reads "Unfollow," maintain the current state.

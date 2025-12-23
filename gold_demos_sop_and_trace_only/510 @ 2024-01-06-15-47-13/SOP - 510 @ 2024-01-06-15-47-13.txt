@@ -1,0 +1,9 @@
+Buy the best rating product from "Home Audio Speaker" category with at least 5 reviews and the product is least expensive
+1. Click on "Electronics" on the second row of the Grey top bar
+2. Click on shopping category "Home audio" on the left
+3. Click on subsection "speakers"
+4. On the right dropdown sort by "Price"
+5. Page through the listings and select the first speaker with 5 reviews
+6. Click on "add to cart"
+7. Select shipping method and payment method
+8. Click on "Place order"

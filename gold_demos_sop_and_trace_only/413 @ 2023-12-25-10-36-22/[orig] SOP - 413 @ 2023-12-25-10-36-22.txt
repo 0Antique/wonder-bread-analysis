@@ -1,0 +1,12 @@
+Make the LICENSE of byteblaze/a11y-syntax-highlighting to one that mandates all copies and derivative works to be under the same license.
+1. Search in the top bar for "a11y-syntax-highlighting".
+2. Click on the "a11y-syntax-highlighting" project.
+3. Scroll down until you see the LICENSE.txt file.
+4. Click on the LICENSE.txt file.
+5. Click on the blue dropdown menu right to the "Edit/Open in Web IDE" button.
+6. Click on the blue "Edit" option.
+7. Click on the blue "Edit" button left to the dropdown menu.
+8. Click on the "Apply a template" dropdown menu.
+9. Type "general" in the "Filter" input box.
+10. Select the "GNU General Public License" option under "Popular".
+11. Click on the blue "Commit changes" button.

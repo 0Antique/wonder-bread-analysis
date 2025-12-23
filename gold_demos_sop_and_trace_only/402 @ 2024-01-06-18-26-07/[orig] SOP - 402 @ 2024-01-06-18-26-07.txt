@@ -1,0 +1,6 @@
+Change my reddit bio to "Freelance Web Developer"
+1. In the top right corner, click your username (it's the rightmost button in the header and has a person icon).
+2. In the dropdown menu that appears, click "profile"
+3. On the right side, there is button with a pencil icon that says "Edit biography". Click that.
+4. Under the header "Biography", there is a large textbox that may have text in it. Select all the text and delete it, and replace it with the desired bio.
+5. Underneath, click the red "Save" button.

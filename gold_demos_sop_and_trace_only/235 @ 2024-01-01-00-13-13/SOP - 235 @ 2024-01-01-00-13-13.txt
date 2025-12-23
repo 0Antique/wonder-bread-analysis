@@ -1,0 +1,4 @@
+Get the order number of my most recent order 
+1. Click on the "My Account" button. This button is found at the top right-hand corner of the homepage. If you cannot see it immediately, scroll to the very top of the homepage to bring it into view.
+2. Click on "My Orders" in the sidebar menu on the left side of the screen. This option is usually positioned towards the top of the list. The sidebar is a light grey to make it identifiable from the rest of the page.
+3. Scroll to identify the most recent order. To identify the order number of your most recent order, look at the first row of the table under the "Order #" column. We can expect the orders to be in chronological order, with the most recent order displayed first. This means the most recent order should be the first order in the list.

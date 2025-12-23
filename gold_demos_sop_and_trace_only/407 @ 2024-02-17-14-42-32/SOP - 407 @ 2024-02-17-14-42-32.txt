@@ -1,0 +1,7 @@
+Upvote the newest post in deeplearning subreddit
+1. Click on "Forums" in the top left of the top menu
+2. Click through each page and scroll down until "deeplearning" is visible
+3. Click on "deeplearning"
+4. Click on "Hot"
+5. Click on "New" from the dropdown.
+6. Click on the up arrow to the left of the title of the first post

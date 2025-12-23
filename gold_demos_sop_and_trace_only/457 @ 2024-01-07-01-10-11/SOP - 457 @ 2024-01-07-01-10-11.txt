@@ -1,0 +1,8 @@
+Disable Karmen yoga pants from the site, they are facing some quality issues.
+1. Click on "Catalog" located on the left side gray bar
+2. Click on "Products"  from the submenu
+3. Type in "Karmen yoga pant" in the search box above the table
+4. Press enter. 
+5. Check “Select all”
+6. From the “actions” drop down menu, select “change status”
+7. From the submenu select "disable"

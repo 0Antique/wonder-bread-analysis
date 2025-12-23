@@ -1,0 +1,12 @@
+Presents the monthly count of successful orders from May to December 2022 in MM:COUNT format
+1. Click on 'REPORTS' in the left sidebar.
+2. Click on 'Orders' under 'Sales' in the popup window.
+3. Click on the dropdown box next to 'Period'.
+4. Click on 'Month' in the dropdown list.
+5. Type '5/1/22' in the 'From' text box.
+6. Type '12/31/22' in the 'To' text box.
+7. Click on the dropdown box next to 'Order Status'.
+8. Click on 'Specified' in the dropdown list.
+9. Click on 'Completed' from the list of order status types.
+10. Click on the 'Show Report' orange button at the top right.
+11. Scroll down to see the table showing the monthly counts of successful orders.

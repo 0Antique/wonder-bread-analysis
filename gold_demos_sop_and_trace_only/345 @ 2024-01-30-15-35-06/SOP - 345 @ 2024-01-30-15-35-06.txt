@@ -1,0 +1,7 @@
+How many reviews our shop received in Apr 2023?
+1. Click the "Marketing" tab in the gray sidebar on the left of the screen.
+2. Click on "All Reviews" in the bottom right of the dropdown.
+3. Under the "Created" column of the table, enter in "04/01/2023" into the first empty text box.
+4. In the second empty text box under the "Created" column, enter in "04/30/2023".
+5. Press enter.
+6. The number of "records found" (shown near the top left of the table) is the number of reviews received in Apr 2023.

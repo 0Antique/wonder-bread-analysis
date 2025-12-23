@@ -1,0 +1,8 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the user’s most recent canceled order:
+
+1. Click on the blue text "My Account" at the top of the page.
+2. Click on the "My Orders" tab in the light gray column on the leftmost side of the page.
+3. Scroll down to the next page button for the order table, located directly below the order table and to the right of the page numbers.
+4. Click the next page button.
+5. Click on the blue text “View Order” for the order placed on 5/17/23.
+6. The order placed on 5/17/23 is the user’s latest canceled order.

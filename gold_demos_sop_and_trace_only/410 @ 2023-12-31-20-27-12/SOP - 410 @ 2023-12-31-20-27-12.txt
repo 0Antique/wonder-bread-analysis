@@ -1,0 +1,8 @@
+Reply to the first reply in this post with "don't panic"
+
+1. Scroll down to the desired reply, in this case the first reply to the post. The first reply to the post is the first post directly under the tab “Nested”.
+2. Click on the red “Reply” button of the desired reply, located directly below the reply text and to the right of the reply’s down arrow. This opens up the reply text box.
+3. Click into the reply text box, directly below the “Reply” button. This focuses the text box.
+4. Type in the desired message, in this case “don’t panic”.
+5. If necessary, scroll down to the red “Post” button, located directly below the “Preview” box and the text “Markdown allowed.”.
+6. Press the red “Post” button, located directly below the “Preview” box and the text “Markdown allowed.”, to post the desired reply.

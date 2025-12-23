@@ -1,0 +1,5 @@
+Check out the most recent open issues
+1. On the left bar, click on "Issues".
+2. On the top right corner of the table, make sure to select "Updated date" from the dropdown.
+3. On the top right corner of the table, make sure to click on the sort icon with an arrow and 3 lines till it says "Sort direction : Descending".
+4. From the given information, check out the most recent open issues.

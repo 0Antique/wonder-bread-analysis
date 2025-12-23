@@ -1,0 +1,10 @@
+Delete all reviews from the scammer Arden
+1. On the left sidebar, click on "Marketing".
+2. Out of the available options click on "Pending Reviews".
+3. Click on the Nickname textbox in the header of the column to focus it.
+4. Type in "Arden".
+5. From the list, check the first column.
+6. On the top of the table, click on the "Actions" dropdown and click on the dropdown menu.
+7. Select "Delete" from the dropdown.
+8. Click on "Submit" button next the dropdown.
+9. Confirm our deletions with the gray "Ok" button.

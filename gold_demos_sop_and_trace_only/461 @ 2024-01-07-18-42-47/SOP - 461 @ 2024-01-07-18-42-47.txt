@@ -1,0 +1,4 @@
+Increase the price of this product by $11.5
+1. Click on the "Price" text field, and note the price.
+2. Replace the existing text with the new price -- $38.50.
+3. Click on the orange "Save" button at the top right of the screen.

@@ -1,0 +1,16 @@
+Create a new private project "planner" and add Abishek, Vinta as members:
+
+1. Click the create new button, which is an icon of a plus button, located at the top of the page.
+2. Click “New project/repository” in the pop-up menu.
+3. Click “Create blank project”.
+4. Click into the “Project name” text box, located directly under the bolded text “Project name”.
+5. Type in the desired project name: “planner”.
+6. Click the blue “Create project” button, located near the bottom of the page.
+7. Click on “Project information”, near the top left of the page.
+8. Click on “Members”, listed under “Project information” near the top left of the page.
+9. Click the blue “Invite members” button, located near the top right of the page.
+10. Type in the name of the first member you want to add: Abishek.
+11. Click the dropdown item corresponding to the user that appears below the user textbox.
+12. Type in the name of the second member you want to add: Vinta.
+13. Click the dropdown item corresponding to the user that appears below the user textbox.
+14. Click the blue “Invite” button, located near the bottom right of the pop-up box.

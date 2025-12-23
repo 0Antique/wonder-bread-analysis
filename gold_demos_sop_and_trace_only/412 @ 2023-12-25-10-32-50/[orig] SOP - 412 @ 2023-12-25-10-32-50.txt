@@ -1,0 +1,12 @@
+Make the LICENSE of byteblaze/accessible-html-content-patterns to Apache License
+1. Use the searchbar at the top of the page to search for "accessible-html-content-patterns".
+2. Click on the "accessible-html-content-patterns" project in the dropdown that appears below the searchbar.
+3. Scroll down until you see a file named "LICENSE".
+4. Click on "the LICENSE" file.
+5. Click on the blue dropdown menu next to the button that says "Edit".
+6. Click on the "Edit" option that appears in the dropdown.
+7. Click on the blue "Edit" button.
+8. Click on the dropdown menu above the textarea that says "Apply a template".
+9. Type "apache" in the textfield called "Filter" that appears.
+10. Select the "Apache License 2.0" option that appears under the bold header "Popular".
+11. After the license has been updated, click on the blue "Commit changes" button at the bottom left of the screen to save your work.

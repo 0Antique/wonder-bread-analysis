@@ -1,0 +1,13 @@
+I recently moved, my address is 231 Willow Way, Suite 100, Chicago, IL, 60601, update my information on OneStopShopping accordingly.
+1. Click on the blue "My Account" link at the top of the screen.
+2. Click on the blue "Edit Address" link under "Default Billing Address".
+3. Triple click to select everything in the "Street Address" field.
+4. Type the street address "231 Willow Way, Suite 100" in the "Street Address" field.
+5. Click on the "State/Province" dropdown menu.
+6. Click on "Illinois" in the "State/Province" dropdown menu.
+7. Double click on the "City" field to select everything.
+8. Type the city "Chicago" in the "City" input box.
+9. Scroll down until you see the blue "Save Address" button.
+10. Double click on the "Zip/Postal Code" input.
+11. Type the postal code "60601" in the "Zip/Postal Code" input box.
+12. Click on the blue "Save Address" button.

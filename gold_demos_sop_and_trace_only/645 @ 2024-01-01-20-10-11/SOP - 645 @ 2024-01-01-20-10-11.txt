@@ -1,0 +1,5 @@
+Post in books subreddit about what could machine learning help the correpong field.
+1. In the red header at the top of the screen, click on the "Submit" button with the plus sign to the left of it
+2. Locate and click on the "Title" textbox and type in "How could machine learning help the books field?"
+3. Locate and click on the "Forum" drop-down menu and locate and click on "books", by typing in "books"
+4. Click on the red "Create submission" button at the bottom

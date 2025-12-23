@@ -1,0 +1,8 @@
+Update the product description of Antonia Racer Tank to highlight the real user positive reviews by quoting the comments
+1. Click on "Marketing" located on the left side gray bar
+2. Click on "All reviews"  from the submenu
+3. Type in "Antonia Racer Tank" in the product field
+4. Press enter. 
+5. Click on the first review
+6. In the review details click the blue link to the product "Antonia Racer Tank"
+7. Update the product description field

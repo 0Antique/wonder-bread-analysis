@@ -1,0 +1,13 @@
+Which customer has placed 2 orders in the entire history?
+1. Click on "Reports" in the left bar of the page.
+2. Click on "Order Count" under the "Customers" tab.
+3. In the "From" field, click on the calendar icon.
+4. From the calendar, click on the dropdown next to the year, and select the earliest year in the list, which is "1923".
+5. For the month, select January from the month dropdown.
+6. For the date, select 1, the first date in January.
+7. In the "To" field, click on the calender icon.
+8. Click on today's date.
+9. Click on the "Show By" dropdown.
+10. Click on "Year".
+11. Click on the "Refresh" button next to the filter list.
+12. From the displayed information, report the customer(s) who has placed 2 orders in the entire history.

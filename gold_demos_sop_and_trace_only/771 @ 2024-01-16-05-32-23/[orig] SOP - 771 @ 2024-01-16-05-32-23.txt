@@ -1,0 +1,16 @@
+Approve the positive reviews to display in our store.
+1. Click on the “MARKETING” button in the dark gray column on the left hand side of the page.
+2. Click on “Pending Reviews” in the pop up menu, located under the heading “User Content”.
+3. Scroll down to view all reviews in the review table.
+4. We will edit the positive reviews to approve them. Each row has data on a single review. You can tell whether a review is positive based on the content in “Title” and “Review” columns of a given row.
+5. Click the blue text “Edit” in the rightmost column of the desired review.
+6. Click on the Status box, located directly to the right of the bolded text “Status”.
+7. Click “Approved” in the pop-up menu.
+8. Click the orange “Save Review” button near the top of the page.
+9. Scroll down to the next relevant review.
+10. Click the blue text “Edit” in the rightmost column of the desired review.
+11. Click on the Status box, located directly to the right of the bolded text “Status”.
+12. Click “Approved” in the pop-up menu.
+13. Click the orange “Save Review” button near the top of the page.
+14. Scroll down to see if there are any more relevant reviews.
+15. Since there are no more relevant reviews, we are done.

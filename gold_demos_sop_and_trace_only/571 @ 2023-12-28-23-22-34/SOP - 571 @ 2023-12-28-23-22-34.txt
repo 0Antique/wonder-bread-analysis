@@ -1,0 +1,9 @@
+I recently moved, my address is 231 Willow Way, Suite 100, Chicago, IL, 60601, update my information on OneStopShopping accordingly
+1. At the top of the screen, click the "My Account" button, written in blue text
+2. Next, locate the "Address Book" section at the middle of the screen and click the blue "Edit Address" button at the bottom
+3. Click the "Street Address" textbox and type in "231 Willow Way"
+4. Click the textbox below it and type in "Suite 100"
+5. Click the "State/Province" textbox and locate and click on "Illinois"
+6. Click the "City" textbox and type in "Chicago"
+7. Click the "Zip/Postal Code" textbox and type in "60601"
+

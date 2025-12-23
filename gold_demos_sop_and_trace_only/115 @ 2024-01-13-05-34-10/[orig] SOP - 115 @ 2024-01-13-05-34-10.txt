@@ -1,0 +1,17 @@
+Show me the name of the customers who have expressed dissatisfaction with Chloe tank
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the bolded heading “Catalog”.
+3. Click into the search box, located above the products table.
+4. Type in “Chloe tank”.
+5. Press enter.
+6. Since there were no products found, we will modify our search query.
+7. Delete “ jacket”.
+8. Press enter.
+9. Click on the product name of the relevant product. The product name is located in the “Name” column of the given row.
+10. Scroll down to the “Product Reviews” section.
+11. Click on the “Product Reviews” section to expand its contents.
+12. Scroll down to view all reviews.
+13. The reviews that express dissatisfaction can be found in this reviews table. Expressions of dissatisfaction can be found in the meaning of text in the “Title” and “Review” columns of a given row.
+14. Since a review of interest by a user with a nickname doesn’t include their full name, we will try to find this user’s full name.
+15. Click on the blue text “Edit”, located in the rightmost column of the row containing the review of interest.
+16. The user’s full name is not displayed. Hence, we will simply record their nickname, located in the box directly to the right of the bolded text “Nickname”.

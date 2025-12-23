@@ -1,0 +1,12 @@
+What are the top-3 best-selling product in Jan 2023
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page.
+2. Click on “Bestsellers” in the pop up menu, located under the heading “Products”.
+3. Click on the period drop down button, which is the box directly to the right of the bolded text "Period".
+4. Click "Month" in the pop up menu, directly below the option "Day".
+5. Click into the “From” text field.
+6. Type in “1/1/23”.
+7. Click into the “To” text field, located directly below the “From” text field.
+8. Type “1/31/23”.
+9. Click the orange “Show Report” button located in the top right hand side of the page.
+10. Scroll down through each row of the report. While scrolling, keep track of which three products have sold the greatest quantity. The quantity for each product is found in the “Order Quantity” column of the bestsellers table, on the right hand side of the page. The name of the product is found in the “Product” column of the Bestsellers table.
+11. The three products that have the top three greatest total order quantities are the top 3 best selling products in Jan 2023.

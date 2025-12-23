@@ -1,0 +1,4 @@
+Telll me the grand total of invoice 000000001.
+1. Click on "Sales" in the left bar.
+2. Click on "Invoices" in the popped up sub menu.
+3. From the given table, report the grand total of invoice 000000001.

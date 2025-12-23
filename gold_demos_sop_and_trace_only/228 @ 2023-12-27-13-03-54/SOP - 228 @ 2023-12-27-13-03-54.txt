@@ -1,0 +1,8 @@
+What is the price range for products from sephora?
+1. Click the blue "Advanced Search" button located under the larger search bar on the top right of the page.
+2. Enter "Sephora" in the "Product Name" box.
+3. Click the blue "Search" button.
+4. Select the "Sort By" box and click "Price" on the dropdown.
+5. The price under the first item (bolded text, above the blue "Add to Cart" button) is the lower bound of the price range.
+6. Click the up arrow (located on the right of the sort by box) to switch it to a down arrow.
+7. The price under the first item that says "Sephora" in the title (price is in bolded text, above the blue "Add to Cart" button) is the upper bound of the price range.

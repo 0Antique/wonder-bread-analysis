@@ -1,0 +1,4 @@
+List the top 2 search terms in my store
+1. Scroll down to the bottom of the page.
+2. Observe the table with the bolded title “Top Search Terms”.
+3. The words in the first and second rows of the table, located in the “Search Term” column of the table, are the top 2 search terms in the user’s store.

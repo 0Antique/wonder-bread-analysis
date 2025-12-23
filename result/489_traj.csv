@@ -1,0 +1,31 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+489 @ 2023-12-28-10-38-09.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/a[1],,,,,a,CONTENT,
+489 @ 2023-12-28-10-38-09.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/div[1]/ul[1]/li[1]/div[1]/ul/li[1]/a,,,,,a,Pages,
+489 @ 2023-12-28-10-38-09.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/button[1],,,,,button,Select,
+489 @ 2023-12-28-10-38-09.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/ul[1]/li[1]/a,,,,,a,Edit,
+489 @ 2023-12-28-10-38-09.json,9,9,mouseup,//*[@id='PJWH2XD'],,text,,,input,,Privacy Policy
+489 @ 2023-12-28-10-38-09.json,11,11,mouseup,//*[@id='PJWH2XD'],,text,,,input,,Privacy Policy
+489 @ 2023-12-28-10-38-09.json,13,13,mouseup,//*[@id='PJWH2XD'],,text,,,input,,Privacy Policy
+489 @ 2023-12-28-10-38-09.json,15,15,keystroke,//*[@id='PJWH2XD'],,text,,,input,,Privacy Policy
+489 @ 2023-12-28-10-38-09.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[2]/div/div/div[1]/button[1]/span,,,,,span,Save,
+489 @ 2023-12-29-16-46-00.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/a[1],,,,,a,CONTENT,
+489 @ 2023-12-29-16-46-00.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/div[1]/ul[1]/li[1]/div[1]/ul/li[1]/a/span,,,,,span,Pages,
+489 @ 2023-12-29-16-46-00.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[3]/div,,,,,div,Privacy Policy,
+489 @ 2023-12-29-16-46-00.json,7,7,mouseup,//*[@id='L2WBVB7'],,text,,,input,,Privacy Policy
+489 @ 2023-12-29-16-46-00.json,9,9,keystroke,/html/body[1]/div[1]/nav[1]/ul/li[6]/a[1],,,,,a,CONTENT,
+489 @ 2023-12-29-16-46-00.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[6]/td/button[2]/span,,,,,span,Save,
+489 @ 2024-01-06-20-50-06.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/a[1],,,,,a,CONTENT,
+489 @ 2024-01-06-20-50-06.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/div[1]/ul[1]/li[1]/div[1]/ul/li[1]/a/span,,,,,span,Pages,
+489 @ 2024-01-06-20-50-06.json,5,5,scroll,,,,,,,,
+489 @ 2024-01-06-20-50-06.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/button[1],,,,,button,Select,
+489 @ 2024-01-06-20-50-06.json,9,9,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/ul[1]/li[1]/a,,,,,a,Edit,
+489 @ 2024-01-06-20-50-06.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[1]/div/fieldset/div[3]/div[1],,,,,div,Page Title,
+489 @ 2024-01-06-20-50-06.json,13,13,keystroke,//*[@id='html-body'],,,,,body,"DASHBOARD\nSALES\nCATALOG\nCUSTOMERS\nMARKETING\nCONTENT\nREPORTS\nSTORES\nSYSTEM\nFIND PARTNERS & EXTENSIONS\n \nSystem Messages: 15\nView Details\nTask ""Update attributes for 2 selected products"": 1 item(s) have been successfully updated.\nThis is the home page!! Leave here!!\nadmin\n Back\nDelete Page\nSave\nYou saved the page.\n Enable Page\n Page Title\nContent \nSearch Engine Optimization \nPage in Websites \nDesign \nCustom Design Update \n\n Copyright © 2024 Magento Commerce Inc. All rights reserved.\n\nMagento ver. 2.4.6\n\nPrivacy Policy | Account Activity | Report an Issue",
+489 @ 2024-01-06-20-50-06.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[2]/div/div/div[1]/button[1]/span,,,,,span,Save,
+489 @ 2024-02-16-19-51-10.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/a[1],,,,,a,CONTENT,
+489 @ 2024-02-16-19-51-10.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[6]/div[1]/ul[1]/li[1]/div[1]/ul/li[1]/a,,,,,a,Pages,
+489 @ 2024-02-16-19-51-10.json,5,5,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/button[1],,,,,button,Select,
+489 @ 2024-02-16-19-51-10.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[10]/div/ul[1]/li[1]/a,,,,,a,Edit,
+489 @ 2024-02-16-19-51-10.json,9,9,mouseup,//*[@id='BVOL69Q'],,text,,,input,,Privacy Policy
+489 @ 2024-02-16-19-51-10.json,11,11,keystroke,//*[@id='BVOL69Q'],,text,,,input,,Privacy Policy
+489 @ 2024-02-16-19-51-10.json,13,13,mouseup,//*[@id='save-button'],,,,,button,Save,

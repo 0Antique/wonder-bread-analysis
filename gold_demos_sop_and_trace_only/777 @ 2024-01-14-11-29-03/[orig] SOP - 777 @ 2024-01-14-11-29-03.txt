@@ -1,0 +1,11 @@
+Reduce the price of green Hollister backyard sweater in all size by $5
+1. Click on 'CATALOG' in the left sidebar.
+2. Click on 'Products' in the popup window.
+3. Type 'hollister' in the 'Search by keyword' search box.
+4. Hit the 'return' key to filter 'hollister' products.
+5. Scroll down and click on the checkboxes of all green hollister sweatshirts.
+6. Click on the dropdown box 'Actions' under the 'Search' button.
+7. Click on 'Update Attributes' in the dropdown list.
+8. Scroll down and click on the 'Change' checkbox under 'Price'.
+9. Type the price that is $5 less than the original price of the products.
+10. Click on the 'Save' orange button on the top right.

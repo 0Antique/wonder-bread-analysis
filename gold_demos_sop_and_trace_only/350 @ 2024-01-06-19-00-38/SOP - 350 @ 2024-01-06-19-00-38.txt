@@ -1,0 +1,7 @@
+Who else have access to my repo prism-theme, show me their usernames
+1. Click on the search bar in the top right
+2. Type in "prism"
+3. From the results below, click on "Byte Blaze / solarized-prism-theme"
+4. Click on "Project Information" in the left sidebar.
+5. Click on "Members" in the left sidebar.
+6. List the information of users who have access.

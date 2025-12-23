@@ -1,0 +1,5 @@
+List the top 2 search terms in my store
+1. Click on 'REPORTS' in the left sidebar.
+2. Click on 'Search Terms' under 'Marketing'.
+3. Click on the 'Hits' column to sort by number of hits.
+4. Report the last 2 search terms, which have the highest number of hits.

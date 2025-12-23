@@ -1,0 +1,5 @@
+I recently moved, my address is 231 Willow Way, Suite 100, Chicago, IL, 60601, update my information on OneStopShopping accordingly
+1. go to "My Account"
+2. Click on "Update address"
+3. Under "Default shipping address" click on "change shipping address"
+4. Type in the address in the address filed and click submit

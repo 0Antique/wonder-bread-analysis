@@ -1,0 +1,7 @@
+Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
+1. Click on the "Merge requests" button on the top right of the sidebar.
+2. In the dropdown, click on "Assigned to you".
+3. Click on the merge request with "404" in the title.
+4. Scroll to the bottom of the page.
+5. Type "@RoshanJossy" in the  "Write a comment" box and click on the author name when it pops up.
+6. Press the blue "Comment" button below the box.

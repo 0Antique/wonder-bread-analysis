@@ -1,0 +1,26 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+216 @ 2023-12-29-16-08-48.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+216 @ 2023-12-29-16-08-48.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a,,,,,a,All Reviews,
+216 @ 2023-12-29-16-08-48.json,5,5,mouseup,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2023-12-29-16-08-48.json,7,7,keystroke,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2023-12-29-16-08-48.json,9,9,keypress,//*[@id='reviewGrid_filter_name'],,text,,,input,,electra
+216 @ 2023-12-31-16-12-31.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+216 @ 2023-12-31-16-12-31.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+216 @ 2023-12-31-16-12-31.json,5,5,mouseup,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2023-12-31-16-12-31.json,7,7,keystroke,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2023-12-31-16-12-31.json,9,9,keypress,//*[@id='reviewGrid_filter_name'],,text,,,input,,electra
+216 @ 2024-01-11-07-20-18.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+216 @ 2024-01-11-07-20-18.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a,,,,,a,All Reviews,
+216 @ 2024-01-11-07-20-18.json,5,5,mouseup,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2024-01-11-07-20-18.json,7,7,keystroke,//*[@id='reviewGrid_filter_name'],,text,,,input,,
+216 @ 2024-01-11-07-20-18.json,9,9,keypress,//*[@id='reviewGrid_filter_name'],,text,,,input,,electra bra top
+216 @ 2024-01-13-06-54-05.json,1,1,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/button[1]/span,,,,,span,Back,
+216 @ 2024-01-13-06-54-05.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1]/span,,,,,span,CATALOG,
+216 @ 2024-01-13-06-54-05.json,5,5,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a/span,,,,,span,Products,
+216 @ 2024-01-13-06-54-05.json,7,7,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+216 @ 2024-01-13-06-54-05.json,9,9,keystroke,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[5]/div[1],,,,,div,Product Reviews,
+216 @ 2024-01-13-06-54-05.json,11,11,keypress,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Electra bra top
+216 @ 2024-01-13-06-54-05.json,13,13,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[1]/td[4]/div,,,,,div,Electra Bra Top,
+216 @ 2024-01-13-06-54-05.json,15,15,scroll,,,,,,,,
+216 @ 2024-01-13-06-54-05.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[5]/div[1]/strong,,,,,strong,Product Reviews,
+216 @ 2024-01-13-06-54-05.json,19,19,scroll,,,,,,,,

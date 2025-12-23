@@ -1,0 +1,23 @@
+Update the description of Radiant Tee to highlight the real user positive reviews by quoting the comments.
+1. Click on the "CATALOG" option in the left side bar under the "Sales" option.
+2. Click on the "Products" option in the "Catalog" menu that appeared.
+3. Type "Radiant Tee" in the "Search by keyword" search bar.
+4. Click on the magnifying glass in the "Search by keyword" search bar.
+5. Scroll down until you see the product id 1556 corresponding to the product.
+6. Click on the blue "Edit" link in the "Action" column at the right of the screen for the product id 1556.
+7. Scroll down until you see the "Content" dropdown menu.
+8. Click on the "Content" dropdown menu.
+9. Scroll down until you see the "Product Reviews" dropdown section.
+10. Click on the "Product Reviews" dropdown section.
+11. Select the first review with review id 280.
+12. Type the command "ctrl + c" to copy the selected text.
+13. Scroll back up to the "Content" section.
+14. Type "This product has received positive reviews. Some examples of these are:\n".
+15. Type the command "ctrl + v" to paste the first review.
+16. Press enter to go to the next line.
+17. Scroll down until you see the "Product Reviews" dropdown section.
+18. Select the third review with review id 282.
+19. Type the command "ctrl + c" to copy the selected text.
+20. Scroll back up to the "Content" section.
+21. Type the command "ctrl + v" to paste the third review.
+22. Click on the orange "Save" button at the top right of the screen.

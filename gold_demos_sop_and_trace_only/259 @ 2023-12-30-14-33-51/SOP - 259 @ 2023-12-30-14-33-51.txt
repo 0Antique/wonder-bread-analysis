@@ -1,0 +1,6 @@
+Get me my RSS feed token
+1. Click on your profile circle in the upper right of the screen.
+2. Click on "Preferences"
+3. Select "Access Tokens" in the left sidebar.
+4. Scroll down to "Feed Token"
+5. Click the eye icon next to the asterisked feed token to reveal it.

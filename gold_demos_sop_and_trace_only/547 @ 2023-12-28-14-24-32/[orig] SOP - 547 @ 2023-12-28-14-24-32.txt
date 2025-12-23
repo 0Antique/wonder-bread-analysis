@@ -1,0 +1,16 @@
+Add a new color option brown to the size S of Phoebe Zipper Sweatshirt.
+1. Click on the "CATALOG" option in the left side bar under the "Sales" option.
+2. Click on the "Products" option in the "Catalog" menu that appeared.
+3. Type "Phoebe Zipper Sweatshirt" in the "Search by keyword" search bar.
+4. Click on the magnifying glass in the "Search by keyword" search bar.
+5. Scroll down until you see the product id 1130 corresponding to the product.
+6. Click on the blue "Edit" link in the "Action" column at the right of the screen for the product id 1130.
+7. Scroll down util you see the "Configurations" dropdown menu. 
+8. Click on the brown "Edit Configurations" button at the right of the screen in the "Configurations" section.
+9. Click on the orange "Next" button at the top right of the screen.
+10. Click on the "S" checkbox in the "Size" section under the "55 cm" checkbox.
+11. Click on the "Brown" checkbox at the right of the "Blue" checkbox in the "Color" section.
+12. Click on the orange "Next" button at the top right of the screen.
+13. Click on the orange "Next" button at the top right of the screen.
+14. Click on the orange "Generate Product" button at the top right of the screen.
+15. Click on the orange "Save" button at the top right of the screen.

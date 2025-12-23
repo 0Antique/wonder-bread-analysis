@@ -1,0 +1,13 @@
+To see all opened issues that don't have any labels yourself, follow these steps:
+
+1. On the left hand side, click the button labeled "issues" to see all the issues.
+
+2. You will be shown a search bar that has the text "Search or filter results..." Click on this search bar to search all the issues.
+
+3. After clicking on the search bar, you'll be shown a dropdown menu. Click the "label" option.
+
+4. You'll be shown another dropdown in the search bar. Click the "=" option.
+
+5. You'll be shown another dropdown in the search bar. Click the "None" option. 
+
+6. Click the "enter" key to search and see results.

@@ -1,0 +1,13 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the name of the customer who is most unhappy with the Antonia racer tank:
+
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the bolded heading “Catalog”.
+3. Click into the search box, located above the products table.
+4. Type in “Antonia racer tank”.
+5. Press enter.
+6. Click on the product name of the relevant product. The product name is located in the “Name” column of the given row.
+7. Scroll down to the “Product Reviews” section.
+8. Click on the “Product Reviews” section to expand its contents.
+9. Scroll down to view all reviews.
+10. Locate the customer who is most unhappy with the Antonia racer tank can be found in this reviews table. You can do this by observing the text found in the “Title” and “Review” columns of a given row.
+11. Record the name of the most unhappy customer. We can see this information in the “Nickname” column of the reviews table.

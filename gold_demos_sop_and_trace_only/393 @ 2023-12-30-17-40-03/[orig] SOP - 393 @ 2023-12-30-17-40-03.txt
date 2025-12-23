@@ -1,0 +1,11 @@
+Post "lgtm" for the merge request related to fixing the broken links in byteblaze/empathy-prompts project
+1. Click in the "Filter by name" box at the top right.
+2. Type in the keyword "empathy".
+3. Click on the "Byte Blaze / empathy-prompts" repository from the autocomplete menu.
+4. Click on the "Merge requests" tab from the left sidebar.
+5. Click on the title that contains the text "broken link" in bold font.
+6. Scroll down until the entire comment box is visible.
+7. Click inside the comment box.
+8. Type in the desired text "lgtm".
+9. Click the blue "Comment" button below.
+10. Thus, the desired post has been commented for the merge request related to fixing the broken links in byteblaze/empathy-prompts project.

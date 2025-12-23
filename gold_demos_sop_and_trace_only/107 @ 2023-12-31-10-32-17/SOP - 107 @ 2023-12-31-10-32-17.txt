@@ -1,0 +1,11 @@
+Presents the monthly count of successful orders from May to December 2022 in MM:COUNT format.
+1. Click on the "Reports" icon on the left gray sidebar.
+2. Click on "Order Count" under the "Customers" section in the submenu that appears.
+3. Click on the empty box corresponding to "From:".
+4. Type in "05/01/2022" to represent the start of the date range.
+5. Click on the empty box corresponding to "To:".
+6. Type in "12/31/2022" to represent the end of the date range.
+7. Click the down button to the right of "Show By" to open the dropdown.
+8. Click on "Month" in the dropdown menu.
+9. Click on the gray "Refresh" button to search.
+10. Given the information, present the monthly count of successful orders from May to December 2022 in MM:COUNT format.

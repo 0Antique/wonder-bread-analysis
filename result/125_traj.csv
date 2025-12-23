@@ -1,0 +1,70 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+125 @ 2023-12-27-12-53-48.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+125 @ 2023-12-27-12-53-48.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-27-12-53-48.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-27-12-53-48.json,7,7,mouseup,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-27-12-53-48.json,9,9,keystroke,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-27-12-53-48.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button/span,,,,,span,Search,
+125 @ 2023-12-27-12-53-48.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-27-12-53-48.json,15,15,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-27-12-53-48.json,17,17,scroll,,,,,,,,
+125 @ 2023-12-27-12-53-48.json,19,19,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[5]/div[1]/div[2]/a[1],,,,,a,Set Descending Direction,
+125 @ 2023-12-28-16-03-21.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+125 @ 2023-12-28-16-03-21.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-28-16-03-21.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-28-16-03-21.json,7,7,mouseup,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-28-16-03-21.json,9,9,keystroke,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-28-16-03-21.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button,,submit,,,button,Search,
+125 @ 2023-12-28-16-03-21.json,13,13,scroll,,,,,,,,
+125 @ 2023-12-28-16-03-21.json,15,15,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-28-16-03-21.json,17,17,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-28-16-03-21.json,19,19,scroll,,,,,,,,
+125 @ 2023-12-28-16-03-21.json,21,21,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[5]/div[1]/div[2]/a[1],,,,,a,Set Descending Direction,
+125 @ 2023-12-28-16-03-21.json,23,23,scroll,,,,,,,,
+125 @ 2023-12-31-17-48-28.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+125 @ 2023-12-31-17-48-28.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-31-17-48-28.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+125 @ 2023-12-31-17-48-28.json,7,7,mouseup,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-31-17-48-28.json,9,9,keystroke,//*[@id='description'],,text,,,input,,
+125 @ 2023-12-31-17-48-28.json,11,11,keypress,//*[@id='description'],,text,,,input,,teeth grinding
+125 @ 2023-12-31-17-48-28.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-31-17-48-28.json,15,15,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2023-12-31-17-48-28.json,17,17,scroll,,,,,,,,
+125 @ 2023-12-31-17-48-28.json,19,19,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[5]/div[1]/div[2]/a[1],,,,,a,Set Descending Direction,
+125 @ 2023-12-31-17-48-28.json,21,21,scroll,,,,,,,,
+125 @ 2024-01-08-01-44-34.json,1,1,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,3,3,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,
+125 @ 2024-01-08-01-44-34.json,5,5,keystroke,//*[@id='html-body'],,,,,body,"My AccountMy Wish List 5 items Sign Out  Welcome, Emma Lopez!\nSkip to Content\nMy Cart\nSearch\nAdvanced Search\nSearch\nBeauty & Personal Care\nSports & Outdoors\nClothing, Shoes & Jewelry\nHome & Kitchen\nOffice Products\nTools & Home Improvement\nHealth & Household\nPatio, Lawn & Garden\nElectronics\nCell Phones & Accessories\nVideo Games\nGrocery & Gourmet Food\nHome  Search results for: 'wireless earphone'\nSearch results for: 'wireless earphone'\nView as\nGrid\nList\n\nItems 1-12 of 6209\n\nSort By \nProduct Name\nPrice\nRelevance\n \nSet Descending Direction\nRelated search terms\nearphone\nearphone adapter\nearphone lightening\nearphone iphone\nWireless Earbuds Mics Call Noise Canceling & Wireless Charging Case,Bluetooth 5.0 Headset Wireless Earphones Mini Earbuds Stereo Headphones (White)\n$0.01\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nBluetooth Speake Portable Waterproof Premium Rose Gold 3D Mini Speaker with Portable Waterproof Case Mic,A14 (Pink)\n$0.01\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nWomens Sexy Lingerie, Womens Lingerie Set 2 Piece Lace Babydoll Sexy Bra and Panty Sets Strappy Matching Pajama Sets\n$0.10\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nLUYANhapy9 Bluetooth 5.0 Wireless Earphone,1Pc XT-5 Mini HiFi Sound in-Ear Earbuds Headset with Mic for Noise Cancelling Comfortable Premium Sound with Deep Bass for Sport Black One Size\n$0.14\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nSpeedTalk Mobile GPS Tracker SIM Card Starter Kit | 3 in 1 Universal Simcard: Standard, Micro, Nano for Kids Senior Pet Car Fitness Activity 5G 4G LTE Tracking Devices | No Contract\nRating:\n74%\n	10  Reviews\n$0.99\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nMELDVDIB Women Sexy Lingerie Set with Garter Belts Stockings See Through Panties Lace Floral Embroidered Underwear\n$0.99\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nMELDVDIB Womens Pajama Sets Silk Satin Kimono Robe Sexy Bathrobe Rose Lace Stitching Homewear Sleepwear with Belt+Thongs\n$0.99\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nCute Tops for Women Women Plus Size Vest Crop Wireless Bra Lingerie Sexy V-Neck Underwear Camisole\n$0.99\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nBluetooth Single Ear Ultra-Long Standby Fast Charge Anti-Noise 5.0 Bluetooth Over-Ear Headphones,A1 (Red)\n$1.14\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nMove on Earphone Sports Headphones Ear Hook Running Headphones Surround Sound Effect with Microphone Suitable for Running, Office, Meeting, Etc. Green\n$1.33\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nTracFone My Flip 2 4G LTE Prepaid Flip Phone (Locked) - Black - 4GB - Sim Card Included - CDMA\n$1.49\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\n \nSexy Lingerie for Women Lace Embroidery Bra and Panty with Garter Belts Set Strappy Babydoll Bodysuit Hollow Out Thong\n$1.51\nAdd to Cart\n \nAdd to Wish List\n \nAdd to Compare\nPage\nYou're currently reading page\n1 \nPage\n2 \nPage\n3 \nPage\n4 \nPage\n5 \nPage\nNext\nShow \n12\n24\n36\n per page\nShop By\nShopping Options\nCategory\nBeauty & Personal Care 142\nitem\nSports & Outdoors 15\nitem\nClothing, Shoes & Jewelry 72\nitem\nHome & Kitchen 86\nitem\nOffice Products 178\nitem\nTools & Home Improvement 88\nitem\nHealth & Household 17\nitem\nPatio, Lawn & Garden 1\nitem\nElectronics 3873\nitem\nCell Phones & Accessories 1432\nitem\nVideo Games 300\nitem\nGrocery & Gourmet Food 5\nitem\nCompare Products\nYou have no items to compare.\nRecently Ordered\nAdd to Cart\nAtlantic Technology FS-7.0-GLB 7-channel Surround Bar (Gloss Black) (Discontinued by Manufacturer)\nAdd to Cart\nView All\nMy Wish List 5 items\nLight Blue Simple Summer New Low Heels Slippers for Women Fashion Chunky Heels Pointed Toe Wine Glasses Sandals Comfortable Walking Shoes Ladies All-Match Sexy Party Shoes\n\n$14.59\n\nAdd to Cart \nRemove This Item\nDkRgVNY Lace Spcling Lingerie Womens Sexy Hollow Out Underwear Bodysuit One Piece Snap Crotch Clubwear Teddy Bodysuit\n\n$11.09\n\nAdd to Cart \nRemove This Item\nHONGJ Hawaiian Beach Outfits Set for Mens, Summer Tropical Tree Printed Relaxed-fit Hawaii Shirts Shorts 2 Piece Suits\n\n$18.98\n\nAdd to Cart \nRemove This Item\nGo to Wish List\nSign Up for Our Newsletter:\nSubscribe\nPrivacy and Cookie Policy\nSearch Terms\nAdvanced Search\nContact Us\nCopyright © 2013-present Magento, Inc. All rights reserved.\nHelp Us Keep Magento Healthy Report All Bugs",
+125 @ 2024-01-08-01-44-34.json,7,7,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,teeth grinding mouth guard
+125 @ 2024-01-08-01-44-34.json,9,9,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,11,11,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[2]/div/div[2]/dl[1]/dd[1]/ol/li[1]/a/span,,,,,span,2070\nitem,
+125 @ 2024-01-08-01-44-34.json,17,17,scroll,,,,,,,,
+125 @ 2024-01-08-01-44-34.json,19,19,mouseup,//*[@id='limiter'],,,,,select,12\n24\n36,12
+125 @ 2024-01-08-01-44-34.json,21,21,mouseup,//*[@id='limiter'],,,,,select,12\n24\n36,12
+125 @ 2024-01-08-01-44-34.json,23,23,scroll,,,,,,,,
+125 @ 2024-01-08-01-44-34.json,25,25,mouseup,//*[@id='search'],,text,Search entire store here...,combobox,input,,teeth grinding mouth guard
+125 @ 2024-01-08-01-44-34.json,27,27,keypress,//*[@id='search'],,text,Search entire store here...,combobox,input,,teeth grinding mouth guard
+125 @ 2024-01-08-01-44-34.json,29,29,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,31,31,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,33,33,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice\nRelevance,relevance
+125 @ 2024-01-08-01-44-34.json,35,35,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[2]/div/div[2]/dl[1]/dd[1]/ol/li[1]/a,,,,,a,Beauty & Personal Care 2994\nitem,
+125 @ 2024-01-08-01-44-34.json,37,37,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[2]/div/div[2]/dl[1]/dd[1]/ol/li[1]/a,,,,,a,Oral Care 2070\nitem,
+125 @ 2024-01-08-01-44-34.json,39,39,scroll,,,,,,,,
+125 @ 2024-01-08-01-44-34.json,41,41,mouseup,//*[@id='limiter'],,,,,select,12\n24\n36,12
+125 @ 2024-01-08-01-44-34.json,43,43,mouseup,//*[@id='limiter'],,,,,select,12\n24\n36,12
+125 @ 2024-01-08-01-44-34.json,45,45,scroll,,,,,,,,
+125 @ 2024-01-08-01-44-34.json,47,47,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[2]/div[3]/div[1]/ul[1]/li[6]/a,,,,,a,Page\nNext,
+125 @ 2024-01-08-01-44-34.json,49,49,scroll,,,,,,,,
+125 @ 2024-01-11-15-38-56.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+125 @ 2024-01-11-15-38-56.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+125 @ 2024-01-11-15-38-56.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+125 @ 2024-01-11-15-38-56.json,7,7,mouseup,//*[@id='description'],,text,,,input,,
+125 @ 2024-01-11-15-38-56.json,9,9,keystroke,//*[@id='description'],,text,,,input,,
+125 @ 2024-01-11-15-38-56.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button/span,,,,,span,Search,
+125 @ 2024-01-11-15-38-56.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2024-01-11-15-38-56.json,15,15,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+125 @ 2024-01-11-15-38-56.json,17,17,scroll,,,,,,,,
+125 @ 2024-01-11-15-38-56.json,19,19,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[5]/div[1]/div[2]/a[1],,,,,a,Set Descending Direction,
+125 @ 2024-01-11-15-38-56.json,21,21,scroll,,,,,,,,

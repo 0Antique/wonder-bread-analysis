@@ -1,0 +1,11 @@
+Tell me the number of followers of the contributor who has the most commits to branch main:
+1. Open the GitLab main repository page in your web browser.
+2. On the left-hand side. click on "Repository" on the sidebar to expand the dropdown if it's not already expanded.
+3. Under the "Repository" section, click on "Contributors." This will take you to a page that lists all the contributors to the repository along with their commit counts.
+4. Once on the "Contributors" page, click on the dropdown menu next to the “history” button where you can select the branch of interest. 
+5. Scroll down to until seeing the branch “master”. Click on “master” branch.
+6. You will see a list of contributors sorted by the number of commits they have made. The contributor with the most commits will be listed at the top. 
+7. Locate the contributor with the highest number of commits. Their username will be displayed along with the commit count. In this case it is Henning Leutz.
+8. Type the user name from the search bar at the top of the screen and press enter. 
+9. Click on the user profile.
+10. Find the number of followers on the page below the user name. It says “0 followers” in this case.

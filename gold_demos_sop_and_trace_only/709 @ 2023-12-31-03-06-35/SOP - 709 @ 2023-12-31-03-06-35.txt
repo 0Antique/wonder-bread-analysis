@@ -1,0 +1,8 @@
+Create an orders report from beginning of May 2021 to end of March 2022
+1. Navigate to the sidebar located on the left side of the screen
+2. Click on the "Reports" section to reveal the pop-out menu
+3. Under the "Sales" area, click on the "Orders" button to reveal the "Orders Report" page
+4. Locate and click on the "From" textbox and type in the date: "05/01/2021"
+5. Locate and click on the "To" textbox and type in the date: "03/31/2022"
+6. Click on the orange "Show Report" button in the top right
+7. Scroll down to reveal the sales order report

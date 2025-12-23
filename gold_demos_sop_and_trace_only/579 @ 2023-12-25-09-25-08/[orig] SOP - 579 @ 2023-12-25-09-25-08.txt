@@ -1,0 +1,9 @@
+Add the following users to my time tracking tool as guest: ['yjlou'].
+1. Search for the repo "timeit" in the search bar at the top of the page.
+2. Click on the option for the repo.
+3. Click on the "Project information" button on the left side bar.
+4. Click on the "Members" option under Project Information.
+5. Click on the blue "Invite members" button at the right of the screen.
+6. Type "yjlou" in the "Username or email address" input box".
+7. Click on the user corresponding to "yjlou".
+8. Click on the "Invite" button.

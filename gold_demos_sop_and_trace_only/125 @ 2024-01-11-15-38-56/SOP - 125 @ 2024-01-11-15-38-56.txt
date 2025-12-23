@@ -1,0 +1,11 @@
+What is the price range of teeth grinding mouth guard in the One Stop Market?
+1. Click on 'Advanced Search' under the search box on the top right.
+2. Enter 'mouth guard' in the 'Product Name' search box.
+3. Enter 'teeth grinding' in the 'Description' search box.
+4. Click on the 'Enter' blue button.
+5. Click on the 'Sort By' dropdown box.
+6. Click on 'Price' in the dropdown list to sort products by price.
+7. Scroll down to see the price of the first product, which gives the least price.
+8. Click on the arrow button right next to the 'Sort By' dropdown box to sort products in the reverse order of prices.
+9. Scroll down to see the price of the first product, which gives the highest price.
+10. Report the lowest and highest prices.

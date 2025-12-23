@@ -1,0 +1,48 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+775 @ 2024-01-02-15-10-49.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+775 @ 2024-01-02-15-10-49.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+775 @ 2024-01-02-15-10-49.json,5,5,mouseup,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,arden
+775 @ 2024-01-02-15-10-49.json,7,7,keystroke,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,arden
+775 @ 2024-01-02-15-10-49.json,9,9,keypress,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,arden
+775 @ 2024-01-02-15-10-49.json,11,11,mouseup,//*[@id='idEvAh8h7Flc'],,,,,a,Edit,
+775 @ 2024-01-02-15-10-49.json,13,13,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[2]/div/div/button[3]/span,,,,,span,Delete Review,
+775 @ 2024-01-02-15-10-49.json,15,15,mouseup,/html/body[1]/div[4]/aside[2]/div[2]/footer[1]/button[2]/span,,,,,span,OK,
+775 @ 2024-01-06-13-08-12.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+775 @ 2024-01-06-13-08-12.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+775 @ 2024-01-06-13-08-12.json,5,5,mouseup,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-01-06-13-08-12.json,7,7,keystroke,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-01-06-13-08-12.json,9,9,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div[1]/div[1]/div[1]/div/button[1]/span,,,,,span,Search,
+775 @ 2024-01-06-13-08-12.json,11,11,mouseup,//*[@id='id_2'],,checkbox,,,input,,51
+775 @ 2024-01-06-13-08-12.json,13,13,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-01-06-13-08-12.json,15,15,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-01-06-13-08-12.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div[1]/div[1]/div[2]/div[1]/form[1]/div/button[1]/span,,,,,span,Submit,
+775 @ 2024-01-06-13-08-12.json,19,19,mouseup,/html/body[1]/div[5]/aside[2]/div[2]/footer[1]/button[2]/span,,,,,span,OK,
+775 @ 2024-01-16-05-29-03.json,1,1,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[2]/div/div/button[1]/span,,,,,span,Back,
+775 @ 2024-01-16-05-29-03.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+775 @ 2024-01-16-05-29-03.json,5,5,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+775 @ 2024-01-16-05-29-03.json,7,7,mouseup,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-01-16-05-29-03.json,9,9,keystroke,//*[@id='html-body'],,,,,body,"DASHBOARD\nSALES\nCATALOG\nCUSTOMERS\nMARKETING\nCONTENT\nREPORTS\nSTORES\nSYSTEM\nFIND PARTNERS & EXTENSIONS\nSystem Messages: 14\nView Details\nTask ""Update attributes for 5 selected products"": 1 item(s) have been successfully updated.\nEdit Review\nadmin\n Back\nReset\nDelete Review\nSave Review\nReview Details\n\n\nProduct\nMars HeatTech™ Pullover\nAuthor\nGuest\nSummary Rating\nDetailed Rating\nRating \n★\n★\n★\n★\n★\nStatus\nApproved\nPending\nNot Approved\nNickname\nSummary of Review\nReview\n\n Copyright © 2024 Magento Commerce Inc. All rights reserved.\n\nMagento ver. 2.4.6\n\nPrivacy Policy | Account Activity | Report an Issue",
+775 @ 2024-01-16-05-29-03.json,11,11,keypress,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,Arden
+775 @ 2024-01-16-05-29-03.json,13,13,mouseup,//*[@id='idkbUqyCWgAf'],,,,,a,Edit,
+775 @ 2024-01-16-05-29-03.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[2]/div/div/button[3]/span,,,,,span,Delete Review,
+775 @ 2024-01-16-05-29-03.json,17,17,mouseup,/html/body[1]/div[4]/aside[2]/div[2]/footer[1]/button[2]/span,,,,,span,OK,
+775 @ 2024-02-12-22-43-57.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+775 @ 2024-02-12-22-43-57.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+775 @ 2024-02-12-22-43-57.json,5,5,mouseup,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-02-12-22-43-57.json,7,7,keystroke,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-02-12-22-43-57.json,9,9,keypress,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,Arden
+775 @ 2024-02-12-22-43-57.json,11,11,mouseup,//*[@id='id_375'],,checkbox,,,input,,51
+775 @ 2024-02-12-22-43-57.json,13,13,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-02-12-22-43-57.json,15,15,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-02-12-22-43-57.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div[1]/div[1]/div[2]/div[1]/form[1]/div/button[1]/span,,,,,span,Submit,
+775 @ 2024-02-12-22-43-57.json,19,19,mouseup,/html/body[1]/div[5]/aside[2]/div[2]/footer[1]/button[2]/span,,,,,span,OK,
+775 @ 2024-02-15-01-14-54.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+775 @ 2024-02-15-01-14-54.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a/span,,,,,span,All Reviews,
+775 @ 2024-02-15-01-14-54.json,5,5,mouseup,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-02-15-01-14-54.json,7,7,keystroke,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,
+775 @ 2024-02-15-01-14-54.json,9,9,keypress,//*[@id='reviewGrid_filter_nickname'],,text,,,input,,arden
+775 @ 2024-02-15-01-14-54.json,11,11,mouseup,//*[@id='id_297'],,checkbox,,,input,,51
+775 @ 2024-02-15-01-14-54.json,13,13,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-02-15-01-14-54.json,15,15,mouseup,//*[@id='reviewGrid_massaction-select'],,,,,select,Actions\nDelete\nUpdate Status,
+775 @ 2024-02-15-01-14-54.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div[1]/div[1]/div[2]/div[1]/form[1]/div/button[1]/span,,,,,span,Submit,
+775 @ 2024-02-15-01-14-54.json,19,19,mouseup,/html/body[1]/div[5]/aside[2]/div[2]/footer[1]/button[2],,button,,,button,OK,

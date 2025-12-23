@@ -1,0 +1,5 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find how many commits kilian made on 3/5/2023:
+
+1. Click on the “Commits” link, located directly below the repository icon.
+2. Scroll down until you see commits that occurred at the desired date (3/5/2023). There will potentially be no such commits, which you will be able to tell if there are no commits listed for the desired date, but there commits listed for dates before and after the desired date.
+3. Record how many commits on that date are made by the user of interest, if there are any commits made on that date at all. The user can be identified by their name, which is located to the right of the profile picture for each commit.

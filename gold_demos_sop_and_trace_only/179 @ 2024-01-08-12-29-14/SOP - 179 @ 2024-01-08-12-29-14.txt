@@ -1,0 +1,6 @@
+Open my latest created issue that has 'feature' in its title to check if it is closed
+1. Click on the rectangular icon, for Issues, right next to the '+' icon in the top navigation bar.
+2. Click on the 'All' tab, under 'Issues' to list all issues.
+3. Type 'feature' in the search bar and hit the 'return' key to filter issues having 'feature' in their title.
+4. Click on the second issue as it has 'feature' in its title and it is the latest created issue (the previous issue doesn't have 'feature' in its title).
+5. Observe that there's a green icon 'Open' at the top which indicates the issue is not closed.

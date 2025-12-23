@@ -1,0 +1,12 @@
+Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
+
+1. Click on the “Merge Requests” button at the top right of the page, located in the purple navigation bar at the top of the page and directly to the right of the “Issues” button and to the left of the “To-Do List” button. This opens up navigation options related to merge requests.
+2. Click on the “Assigned to you” link in the drop-down menu, located directly below the bolded text “Merge requests” and above the link “Review requests for you”.
+3. Click on the title of the desired merge request to go to the request’s page. Each merge requests title is in black bolded text at the top left of each row corresponding to a unique merge request. You can identify the desired request by finding the request title that most closely matches the user request, in this case a merge request “on 404 link”. Scroll down if necessary to view other merge requests.
+4. Note the name of the author of the merge request, located directly below the merge request title near the top of the page and to the right of the green “Open” label. In this case, the author is “Roshan Jossey”.
+5. Scroll to the comment box at the bottom of the page. The comment box is located in the “Activity” section and directly below the last activity entry. It has the gray text “Write a comment or drag your files here...“ within it.
+7. Click into the comment box to focus it. The place to click into the comment box is below the bolded tab “Write”.
+8. Type in the @ of the desired user, in this case “@Roshanjossey”.
+9. Click on the autocomplete pop-up for the correct @, located directly below the text you typed, in order to more efficiently create the @.
+10. Type in a simple, appropriate message after the @, such as "reminder!".
+11. Click the blue “Comment” button, located directly below the comment box and to the left of the “Comment & close merge request” button. This posts the desired comment.

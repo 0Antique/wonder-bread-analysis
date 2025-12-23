@@ -1,0 +1,72 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+770 @ 2024-01-05-01-26-55.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1],,,,,a,CATALOG,
+770 @ 2024-01-05-01-26-55.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a/span,,,,,span,Products,
+770 @ 2024-01-05-01-26-55.json,5,5,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-05-01-26-55.json,7,7,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-05-01-26-55.json,9,9,keypress,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Cora parachute pant
+770 @ 2024-01-05-01-26-55.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[4]/td[15]/a,Edit Cora Parachute Pant-28-White,,,,a,Edit,
+770 @ 2024-01-05-01-26-55.json,13,13,mouseup,//*[@id='IJCQMVW'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,15,15,keystroke,//*[@id='IJCQMVW'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,17,17,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-05-01-26-55.json,19,19,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-05-01-26-55.json,21,21,scroll,,,,,,,,
+770 @ 2024-01-05-01-26-55.json,23,23,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[6]/td[15]/a,Edit Cora Parachute Pant-29-Blue,,,,a,Edit,
+770 @ 2024-01-05-01-26-55.json,25,25,mouseup,//*[@id='CKK67W5'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,27,27,mouseup,//*[@id='CKK67W5'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,29,29,mouseup,//*[@id='CKK67W5'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,31,31,keystroke,//*[@id='CKK67W5'],,text,,,input,,100
+770 @ 2024-01-05-01-26-55.json,33,33,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/div[1]/button[1]/span,,,,,span,Save,
+770 @ 2024-01-05-01-26-55.json,35,35,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/div[1]/button[1]/span,,,,,span,Save,
+770 @ 2024-01-06-12-48-25.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1],,,,,a,CATALOG,
+770 @ 2024-01-06-12-48-25.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a/span,,,,,span,Products,
+770 @ 2024-01-06-12-48-25.json,5,5,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-06-12-48-25.json,7,7,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-06-12-48-25.json,9,9,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[1]/div[5]/button[1],Search,button,,,button,,
+770 @ 2024-01-06-12-48-25.json,11,11,scroll,,,,,,,,
+770 @ 2024-01-06-12-48-25.json,13,13,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[7]/td[15]/a,Edit Cora Parachute Pant-28-White,,,,a,Edit,
+770 @ 2024-01-06-12-48-25.json,15,15,mouseup,//*[@id='RX5B8KX'],,text,,,input,,100
+770 @ 2024-01-06-12-48-25.json,17,17,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Cora parachute pan
+770 @ 2024-01-06-12-48-25.json,19,19,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/div[1]/button[1]/span,,,,,span,Save,
+770 @ 2024-01-06-12-48-25.json,21,21,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/button[1]/span,,,,,span,Back,
+770 @ 2024-01-06-12-48-25.json,23,23,scroll,,,,,,,,
+770 @ 2024-01-06-12-48-25.json,25,25,scroll,,,,,,,,
+770 @ 2024-01-06-12-48-25.json,27,27,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[12]/td[15]/a,Edit Cora Parachute Pant-29-Blue,,,,a,Edit,
+770 @ 2024-01-06-12-48-25.json,29,29,mouseup,//*[@id='WQORY7U'],,text,,,input,,100
+770 @ 2024-01-06-12-48-25.json,31,31,keystroke,//*[@id='RX5B8KX'],,text,,,input,,11
+770 @ 2024-01-06-12-48-25.json,33,33,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-07-21-44-44.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1]/span,,,,,span,CATALOG,
+770 @ 2024-01-07-21-44-44.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a,,,,,a,Products,
+770 @ 2024-01-07-21-44-44.json,5,5,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-07-21-44-44.json,7,7,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-07-21-44-44.json,9,9,keypress,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,cora parachute pan
+770 @ 2024-01-07-21-44-44.json,11,11,scroll,,,,,,,,
+770 @ 2024-01-07-21-44-44.json,13,13,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[9]/td[15]/a,Edit Cora Parachute Pant-28-White,,,,a,Edit,
+770 @ 2024-01-07-21-44-44.json,15,15,mouseup,//*[@id='L5SC2TW'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,17,17,mouseup,//*[@id='L5SC2TW'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,19,19,mouseup,//*[@id='L5SC2TW'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,21,21,keystroke,//*[@id='L5SC2TW'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,23,23,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-07-21-44-44.json,25,25,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-07-21-44-44.json,27,27,scroll,,,,,,,,
+770 @ 2024-01-07-21-44-44.json,29,29,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[7]/td[15]/a,Edit Cora Parachute Pant-29-Blue,,,,a,Edit,
+770 @ 2024-01-07-21-44-44.json,31,31,mouseup,//*[@id='F6896VJ'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,33,33,mouseup,//*[@id='F6896VJ'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,35,35,keystroke,//*[@id='F6896VJ'],,text,,,input,,100
+770 @ 2024-01-07-21-44-44.json,37,37,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-13-03-25-04.json,1,1,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/button[1]/span,,,,,span,Back,
+770 @ 2024-01-13-03-25-04.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1],,,,,a,CATALOG,
+770 @ 2024-01-13-03-25-04.json,5,5,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a/span,,,,,span,Products,
+770 @ 2024-01-13-03-25-04.json,7,7,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+770 @ 2024-01-13-03-25-04.json,9,9,keystroke,//*[@id='II85VEB'],,text,,,input,,10
+770 @ 2024-01-13-03-25-04.json,11,11,keypress,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Cora parachute pant
+770 @ 2024-01-13-03-25-04.json,13,13,scroll,,,,,,,,
+770 @ 2024-01-13-03-25-04.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[4]/td[4]/div,,,,,div,Cora Parachute Pant-28-White,
+770 @ 2024-01-13-03-25-04.json,17,17,mouseup,//*[@id='WWV5WE0'],,text,,,input,,100
+770 @ 2024-01-13-03-25-04.json,19,19,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Cora parachute pant
+770 @ 2024-01-13-03-25-04.json,21,21,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-13-03-25-04.json,23,23,mouseup,//*[@id='save-button'],,,,,button,Save,
+770 @ 2024-01-13-03-25-04.json,25,25,scroll,,,,,,,,
+770 @ 2024-01-13-03-25-04.json,27,27,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[5]/td[4]/div,,,,,div,Cora Parachute Pant-29-Black,
+770 @ 2024-01-13-03-25-04.json,29,29,mouseup,//*[@id='GYFCNIO'],,text,,,input,,100
+770 @ 2024-01-13-03-25-04.json,31,31,keystroke,//*[@id='WWV5WE0'],,text,,,input,,11
+770 @ 2024-01-13-03-25-04.json,33,33,mouseup,/html/body[1]/div[2]/main[1]/div[1]/div[3]/div/div/div[1]/button[1]/span,,,,,span,Save,

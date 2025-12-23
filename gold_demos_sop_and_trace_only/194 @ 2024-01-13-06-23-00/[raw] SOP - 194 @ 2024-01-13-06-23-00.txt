@@ -1,0 +1,13 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the total payment of the last 5 completed orders:
+
+1. Click on the “SALES” button in the dark gray column on the left hand side of the page.
+2. Click on “Orders” in the pop up menu, located under the bolded heading “Sales”.
+3. Click the “Filters” button, located to the left of the “Default View” button.
+4. Click on the “Status” criteria box, located directly under the bolded text “Status”.
+5. Click “Complete” in the pop-up menu.
+6. Click the “Apply Filters” button, located near the bottom right of the screen.
+7. Click on the “Purchase Date” column header to sort the table from oldest to most recent.
+8. Click again on the “Purchase Date” column header to sort the table from most recent to oldest.
+9. Scroll down through the first 5 rows i.e. orders of the table, recording the total payment for each order.
+10. The “Grand Total (Purchased)” column of each row contains information on the total payment from each order.
+11. Sum these recorded values together.

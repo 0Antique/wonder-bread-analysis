@@ -1,0 +1,14 @@
+To Modify the address of order #65 to 789 Pine Lane, San Francisco, CA, 94102yourself:
+1. Move your mouse to the left side of the page.
+2. Click on the "SALES" option in the left side bar under the "DASHBOARD" option.
+3. Click on the "Orders" option in the "Sales" menu that appeared.
+4. Click the gray "Filters" button above the order list that appeared.
+5. Replace any existing text with the order number in the textbox below "ID"
+6. Press "apply filters"
+7. Click on the blue "View" link under the column "Action" corresponding to the correct order (make sure that the number in the "ID" column matches).
+8. Scroll down to the "Shipping Address" header extension and click the blue "Edit" link to the right of it. 
+9. To the right of the "Street Address" label, there is a textbox. Replace any text here with the desired street address. 
+10. To the right of the "State/Province" label, there is a dropdown menu. Select the correct state.
+11. To the right of the "City" label, there is a textbox. Replace any text here with the new city. 
+12. To the right of the "Zip/Postal Code" label, there is a textbox. Replace any text here with the new postal code. 
+13. In the top right corder, click the orange "Save Order Address" button.

@@ -1,0 +1,39 @@
+Star the top eight most stared repos in Gitlab
+1. Click the “Explore” tab in the top left of the screen next to “Topics”
+2. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+3. Scroll until the first 8 repos are visible
+4. Click the star icon in the first pane that shows
+5. Click the orange GitLab icon on the top left of the screen
+6. Click the “Explore” tab in the top left of the screen next to “Topics”
+7. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+8. Scroll until the first 8 repos are visible
+9. Click the star icon in the second pane that shows
+10. Click the orange GitLab icon on the top left of the screen
+11. Click the “Explore” tab in the top left of the screen next to “Topics”
+12. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+13. Scroll until the first 8 repos are visible
+14. Click the star icon in the third pane that shows
+15. Click the orange GitLab icon on the top left of the screen
+16. Click the “Explore” tab in the top left of the screen next to “Topics”
+17. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+18. Scroll until the first 8 repos are visible
+19. Click the star icon in the fourth pane that shows
+20. Click the orange GitLab icon on the top left of the screen
+21. Click the “Explore” tab in the top left of the screen next to “Topics”
+22. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+23. Scroll until the first 8 repos are visible
+24. Click the “Explore” tab in the top left of the screen next to “Topics”
+25. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+26. Scroll until the first 8 repos are visible
+27. Click the star icon in the sixth pane that shows
+28. Click the orange GitLab icon on the top left of the screen
+29. Click the “Explore” tab in the top left of the screen next to “Topics”
+30. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+31. Scroll until the first 8 repos are visible
+32. Click the star icon in the eighth pane that shows
+33. Click the orange GitLab icon on the top left of the screen
+34. Click the “Explore” tab in the top left of the screen next to “Topics”
+35. Click the “Most Stars” tab on the top left of the screen next to “Trending”
+36. Scroll until the first 8 repos are visible
+37. Click the star icon in the eighth pane that shows
+38. Click the orange GitLab icon on the top left of the screen 

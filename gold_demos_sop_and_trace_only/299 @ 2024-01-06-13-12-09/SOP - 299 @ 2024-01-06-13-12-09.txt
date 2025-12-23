@@ -1,0 +1,5 @@
+Show the most recent cancelled order
+1. Click on "My Account"
+2. Click on "My Orders" 
+3. Look for top most order with status "cancelled"
+4. Click on "View Order"

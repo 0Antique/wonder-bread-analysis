@@ -1,0 +1,8 @@
+Tell me the the number of reviews that our store received by far that mention term "not useful"
+1. Navigate to the sidebar located on the left side of the screen
+2. Click on the "Marketing" section to reveal the pop-out menu
+3. Click on the "All Reviews" button in the "User Content" section of the pop-out menu, to reveal the "Reviews" page
+4. Locate the column called "Review", and find its corresponding textbox below it
+5. Click on the texbox and type in our keyword: "not useful"
+6. Press "Enter" on the keyboard to apply the filter to the data
+7. Scroll down to find the report and locate the correct information to answer the question

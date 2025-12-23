@@ -1,0 +1,5 @@
+What brands appear most frequently among the top search terms?
+1. On the left bar, click on "Reports".
+2. Under the "Marketing" sub-menu, click on "Search Terms".
+3. On the header of the displayed table, click on "Hits" till there is a downward arrow displayed next to it.
+4. From the information, report the brands appearing in the most frequently among the top search terms.

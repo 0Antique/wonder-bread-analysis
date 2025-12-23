@@ -1,0 +1,11 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the total number of items sold in the most recent 7 orders:
+
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page.
+2. Click on “Orders” in the pop up menu, located under the heading “Sales”.
+5. Click into the “From” text field, located on the left side of the page.
+6. Type in “1/1/23”.
+7. Click into the “To” text field, located directly to the right of the “From” text field.
+8. Type in the current date.
+9. Click on the orange button “Show Report”, located at the top right of the page.
+10. Scroll to the bottom of the page.
+11. The sum of numbers in the “Sales Items” column, the third column of the table, for the 8th, 7th, 6th, 5th, 4th, 3rd, and 2nd to last rows is the total number of items sold in the most recent 7 orders.

@@ -1,0 +1,19 @@
+Fork all repos from facebook.
+1. Click the search bar at the top left of the screen next to the orange logo of "GitLab".
+2. Enter “facebook” in the search bar.
+3. Press enter to execute the search.
+4. Click the white “Users” tab on the left menu of the page. This is the tab under "Milestones"
+5. From the resulting list of users, click on the user with “facebook” in the name.
+6. Scroll down until the list of projects called "Personal Projects" is visible. This should be in the right column of the page.
+7. Click the first project from the list of projects on the bottom right of the screen
+8. Click the white “Fork” button on the top right of the screen. This should be in the right column of the page, inline with the name of the project, to the right of the "Star" button.
+9. From the displayed fields, click on the dropdown which says "Select a namespace". This should be under the "Project URL" subsection.
+10. Click “byteblaze” from the bottom of the dropdown to select the namespace.
+11. Click the blue “Fork project button at the bottom of the displayed fields. This should be under the "Visibility Level" section. The page will load to Fork the project.
+12. Click the search bar at the top left of the screen next to the orange logo of "GitLab".
+13. Enter “facebook” in the search bar.
+14. Press enter to execute the search.
+15. Click the white “Users” tab on the left menu of the page. This is the tab under "Milestones"
+15. From the resulting list of users, click on the user with “facebook” in the name.
+17. Scroll down until the list of projects called "Personal Projects" is visible. This should be in the right column of the page.
+18. If there are more projects available, repeat steps 7-12 by clicking on the next available project.

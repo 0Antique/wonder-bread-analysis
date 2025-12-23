@@ -1,0 +1,3 @@
+I want to browse the products in the Video Game category
+1. Click on the "Video Games" tab in the second row of the menu bar.
+2. Thus, products in the Video Game category have been shown.

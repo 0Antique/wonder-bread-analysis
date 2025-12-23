@@ -1,0 +1,12 @@
+
+Presents the monthly count of successful orders from May to December 2022 in MM:COUNT format
+1. Click on the “Reports” button located in the navigation bar on the left side of the page. This button is in the dark gray column and features an icon that resembles a chart, situated between the “Content” button above it and the “Stores” button below.
+2. From the dropdown menu that appears, identify and click on the “Orders” link. This link is directly under the “Sales” heading.
+3. Locate the “Period” dropdown menu to the right of the label “Period” on the screen. This dropdown is part of a filter section near the top of the page.
+4. In the dropdown, click on the “Month” option to set the time frame of the report to a monthly basis. This option is part of a list that appears upon clicking the dropdown menu, possibly requiring scrolling if the list is lengthy.
+5. Click on the “From” text field, placed directly under the “Period” section. Before typing, ensure the field is clear by clicking on it and pressing the “Delete” key until all pre-existing text is removed.
+6. Type “05/01/2022” as it is the start date for this task. This step initializes the start of our desired reporting period, aligning with the beginning of May 2022.
+7. Click into the “To” text field, immediately below the “From” text field. Ensure this field is cleared of any pre-existing text by using the “Delete” key.
+8. Type “12/31/2022” as the end date for this task, marking the end of our reporting period at the end of December 2022.
+9. Press the “Show Report” button, an orange-colored button located towards the top right of the page. If the button is not visible, scroll up until it comes into view, then click on it to generate the report based on the specified dates.
+10. Upon report generation, scroll down to the report section where a table displaying monthly counts of successful orders will appear. If the entire table isn't visible, scroll until you reach the end of the table. Each row represents a month, with the first column showing the month in MM/YYYY format and the second column displaying the count of successful orders for that month.

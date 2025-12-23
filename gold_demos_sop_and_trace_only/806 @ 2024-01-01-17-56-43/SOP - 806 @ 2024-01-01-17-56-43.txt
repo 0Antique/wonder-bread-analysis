@@ -1,0 +1,8 @@
+Submit a merge request for a11yproject.com/redesign branch to be merged into markdown-figure-block branch, assign myself as the reviewer
+1. Locate and click on the "a11yproject.com" repo
+2. Locate and click on the "Repository" button on the gray sidebar
+3. Click on the "Branches" sub-button
+4. Identify the branch "redesign" click "Merge request" on that corresponding branch
+5. Click the blue "change branches" text at the top of the page
+6. Scroll down and find the "Reviewer" dropdown menu and assign myself "ByteBlaze" as a reviwer by clicking on my icon in the dropdown menu
+7. Scroll down and click the blue "Create merge request" button

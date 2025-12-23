@@ -1,0 +1,12 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+157 @ 2023-12-27-22-58-25.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/a[1],,,,,a,CUSTOMERS,
+157 @ 2023-12-27-22-58-25.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/div[1]/ul[1]/li[1]/a/span,,,,,span,All Customers,
+157 @ 2023-12-28-23-18-29.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/a[1],,,,,a,CUSTOMERS,
+157 @ 2023-12-28-23-18-29.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/div[1]/ul[1]/li[1]/a/span,,,,,span,All Customers,
+157 @ 2023-12-31-10-02-20.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/a[1]/span,,,,,span,CUSTOMERS,
+157 @ 2023-12-31-10-02-20.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/div[1]/ul[1]/li[1]/a/span,,,,,span,All Customers,
+157 @ 2024-01-08-20-20-01.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/a[1],,,,,a,CUSTOMERS,
+157 @ 2024-01-08-20-20-01.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/div[1]/ul[1]/li[1]/a/span,,,,,span,All Customers,
+157 @ 2024-02-04-01-10-38.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[1]/a,,,,,a,DASHBOARD,
+157 @ 2024-02-04-01-10-38.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/a[1],,,,,a,CUSTOMERS,
+157 @ 2024-02-04-01-10-38.json,5,5,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[4]/div[1]/ul[1]/li[1]/a/span,,,,,span,All Customers,

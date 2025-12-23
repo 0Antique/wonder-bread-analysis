@@ -1,0 +1,3 @@
+Checkout merge requests assigned to me
+1. Click on the "Merge Requests" Icon. It can be found on the upper right corner of the webpage. This icon resembles two diverging arrows and is situated between the "Issues" icon (which looks like a checklist) and the "To-Do List" icon (represented by a checkmark inside a box). The "Merge Requests" icon is usually the third icon from the top right corner.
+2. Select the "Assigned to You" option from the dropdown menu that appears. This option is typically the first one listed under the "Merge Requests" section. This action filters the merge requests to only show those that are specifically assigned to you, which is relevant for this task.

@@ -1,0 +1,3 @@
+What are the main criticisms of this product? Please extract the relevant sentences.
+1. Click on the blue "Reviews" button (to the right of the stars and under the product name).
+2. Scroll through the reviews and extract relevant sentences for the reviews with the lowest number of stars.

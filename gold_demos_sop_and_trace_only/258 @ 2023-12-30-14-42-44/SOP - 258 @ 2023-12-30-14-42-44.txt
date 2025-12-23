@@ -1,0 +1,4 @@
+See all public projects.
+
+1. Click the third tab, titled "Explore", in the bar below "Projects" and next to "Starred" and "Topics".
+2. Thus, all public projects have been shown, as desired.

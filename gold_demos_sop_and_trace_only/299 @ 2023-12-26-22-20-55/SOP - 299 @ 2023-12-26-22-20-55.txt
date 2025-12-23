@@ -1,0 +1,5 @@
+Show the most recent cancelled order
+1. Click on the first option of the upper bar labeled "My Account".
+2. From the left sidebar, click the second option labeled "My Orders".
+3. Click the "View Order" button to the right of the first order that has status "Canceled".
+4. Thus, the most recent cancelled order has been shown, as desired.

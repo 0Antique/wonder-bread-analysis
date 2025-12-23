@@ -1,0 +1,7 @@
+Change my reddit bio to "Freelance Web Developer"
+1. Click on your username "MarvelsGrantMan136" in the top right corner
+2. Click on "User Settings" in the dropdown
+3. Click "Edit biography" in the right sidebar, with a pencil icon
+4. Delete any text in the text box under "Biography"
+5. Enter "Freelance Web Developer" in the text box.
+6. Click the red "Save" button towards the bottom

@@ -1,0 +1,27 @@
+Star the top eight most stared repos in Gitlab.
+1. Click on "Explore" under the "Projects" header
+2. Click on the "Most stars" tab underneath.
+3. Click on the first project.
+4. Click on the "Star" button, with a star icon next to it
+5. Go back to the previous screen
+6. Click on the second project.
+7. Click on the "Star" button, with a star icon next to it
+8. Go back to the previous screen
+9. Click on the third project.
+10. Click on the "Star" button, with a star icon next to it
+11. Go back to the previous screen
+12. Click on the fourth project.
+13. Click on the "Star" button, with a star icon next to it
+14. Go back to the previous screen
+15. Click on the fifth project.
+16. Click on the "Star" button, with a star icon next to it
+17. Go back to the previous screen
+18. Click on the sixth project.
+19. Click on the "Star" button, with a star icon next to it
+20. Go back to the previous screen
+21. Click on the seventh project.
+22. Click on the "Star" button, with a star icon next to it
+23. Go back to the previous screen
+24. Click on the eigth project.
+25. Click on the "Star" button, with a star icon next to it
+26. Go back to the previous screen

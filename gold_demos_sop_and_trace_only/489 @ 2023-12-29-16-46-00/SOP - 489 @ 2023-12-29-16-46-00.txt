@@ -1,0 +1,8 @@
+Change the page title of "Privacy Policy" page on my site to "No privacy policy is needed is this dystopian world". 
+1. Click the brown "Content" tab on the left side of the screen with the postboard icon, underneath the "Marketing" tab
+2. Click the brown "Pages" tab in the pop-up to the right of the "Sales" tab and above the "Blocks" tab
+3. Click the gray item titled “Privacy Policy” in the list in the table at the bottom half of the screen
+4. Click the first textbox in the emerging pop-up to the right of the ID number in the ID column
+5. Backspace until the textbox is empty
+6. Type "No privacy policy is needed is this dystopian world" 
+7. Click the orange "Save" button box to the right of the blue "Cancel" button underneath the selected page item

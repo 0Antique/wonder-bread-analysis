@@ -1,0 +1,19 @@
+﻿Make all rocco gym tank as out of stock
+
+
+
+
+1. Locate the "CATALOG" button under the "SALES” button located on the left side of the screen in the gray sidebar.
+2. Click on the "CATALOG" button.
+3. Click on the “Products” button to reveal the “Products” page.
+4. Locate the “Search by keyword” search bar above the “Actions” dropdown menu.
+5. Click on the “Search by keyword” search bar to focus it.
+6. Type "rocco gym tank" in the search bar.
+7. Click on the magnifying glass at the right side of the search bar to submit the search request.
+8. Scroll down to locate the “rocco gym tank” product.
+9. Click on the blue “Edit” button located on the right side of the product, under the “Action” column.
+10. Scroll down to locate the “Stock Status” dropdown menu, underneath the “Quantity” text box.
+11. Click on the “Stock Status” dropdown menu to reveal the options.
+12. Click on “Out of Stock” to mark the product as out of stock.
+13. Identify the orange, rectangular “Save” button at the top right of the screen.
+14. Click on the orange, rectangular “Save” button.

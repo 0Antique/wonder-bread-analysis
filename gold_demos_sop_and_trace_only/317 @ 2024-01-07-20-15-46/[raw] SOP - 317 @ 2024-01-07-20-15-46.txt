@@ -1,0 +1,13 @@
+In order to list the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits? yourself, do the following steps:
+
+1. In the "Projects" page, click on the textbox which says "Filter by name" in the right side of the header.
+
+2. In the textbox, enter the name of the project you wish to view contributions for: in this case, it is "metaseq".
+
+3. Click on the matching project.
+
+4. Under the project name, click on "Commits"
+
+5. On the "commits" page, on the left hand side there is a menu bar. Click on the "Contributors" tab.
+
+6. The Contributors are listed in order from most number of commits to least. You can see the contributors and their number of commits listed, in this case its: Susan Zhang: 70, Stephen Roller: 51, Peter Albert: 12

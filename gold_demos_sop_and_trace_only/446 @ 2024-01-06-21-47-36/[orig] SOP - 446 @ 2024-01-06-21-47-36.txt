@@ -1,0 +1,9 @@
+Assign the issue regarding 404 in a11yproject to Roshanjossey.
+1. Click on "The A11Y Project / a11yproject.com"
+2. In the left sidebar, click on "Issues"
+3. Click on the "Search or filter results..." text box
+4. Type the keyword "404"
+5. Press Enter
+6. Select the "404s, bad host, timeouts, bad urls for URLs linked from website" issue
+7. Click on "Edit" next to "Assignee" on the right sidebar.
+8. Select "Roshan Jossy" from the options shown in the "Assign to" dropdown.

@@ -1,0 +1,6 @@
+Assign the issue regarding 404 in a11yproject to Roshanjossey.
+1. On the project list, notice that each row is a different project. Project names are in bold, and come after the slash (/) on the first line of each item. Click on the relevant project.
+2. On the lefthand Side, click the button that says "Issues"
+3. Each issue is a different row in the list, and each issue title is in bold on the top line of each item. Click on the issue which mentions 404. 
+4. On the righthand side, there is text that says "Assignee" and a link that says "Edit" just to the right of it, but on the same line. Click "Edit"
+5. Your cursor will be moved into a textbox that reads "Search users", with a dropdown of options underneath. Click on the desired user to assign, or type in their name until you see them as an option to click. 

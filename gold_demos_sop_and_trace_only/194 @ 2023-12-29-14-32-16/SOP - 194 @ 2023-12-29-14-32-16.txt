@@ -1,0 +1,10 @@
+Get the total payment amount of the last 5 completed orders
+1. Click the "Sales" icon from the left sidebar to open the dropdown menu.
+2. From the dropdown, click on the first option "Orders".
+3. Click on the gray "Filters" button on the top right.
+4. Click the down arrow on the dropdown menu for "Status".
+5. From the dropdown, click on "Complete".
+6. Click the "Apply Filters" button below all the filter options at the right.
+7. Click on the fourth column header to sort by "Purchase Date".
+8. Click on the column header "Purchase Date" again to reverse the ordering.
+9. Given the information, state the the total payment amount of the last 5 completed orders.

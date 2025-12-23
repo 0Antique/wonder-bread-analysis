@@ -1,0 +1,17 @@
+Update the description of Radiant Tee to highlight the real user positive reviews by quoting the comments
+1. Click on the 'Catalog' sidebar menu item to reveal the pop-out menu
+2. Click on 'Products' (the first button) to reveal the 'Products Page'
+3. Identify and click on the 'Search by keyword' text box, located on the left side of the screen
+4. Type in the product name: 'Radiant Tee' and press 'Enter' on the keyboard
+5. Identify the product called 'Radiant Tee' at the top of the page 
+6. Click on the item to reveal the product page
+7. Navigate to the 'Product Reviews' section at the bottom of the product page and click on the drop down arrow at the right-hand side of this panel
+8. Read reviews and identify key elements of the reviews that would be useful for a product description such as:
+"What I rally love here is that it does the job of keeping me cool and dry",
+    a. "I'm a big guy and sweat A LOT! Even after a day of gulf, I'm still dry and comfortable",
+    b. "What a versatile shirt!",
+    c. "Not only does it feel very soft compared to my old worn out polos, but it also does the job promised.",
+    d. "I like going out after my game for drinks so I look good then too and don't need to change into something fresh."
+9. Navigate to the 'Content' section at the top of the page, and click on the the drop down arrow at the right-hand side of this panel
+10. Click on the textbox, and type in the key elements identified in step 8, separating each sentence into its own line.
+11. Navigate to the top right corner of the screen, and click on the orange 'Save' button.

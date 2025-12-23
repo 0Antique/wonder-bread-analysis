@@ -1,0 +1,24 @@
+Add a simple product named Energy-Bulk Man Yoga Pant with 50 in stock, available in size 38 and color yellow, priced at $69.99
+Add a simple product named Swaatch Smart Watch with 42 in stock, available in size uni-size and color Blue, priced at $769.99
+Add a simple product named FancyBoy Man Causal Jeans with 42 in stock, available in size 34 and color Blue, priced at $169.99
+Add a simple product named Energy-Bulk Man Yoga Pant with 50 in stock, available in size 38 and color yellow, priced at $69.99
+1. Click the “Catalog” tab on the left side of the screen with the box icon underneath the “Sales tab 
+2. Click the “Products” tab at the top of the opening tab bar on the top right, still on the left side of the screen 
+3. Click the orange “Add Product” button at the top right
+4. Click the text box next to “Product Name*” with a red asterisk
+5. Type “Energy-Bulk Man Yoga Pant”
+6. Click the text box next to “Price*” with a red asterisk
+7. Type “69.99”
+8. Scroll down to the “Configurations” Tab under the “Content” tab
+9. Click the black button on the right with the white text saying “Create Configurations”
+10. Click the checkbox next to “color”
+11. Click the checkbox next to “size”
+12. Click the pointy orange “Next” button on the top right
+12. Click the checkbox next to the text saying “Yellow” in the “Color” table
+13. Click the checkbox next to the text saying “38” in the “Size” table 
+12. Click the pointy orange “Next” button on the top right
+16. Click the pointy orange “Next” button on the top right
+17. Click the pointy orange “Next” button on the top right
+18. Click the text box under the field that says “Quantity” in white text in the brown table
+19. Type “50”
+20. Click the orange “Save” button on the top right of the screen

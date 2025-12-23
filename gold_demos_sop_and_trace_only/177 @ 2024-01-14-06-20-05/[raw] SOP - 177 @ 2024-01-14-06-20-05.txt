@@ -1,0 +1,11 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to open the user’s latest updated issue that has keyword "homepage content" in its title to check if it is closed:
+
+1. Click on the issues button, which is an icon directly to the right of the create new button.
+2. Click on the tab heading “All”, located above the search bar.
+3. Click on the sorting criteria button, located to the right of the search bar.
+4. Click “Updated date” in the pop-up menu.
+5. Click into the search bar, located above the rows of issues.
+6. Type in the desired keyword.
+7. Press enter.
+8. Click on the most recent search result with the key word in its title. Since results are sorted recent to old, this is the first relevant search result.
+9. Return whether it is closed. You can tell if it’s closed based on the open or closed tags, located above the issue title.

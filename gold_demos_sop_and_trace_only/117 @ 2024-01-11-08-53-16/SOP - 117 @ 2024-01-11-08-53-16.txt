@@ -1,0 +1,5 @@
+What is the date when I made my first purchase on this site?
+1. Click on 'My Account' in the top bar.
+2. Click on 'My Orders' in the left grey box.
+3. To go to the first purchase, click on page '6', next to the '>' icon, which is the last page of orders.
+4. Report the date of the last order in this page.

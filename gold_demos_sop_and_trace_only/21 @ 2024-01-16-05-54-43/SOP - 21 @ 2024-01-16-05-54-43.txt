@@ -1,0 +1,7 @@
+List out reviewers, if exist, who mention about ear cups being small
+1. Scroll down to the “Details” section header.
+2. Click on the “Reviews” tab, located directly to the right of the “Details” tab.
+3. Scroll down through all customer reviews.
+4. Click the next page button if necessary, located to the right of the page numbers.
+5. Continue to scroll through all customer reviews.
+6. Return which reviewers mention the requested criteria. The reviewer name can be found in the bottom left corner of the row for each review in bolded text. You can tell whether a review mentions the requested criteria based on the content of the review title and review body. The review title is located at the top right of the row of each review, and the review body is located below the title.

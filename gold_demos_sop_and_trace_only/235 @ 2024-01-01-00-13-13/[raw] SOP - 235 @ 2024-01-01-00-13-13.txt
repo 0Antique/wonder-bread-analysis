@@ -1,0 +1,4 @@
+Get the order number of my most recent order.
+1. Click on the blue "My Account" button on the top right of the page.
+2. On the left gray sidebar menu, click on "My Orders".
+3. Look at the value under the "Order #" column for the first row.

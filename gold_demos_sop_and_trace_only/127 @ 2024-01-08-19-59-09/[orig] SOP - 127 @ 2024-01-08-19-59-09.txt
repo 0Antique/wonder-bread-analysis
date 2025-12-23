@@ -1,0 +1,5 @@
+What brands appear most frequently among the top search terms?
+1. Click on 'REPORTS' in the left sidebar.
+2. Click on 'Search Terms' under 'Marketing'.
+3. Click on the 'Hits' column heading to sort search terms by hits.
+4. Report the most frequently appearing brands from this table.

@@ -1,0 +1,4 @@
+Checkout merge requests requiring my review
+1. Click the fourth icon from the top right corner, "Merge requests", which is denoted by an arrow pointing from one node to two others.
+2. From the dropdown menu, click on the first option "Assigned to you".
+3. Thus, merge requests requiring my review are shown.

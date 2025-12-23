@@ -1,0 +1,4 @@
+Increase the price of this product by $11.5.
+1. Triple click on the "Price" text field with the 32.00 price.
+2. Type "43.50" in the "Price" text field.
+3. Click on the orange "Save" button at the top right of the screen.

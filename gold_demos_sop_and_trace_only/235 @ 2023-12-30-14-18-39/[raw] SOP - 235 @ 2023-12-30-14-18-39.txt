@@ -1,0 +1,6 @@
+Get the order number of my most recent order
+1. Click on "My Account" in the upper right.
+2. Click on "My Orders" in the left pane.
+3. For the top order, click on "View Order"
+
+

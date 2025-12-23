@@ -1,0 +1,8 @@
+What is the top-1 best-selling brand in Quarter 1 2022
+1. Click on 'REPORTS' in the left sidebar.
+2. Click on 'Bestsellers' under 'Products'.
+3. Write the date '1/1/22' in the 'From' text box to put the start date of quarter 1 2022.
+4. Write the date '3/31/22' in the 'To' text box to put the end date of quarter 1 2022.
+5. Click on the 'Show Report' orange button on the top right.
+6. Count how many products were sold for each brand over the quarter from the sales results.
+7. Report the brand for which the total was the highest.

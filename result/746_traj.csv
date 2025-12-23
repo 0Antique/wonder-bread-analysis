@@ -1,0 +1,91 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+746 @ 2023-12-31-03-49-47.json,1,1,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[1]/a/span,,,,,span,New project,
+746 @ 2023-12-31-03-49-47.json,3,3,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[1]/div[1]/a/div[2],,,,,div,"Create blank project\n\nCreate a blank project to store your files, plan your work, and collaborate on code, among other things.",
+746 @ 2023-12-31-03-49-47.json,5,5,mouseup,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2023-12-31-03-49-47.json,7,7,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2023-12-31-03-49-47.json,9,9,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[5]/div[1]/div[1]/label[1],,,,,label,"Private\n\nProject access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.",
+746 @ 2023-12-31-03-49-47.json,11,11,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/button[1],,submit,,,button,Create project,
+746 @ 2023-12-31-03-49-47.json,13,13,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+746 @ 2023-12-31-03-49-47.json,15,15,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+746 @ 2023-12-31-03-49-47.json,17,17,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+746 @ 2023-12-31-03-49-47.json,19,19,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2023-12-31-03-49-47.json,21,21,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2023-12-31-03-49-47.json,23,23,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div,,,,,div,Primer\nprimer,
+746 @ 2023-12-31-03-49-47.json,25,25,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2023-12-31-03-49-47.json,27,27,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2023-12-31-03-49-47.json,29,29,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/div[1]/span,,,,,span,Convex Eggtart,
+746 @ 2023-12-31-03-49-47.json,31,31,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2023-12-31-03-49-47.json,33,33,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2023-12-31-03-49-47.json,35,35,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li[1]/button/div/p/div,,,,,div,Abishek S\nabisubramanya27,
+746 @ 2023-12-31-03-49-47.json,37,37,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+746 @ 2024-01-06-15-25-16.json,1,1,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[1]/a[1]/svg[2],,,,,svg,,
+746 @ 2024-01-06-15-25-16.json,3,3,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[1]/div[1]/ul/li[1]/a,,,,,a,New project/repository,
+746 @ 2024-01-06-15-25-16.json,5,5,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[1]/div[1]/a/div[2],,,,,div,"Create blank project\n\nCreate a blank project to store your files, plan your work, and collaborate on code, among other things.",
+746 @ 2024-01-06-15-25-16.json,7,7,mouseup,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-06-15-25-16.json,9,9,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-06-15-25-16.json,11,11,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[5]/div[1]/div[1]/label[1]/span[1]/svg/use,,,,,use,,
+746 @ 2024-01-06-15-25-16.json,13,13,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/button[1]/span,,,,,span,Create project,
+746 @ 2024-01-06-15-25-16.json,15,15,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+746 @ 2024-01-06-15-25-16.json,17,17,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+746 @ 2024-01-06-15-25-16.json,19,19,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+746 @ 2024-01-06-15-25-16.json,21,21,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-06-15-25-16.json,23,23,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-06-15-25-16.json,25,25,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-06-15-25-16.json,27,27,keypress,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-06-15-25-16.json,29,29,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+746 @ 2024-01-06-21-25-14.json,1,1,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[1]/a/span,,,,,span,New project,
+746 @ 2024-01-06-21-25-14.json,3,3,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[1]/div[1]/a/div[2]/p[1],,,,,p,"Create a blank project to store your files, plan your work, and collaborate on code, among other things.",
+746 @ 2024-01-06-21-25-14.json,5,5,mouseup,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-06-21-25-14.json,7,7,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-06-21-25-14.json,9,9,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[5]/div[1]/div[1]/label[1],,,,,label,"Private\n\nProject access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.",
+746 @ 2024-01-06-21-25-14.json,11,11,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/button[1]/span,,,,,span,Create project,
+746 @ 2024-01-06-21-25-14.json,13,13,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+746 @ 2024-01-06-21-25-14.json,15,15,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+746 @ 2024-01-06-21-25-14.json,17,17,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+746 @ 2024-01-06-21-25-14.json,19,19,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,lllm_bulk_inferenc
+746 @ 2024-01-06-21-25-14.json,21,21,mouseup,/html/body[1]/div[12]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div,,,,,div,Primer\nprimer,
+746 @ 2024-01-06-21-25-14.json,23,23,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2024-01-06-21-25-14.json,25,25,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,lllm_bulk_inferenc
+746 @ 2024-01-06-21-25-14.json,27,27,mouseup,/html/body[1]/div[12]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/div[1]/span,,,,,span,Convex Eggtart,
+746 @ 2024-01-06-21-25-14.json,29,29,mouseup,/html/body[1]/div[12]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1],,,,,div,Primer\nConvex Eggtart\nSelect members or type email addresses,
+746 @ 2024-01-06-21-25-14.json,31,31,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2024-01-06-21-25-14.json,33,33,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,lllm_bulk_inferenc
+746 @ 2024-01-06-21-25-14.json,35,35,mouseup,/html/body[1]/div[12]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div,,,,,div,Abishek S\nabisubramanya27,
+746 @ 2024-01-06-21-25-14.json,37,37,mouseup,/html/body[1]/div[12]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+746 @ 2024-01-07-12-26-58.json,1,1,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[1]/a/span,,,,,span,New project,
+746 @ 2024-01-07-12-26-58.json,3,3,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[1]/div[1]/a/div[2],,,,,div,"Create blank project\n\nCreate a blank project to store your files, plan your work, and collaborate on code, among other things.",
+746 @ 2024-01-07-12-26-58.json,5,5,mouseup,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-07-12-26-58.json,7,7,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-07-12-26-58.json,9,9,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/span/span,,,,,span,‎Pick a group or namespace‎,
+746 @ 2024-01-07-12-26-58.json,11,11,scroll,,,,,,,,
+746 @ 2024-01-07-12-26-58.json,13,13,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/div/div/li[14]/button/div/p,,,,,p,byteblaze,
+746 @ 2024-01-07-12-26-58.json,15,15,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[5]/div[1]/div[1]/label[1],,,,,label,"Private\n\nProject access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.",
+746 @ 2024-01-07-12-26-58.json,17,17,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/button[1]/span,,,,,span,Create project,
+746 @ 2024-01-07-12-26-58.json,19,19,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+746 @ 2024-01-07-12-26-58.json,21,21,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+746 @ 2024-01-07-12-26-58.json,23,23,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+746 @ 2024-01-07-12-26-58.json,25,25,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-07-12-26-58.json,27,27,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/span[1],,,,,span,primer,
+746 @ 2024-01-07-12-26-58.json,29,29,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2024-01-07-12-26-58.json,31,31,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-07-12-26-58.json,33,33,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/span[1],,,,,span,convexegg,
+746 @ 2024-01-07-12-26-58.json,35,35,mouseup,//*[@id='invite-members-modal-3_search'],empty-invites-alert,text,,,input,,
+746 @ 2024-01-07-12-26-58.json,37,37,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-07-12-26-58.json,39,39,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/span[1],,,,,span,abisubramanya27,
+746 @ 2024-01-07-12-26-58.json,41,41,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+746 @ 2024-01-14-04-09-43.json,1,1,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+746 @ 2024-01-14-04-09-43.json,3,3,mouseup,//*[@id='js-onboarding-new-project-link'],Create new...,,,,a,,
+746 @ 2024-01-14-04-09-43.json,5,5,mouseup,/html/body[1]/header[1]/div[1]/div/div[3]/ul/li[1]/div[1]/ul/li[1]/a,,,,,a,New project/repository,
+746 @ 2024-01-14-04-09-43.json,7,7,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[1]/div[1]/a/div[2],,,,,div,"Create blank project\n\nCreate a blank project to store your files, plan your work, and collaborate on code, among other things.",
+746 @ 2024-01-14-04-09-43.json,9,9,mouseup,//*[@id='project_name'],,text,My awesome project,,input,,
+746 @ 2024-01-14-04-09-43.json,11,11,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,awesome-llm
+746 @ 2024-01-14-04-09-43.json,13,13,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/div[5]/div[1]/div[1]/label[1],,,,,label,"Private\n\nProject access must be granted explicitly to each user. If this project is part of a group, access is granted to members of the group.",
+746 @ 2024-01-14-04-09-43.json,15,15,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[2]/div[2]/div[2]/div[1]/div/form/button[1]/span,,,,,span,Create project,
+746 @ 2024-01-14-04-09-43.json,17,17,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+746 @ 2024-01-14-04-09-43.json,19,19,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+746 @ 2024-01-14-04-09-43.json,21,21,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+746 @ 2024-01-14-04-09-43.json,23,23,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-14-04-09-43.json,25,25,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-14-04-09-43.json,27,27,keystroke,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-14-04-09-43.json,29,29,keypress,//*[@id='project_name'],,text,My awesome project,,input,,llm_bulk_inferenc
+746 @ 2024-01-14-04-09-43.json,31,31,mouseup,/html/body[1]/div[8]/div[1]/div/div[1]/footer[1]/button[2],,button,,,button,Invite,

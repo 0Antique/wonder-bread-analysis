@@ -1,0 +1,31 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+228 @ 2023-12-26-22-02-47.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+228 @ 2023-12-26-22-02-47.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2023-12-26-22-02-47.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+228 @ 2023-12-26-22-02-47.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button/span,,,,,span,Search,
+228 @ 2023-12-26-22-02-47.json,9,9,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2023-12-26-22-02-47.json,11,11,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2023-12-26-22-02-47.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2023-12-27-13-03-54.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+228 @ 2023-12-27-13-03-54.json,3,3,keypress,//*[@id='name'],,text,,,input,,
+228 @ 2023-12-27-13-03-54.json,5,5,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2023-12-27-13-03-54.json,7,7,keystroke,//*[@id='name'],,text,,,input,,
+228 @ 2023-12-27-13-03-54.json,9,9,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button/span,,,,,span,Search,
+228 @ 2023-12-27-13-03-54.json,11,11,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2023-12-27-13-03-54.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2023-12-27-13-03-54.json,15,15,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2024-01-08-03-17-50.json,1,1,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-08-03-17-50.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-08-03-17-50.json,5,5,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-08-03-17-50.json,7,7,keystroke,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-08-03-17-50.json,9,9,keypress,//*[@id='name'],,text,,,input,,Sephor
+228 @ 2024-01-08-03-17-50.json,11,11,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2024-01-08-03-17-50.json,13,13,mouseup,//*[@id='sorter'],,,,,select,Product Name\nPrice,name
+228 @ 2024-01-08-03-17-50.json,15,15,scroll,,,,,,,,
+228 @ 2024-01-08-03-17-50.json,17,17,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[5]/div[1]/div[2]/a[1],,,,,a,Set Descending Direction,
+228 @ 2024-01-08-03-17-50.json,19,19,scroll,,,,,,,,
+228 @ 2024-01-13-18-28-25.json,1,1,mouseup,/html/body[1]/div[2]/header[1]/div[2]/div[2]/div[2]/form/div[1]/div[1]/div[2]/a,,,,,a,Advanced Search,
+228 @ 2024-01-13-18-28-25.json,3,3,mouseup,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-13-18-28-25.json,5,5,keystroke,//*[@id='name'],,text,,,input,,
+228 @ 2024-01-13-18-28-25.json,7,7,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div/form[1]/div[1]/div/button/span,,,,,span,Search,
+228 @ 2024-01-13-18-28-25.json,9,9,scroll,,,,,,,,

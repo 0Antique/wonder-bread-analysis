@@ -1,0 +1,12 @@
+Which customer has completed the most number of orders in the entire history?
+1. Click on the "Reports" icon on the left to reveal the pop-out menu.
+2. Click on "Order Total" under the "Customers" section in the third column of the menu.
+3. Click on the empty box corresponding to "From:".
+4. Type the earliest possible date "01/01/1923".
+5. Click on the empty box corresponding to "To:".
+6. Type in today's date of "12/27/2023".
+7. Click the down button to the right of "Show By" to open the dropdown.
+8. Click on "Year" in the dropdown menu.
+9. Click on the gray "Refresh" button to search.
+10. Scroll down until all results are visible.
+11. Given the information, state which customer has completed the most number of orders in the entire history.

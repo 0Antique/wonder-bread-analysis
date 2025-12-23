@@ -1,0 +1,17 @@
+Start a private project awesome_web_agents with blank template and add Abishek, Vinta as members.
+1. Click the purple create new button (which is an icon of a plus button), located in the purple banner on the top right of the page.
+2. Click “New project/repository” option in the pop-up menu.
+3. Click the “Create blank project” card.
+4. Click into the “Project name” text box, located directly under the bolded text “Project name”.
+5. Enter "awesome_web_agents".
+6. Click the "Private" radio button under the "Visibility Level" section.
+7. Click on the blue "Create Project" button at the bottom of the form.
+8. Wait for the screen to load and the blue banner saying "Project 'awesome_web_agents' was successfully created." to appear.
+9. On the left menu, click on "Project Information".
+10. From the sub-menu, click on "Members".
+11. Click the blue “Invite members” button on the top right of the page.
+12. Enter "abishek" in the search field.
+13. Click the icon from the popup that has that name.
+14. Enter "vinta" in the search field.
+15. Click the icon from the popup that has that name.
+16. Click the blue “Invite” button on the bottom right of this form.

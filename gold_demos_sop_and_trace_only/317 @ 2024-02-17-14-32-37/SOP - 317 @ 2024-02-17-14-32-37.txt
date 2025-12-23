@@ -1,0 +1,8 @@
+List the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits?
+1. Click on "Explore" under the "Projects" heading
+2. Click on the search bar in the top right
+3. Type in "metaseq"
+4. From the results below, click on "Administrator / metaseq"
+5. Click on the "Repository" tab in the left sidebar.
+6. Click on the "Contributors" tab in the left sidebar.
+7. Report the information of the top three people listed (top left, top right, second left)

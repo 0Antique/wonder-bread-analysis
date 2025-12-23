@@ -1,0 +1,5 @@
+List out reviewers, if exist, who mention about ear cups being small
+1. Click on the blue "12 Reviews" text located near the SKU and price.
+2. Scroll down so all reviews on the first page of results are shown.
+3. Click on the small blue "2" to view the remainder of the reviews.
+4. Given the information, state the reviewers, if they exist, who mention about ear cups being small.

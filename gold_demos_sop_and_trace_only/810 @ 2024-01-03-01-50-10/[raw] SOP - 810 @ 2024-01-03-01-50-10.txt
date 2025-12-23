@@ -1,0 +1,11 @@
+Assign the issue regarding flash alert in primer design guide repo to myself.
+1. Search for the repository “primer design” in the search bar at the top of the page.
+2. Click on the link corresponding to the repository.
+3. Click on the "Issues" dropdown in the left sidebar of the project's main page.
+4. In the issues list, type "flash alert" into the search bar and press Enter to filter the issues related to flash alerts.
+4. Look for the specific issue regarding the use of flash alerts in dialog components. It should be titled something similar to "Add documentation on using Flash alerts in dialog components" or "Clarify usage of flash alert."
+5. Click on the title of the issue to open it.
+6. Once the issue is open, look for the "Assignee" section on the right-hand side of the issue page.
+7. Click on the "Edit" button next to "Assignee."
+8. In the "Assign to" field, select your own user name “Byte Blaze”.
+9. The issue should now show your username as the assignee.

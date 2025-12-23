@@ -1,0 +1,11 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to update the stock of size 33 blue Cronus yoga pants given the arrival of 5 of the product:
+
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the heading “Catalog”.
+3. Click into the search field, located above the products table.
+4. Type in “Cronus yoga pant”.
+5. Click on the product name of the relevant row of the products table.
+6. Click into the “Quantity” field.
+7. Delete the existing number.
+8. Type in the value of 5 + the existing number.
+9. Click the orange “Save” button, located near the top right of the page.

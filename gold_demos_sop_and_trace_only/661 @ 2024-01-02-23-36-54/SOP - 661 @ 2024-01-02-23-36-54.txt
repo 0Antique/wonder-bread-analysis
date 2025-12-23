@@ -1,0 +1,9 @@
+Open an issue to report the issue of connection refused in ChatGPT.
+1. On the top bar, click on the search box.
+2. In the search box, enter "chatGPT"
+3. Hit "return" to execute the search.
+4. From the results, click on "Convex Eggtart / Chatgpt" repository.
+5. From the left menu, click on "Issues".
+6. In the center of the page, click on the blue "New Issue" button.
+7. Enter "connection refused" in the Title field.
+8. Click on the blue "Create Issue" button on the bottom of the page.

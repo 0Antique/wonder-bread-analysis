@@ -1,0 +1,11 @@
+Add the following users to my time tracking tool as guest: ['yjlou']
+1. Scroll down on the 'Projects' page and locate the 'timeit' repo
+2. Click on the 'timeit' repo to reveal the repo page
+3. On the sidebar, locate the top section labeled, 'Project Information'
+4. Click on 'Project Information', revealing the dropdown 'Activity', 'Labels', 'Members' subsections
+5. Click on the 'Members' subsection to reveal the 'Project Members' page
+6. Locate the blue 'Invite Members' button on the top right of the 'Project Members' page and click on it
+7. Locate the textbox labeled 'Username or email address'
+8. Begin typing in the usernames 'yjlou', clicking on the matching user profiles as they are revealed.
+9. Locate the dropdown menu labeled 'Select a role'
+10. Click the dropdown menu and click on the role specified: 'Guest'

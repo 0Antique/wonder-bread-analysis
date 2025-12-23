@@ -1,0 +1,17 @@
+Add a new color option brown to the size S of Phoebe Zipper Sweatshirt.
+1. Click on the "CATALOG" button in the left side bar of the page under the "Sales" button.
+2. From the popped up "Catalog" sub-menu, click on the "Products" option. This should be the first option in that list.
+3. Click on the "Search by keyword" search bar above the displayed table, on the left side.
+4. Type "Phoebe Zipper Sweatshirt" in the "Search by keyword" search bar.
+5. Click on the magnifying glass logo in the "Search by keyword" search bar, to its right.
+6. Scroll down until you see the product "Phoebe Zipper Sweatshirt".
+7. Click on the blue "Edit" link in the "Action" column at the right of the screen for this product to open configurations.
+8. Scroll down util you see the "Configurations" section on the left column of the page. 
+9. Click on the dark brown "Edit Configurations" button at the right of the screen in the "Configurations" section. This will be located to the right of the "Add Products Manually" blue link.
+10. Click on the orange "Next" button at the top right of the screen. This will be located to the right of the faded grey "Back" button.
+11. Click on the "S" checkbox in the "Size" section table under the "55 cm" checkbox.
+12. Click on the "Brown" checkbox at the right of the "Blue" checkbox in the "Color" section table.
+13. Click on the orange "Next" button at the top right of the screen. This will be located to the right of the faded grey "Back" button.
+14. Click on the orange "Next" button at the top right of the screen. This will be located to the right of the faded grey "Back" button.
+15. Click on the orange "Generate Product" button at the top right of the screen. This will be located to the right of the faded grey "Back" button.
+16. Click on the orange "Save" button at the top right of the screen. This will be to the right of the dark brown "Add Attribute" button on the top right of the page.

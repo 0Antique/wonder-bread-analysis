@@ -1,0 +1,12 @@
+What are the top-3 best-selling product in Jan 2023?
+
+1. Click on the "Reports" button on the far lefthand sidebar. It has an icon which looks like a chart. It should be located directly above the "Stores" button and below the "Content" button. 
+2. In the popup menu that appears, click on the "Bestsellers" link to go to the "Bestsellers Report" page. The link should be located under the "Products" section.
+3. Locate the field labeled "Period" and click on the dropdown menu to reveal our time options.
+4. Click on the "Month" option to set the reporting period to Month.
+5. Click on the "From" textbox to focus it. It should be located directly underneath the "Period" field.
+6. Type in the first day of our desired time period, which in this case is "01/01/2023"
+7. Click on the "To" textbox to focus it. It should be located directly underneath the "From" field.
+8. Type in the last day of our desired time period, which in this case is "01/31/2023"
+9. Click on the orange "Show Report" button, which can be found on the top right of the page, in order to generate our best-selling product report.
+10. The best-selling products will appear in a table at the bottom of the page. Scroll down to reveal this table. The results should be sorted in descending order by Order Quantity, so the top-3 products will simply be the first three rows in the results.

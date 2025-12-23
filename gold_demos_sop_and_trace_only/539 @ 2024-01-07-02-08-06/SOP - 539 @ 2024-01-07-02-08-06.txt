@@ -1,0 +1,23 @@
+Modify the address of order #65 to 789 Pine Lane, San Francisco, CA, 94102
+1. Click on "Sales" in the left sidebar
+2. Click "Orders" on the popover options
+3. Clear any existing filters if "x" are visible below the "Search by keyword" text box.
+4. Click on "Filters"
+5. Click on the text box under "ID"
+6. Type "65"
+7. Press Enter
+8. Click on "View" in the first result's row
+9. Click the blue "Edit" button next to "Billing Address"
+10. Scroll down until the "Street Address" is visible
+11. Click the text box next to "Street Address"
+12. Clear the contents of the text box, if any
+13. Type "789 Pine Lane"
+14. Click the dropdown next to "State/Province"
+15. Select "California" from the dropdown
+16. Click the text box next to "City"
+17. Clear the contents of the text box, if any
+18. Type "San Francisco"
+19. Click the text box next to "Zip/Postal Code"
+20. Clear the contents of the text box, if any
+21. Type "94102"
+22. Click the orange "Save Order Address" in the upper right of the screen

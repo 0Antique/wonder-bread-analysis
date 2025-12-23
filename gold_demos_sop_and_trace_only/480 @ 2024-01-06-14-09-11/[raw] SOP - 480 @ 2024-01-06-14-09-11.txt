@@ -1,0 +1,9 @@
+To Invite yjlou as collaborator to solarized-prism-theme yourself, 
+1. In the top right corner, there is a search textbox that reads “Filter by name”. Type the project name until only one option shows up in the results. 
+2. Click on the relevant project.
+3. Click on the button titled "Project information" on the lefthand side menu.
+4. A button called "Members" just appeared under “Project Information.” Click it. 
+5. Click on the blue "Invite members" button at the right of the screen.
+6. Type the username "yjlou" in the textbox that appears under the bold text "Username or email address”.
+7. A dropdown of users with matching information will appear from the textbox. There should only be one option, the person you want to invite. Click on them. 
+8. Click on the blue "Invite" button in the pop up window.

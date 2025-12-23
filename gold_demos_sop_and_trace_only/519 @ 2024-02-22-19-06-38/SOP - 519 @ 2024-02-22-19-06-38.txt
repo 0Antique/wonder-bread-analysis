@@ -1,0 +1,6 @@
+Add this product to my wishlist
+1. Click any option button for the first required product attribute. In this case, for attribute "Color", we click the button for "American Flag in Eagle's Eye". The option button is located directly under the bolded text "Color". Scroll down to view more options if necessary.
+2. Scroll down to view other required product attributes.
+3. Click any option button for the second required product attribute. In this case, for attribute "Size", we click the button for "iPhone 13 Mini(5.4 inch)". The option button is located directly under the bolded text "Size". Scroll down to view more options if necessary.
+4. Scroll down to the "Add to Wish List" button, which is located directly below the product quantity box and directly to the left of the "Add to Compare" button.
+5. Click the "Add to Wish List" button, which is located directly below the product quantity box and directly to the left of the "Add to Compare" button.

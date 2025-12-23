@@ -1,0 +1,8 @@
+Show me the name of the customers who have expressed dissatisfaction with Chloe tank
+1. Click on the "Reports" icon on the left to reveal the pop-out menu.
+2. Click on "By Products" under the "Reviews" section in the bottom left.
+3. Click in the empty textbox at the top of the 2nd column to filter by "Product".
+4. Type "chloe" to search for relevant reviews.
+5. Press the "Enter/Return" key to execute the search.
+6. Click the blue "Show Reviews" on the right of the page.
+7. Given the information, state the customers who have expressed dissatisfaction with Chloe tank.

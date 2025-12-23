@@ -1,0 +1,8 @@
+To Post a review of my recent reading "Love story" in the r/books with my comment "I cried", do this:
+1. In the header, click "forums"
+2. Under that, click the button that says "Alphabetical" to see all the subreddit options.
+3. Click on the "books" forum.
+4. In the header, click the plus button that says "Submit".
+5. In the textbox under the "title" header, enter a title of your recent reading.
+6. In the textbox under the "body" header, enter your review.
+7. At the bottom of the page, press the "Create submission" button.

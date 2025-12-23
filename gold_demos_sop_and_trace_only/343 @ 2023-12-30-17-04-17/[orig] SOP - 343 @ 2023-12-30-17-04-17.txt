@@ -1,0 +1,9 @@
+List all opened issues that don't have any labels
+1. Click the "Issues" tab on the left.
+2. Click in the "Search" bar at the top of the page.
+3. From the dropdown that appears, click on the fourth option "Label".
+4. Click the equals sign "=".
+5. Type the keyword "None".
+6. From the autocomplete menu click on the gray "None" label.
+7. Press the "Enter/Return" key to show the results.
+8. Thus, the list of all opened issues that don't have any labels is displayed.

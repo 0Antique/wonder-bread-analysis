@@ -1,0 +1,6 @@
+What is the price range for products from sephora?
+1. Click on 'Advanced Search' below the search box in the top right.
+2. Enter 'sephora' in the 'Product Name' text box.
+3. Click on the 'Search' blue button.
+4. Scroll down and note all prices of sephora products.
+5. Report the lowest and highest prices.

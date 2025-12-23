@@ -1,0 +1,17 @@
+Buy the highest rated product from the NS switch pouch category within a budget under 60.
+1. Click the gray "Video Games" tab on the top right of the page next to the "Office Products" button
+2. Scroll down until the blue "Nintendo Switch" tab is visible on the bottom left of the screen
+3. Click the blue "Nintendo Switch" tab on the bottom left of the screen
+6. Scroll down until the blue "$0.00-$99.99" tab is visible on the bottom left of the screen
+7. Click the blue "$0.00-$99.99" tab on the bottom left of the screen
+8. Scroll down into the items list until the item with the greatest amount of orange stars and has a 
+number next to the dollar sign underneath the stars that is less than 60 is visible
+9. Scroll up until the blue "add to cart" button next to the heart symbol in the box field of the item in the items 
+list with the greatest amount of orange stars
+10. Click the blue "shopping list" link in the green popup window at the top of the screen
+11. Click the blue "add to cart" button next to the heart symbol in the box field of the item in the items list with 
+the greatest amount of orange stars
+12. Click the blue "shopping list" link in the green popup window at the top of the screen
+13. Click the blue "Proceed to Checkout" button in the right side of the screen
+14. Click the blue "Next" button at the bottom right of the screen
+15. Click the blue "Place Order" button at the bottom right of the screen

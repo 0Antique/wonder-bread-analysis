@@ -1,0 +1,4 @@
+List the top 2 search terms in my store.
+
+1. Scroll down until you see the "Top Seach Terms" table. It is at the left of the screen, at the right of the brown side bar, below the "Last Search Terms" table. The table contains 3 columns: "Seach Term", "Results" and "Uses".
+2. Keep track of the first two "Search Term" rows of the "Top Search Terms" table. The table is sorted by number of uses, so the first two rows will be the top 2 search terms.

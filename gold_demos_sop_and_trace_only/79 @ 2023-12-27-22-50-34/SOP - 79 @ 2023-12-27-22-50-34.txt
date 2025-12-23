@@ -1,0 +1,8 @@
+What is the total count of Not Approved reviews amongst all the reviews?
+
+1. Click on the “MARKETING” button in the dark gray column on the left hand side of the page. The button has a megaphone in it and is between the "CUSTOMERS" and "CONTENT" buttons.
+2. Click on “All Reviews” in the pop up menu, located under the heading “User Content”. This option is in the second column on the menu displayed.
+3. Click on the dropdown menu located directly under the column heading “Status”. This column is the fourth from the left and is left to the "Title" column.
+4. Click on the “Not Approved” option in the pop up menu. This is the last option in the menu.
+5. Click on the dark gray "Search" button at the left of the screen. This button is placed above the "Actions" dropdown menu, and has a blue link at the right with the text "Reset Filter".
+6. The number of Not Approved reviews is the number of records found, which is located directly above the third column of table, the one with heading “Created”. The text you are looking for has the format "X records found", where X is the number of reviews found which were not approved.

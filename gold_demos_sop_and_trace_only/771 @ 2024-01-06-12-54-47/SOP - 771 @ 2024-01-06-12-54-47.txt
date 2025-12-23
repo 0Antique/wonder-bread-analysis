@@ -1,0 +1,9 @@
+Approve the positive reviews to display in our store.
+1. From the left menu, click on "Marketing".
+2. From the popped up sub-menu, click on "Pending Reviews" under "User Content" section.
+3. From the list, checkmark on the first column all positive reviews.
+4. On the top of the table, click on the "Actions" dropdown.
+5. Select "Update Status" from the dropdown.
+6. Click on the "Status" dropdown.
+7. Select "Approved" from the dropdown.
+8. Click on the grey "Submit" button next to the "Status" dropdown

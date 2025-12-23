@@ -1,0 +1,10 @@
+Post a review of my recent reading "Love story" in the r/books with my comment  "I cried".
+1. Click on the white text "Forums" in the top red navigation bar, directly to the right of the "Postmill" option and to the left of the "Wiki" option.
+2. Click on the gray "Alphabetical" text in the menu at the top of the screen which is directly below the top navigation bar. It is located directly to the right of the "Tags" option.
+3. A list of All Forums should now be visible. Since we want to post a review in the books subreddit, we should click on the red link labeled "books" to go to the books subreddit. This link is located in the first column from the left, under the "B" section.
+4. We can now see the list of top submissions for the books subreddit. To post our review, click on the red "+ Submit" button at the top of the screen, directly to the right of the "email" icon.
+5. Click on the text field labeled "Title" to focus it. It is located in the middle of the "Create submission" panel under the text field labeled "URL".
+6. Type the title of our post into the text field: "Love story"
+7. Click on the text field labeled "Body" to focus it. It is located directly below the "Title" text field.
+8. Type the comment: "I cried"
+9. Click on the red "Create submission" button at the bottom of the page, directly under the "Forum" dropdown menu. You may need to scroll down until the Create submission button is visible.

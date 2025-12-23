@@ -1,0 +1,6 @@
+Preview the Magento Blank theme for my shop
+
+1. Click on the “Content” button on the far lefthand sidebar to open up navigation options for content-related pages. It has an icon which looks like a page with blocks arranged on it. It should be located directly above the “Reports” button and below the “Marketing” button.
+2. In the popup menu that appears, click on the “Themes” link to go to the “Content Themes” page. The link should be located under the “Design” section.
+3. Click on the blue “View” link to view the desired theme, in this case the Magento Blank theme, in order to view the theme’s page. The link should be located in the “Action” column of the table containing available themes. The link should also be in the same row of the available themes table as the Magento Blank theme. You can identify this row by the fact that it will have the name of the desired theme, in this case “Magento Blank”, in the “Theme Title” column of the row.
+4. Click on the preview image located directly to the right of the bolded text “Theme Preview Image” in order to preview the theme. The preview image should also be directly below the title of the desired theme, in this case “Magento Blank”.

@@ -1,0 +1,4 @@
+How many commits did Eric make to a11yproject on 3/2?
+1. Click on the 'a11yproject.com' repo from the list of repos displayed.
+2. Click on 'Commits', under the project title.
+3. Count the number of commits listed under '02 Mar, 2023' which are made by Eric, which is 2.

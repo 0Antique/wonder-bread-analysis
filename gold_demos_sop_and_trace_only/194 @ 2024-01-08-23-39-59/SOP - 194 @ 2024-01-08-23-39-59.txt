@@ -1,0 +1,9 @@
+Get the total payment amount of the last 5 completed orders
+1. Click on 'SALES' on the left sidebar.
+2. Click on 'Orders' in the popup window.
+3. Click on the 'Purchase Date' column header two times to sort orders with most recent orders first.
+4. Click on the 'Filters' button on the right side.
+5. Click on the status drop down box under 'Status'.
+6. Click on 'Complete' from the drop down list.
+7. Click on the 'Apply Filters' black button.
+8. Report the sum of the 'Grand Total (Purchased)' column for the first 5 orders, which are the most recent.

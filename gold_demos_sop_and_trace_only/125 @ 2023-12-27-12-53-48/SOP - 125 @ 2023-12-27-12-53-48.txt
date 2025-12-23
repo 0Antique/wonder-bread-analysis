@@ -1,0 +1,11 @@
+What is the price range of teeth grinding mouth guard in the One Stop Market?
+1. Click on "Advanced Search" link. It is located directly below the main search bar at the top right corner of the homepage. If you do not see the "Advanced Search" link immediately, scroll up to the top of the page.
+2. Click on the "Product Name" input field. This box is designated for typing specific search queries related to the product's name.
+3. Type the name of the product we are interested in searching for into the "Product Name" box, in this case it is "mouth guard".
+4. Click on the "Description" input field to bring it into focus. This box is for additional search keywords that describe the product. It is positioned directly below the "Product Name" box.
+5. Type "teeth grinding" into the "Description" box. We do this because we expect "teeth grinding" to appear in the description of relevant products for this task.
+6. Press the "Enter" key to submit the search query. Alternatively, look for a button labeled "Search" at the end of the input fields and click it.
+7. Click the "Sort By" dropdown menu to expand it and reveal sorting options. This feature can be found above the listed products. If it's not immediately visible, scroll up the page to bring it into view.
+8. Select "Price" from the list to sort the search results by price. This action helps in identifying the price range by starting with the lowest or highest priced items. Initially, the products might be sorted in ascending order by price (lowest first). Scroll through the product listings until you see the price of the item listed as the cheapest option. Take note of this price, as it represents the lower end of the price range.
+9. Press the sorting arrow icon that is directly to the right of the "Sort By" dropdown menu. This button will change the sorting order to descending (highest price first).
+10. Scroll again through the product listings to identify the price of the item listed as the most expensive option. Note this price, as it represents the upper end of the price range. The range is determined by the lowest and highest prices observed.

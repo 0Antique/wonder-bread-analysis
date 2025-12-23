@@ -1,0 +1,7 @@
+Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.
+1. Click on 'My Account' in the top bar.
+2. Click on 'My Orders' in the left grey box.
+3. Since no orders in this page are within the past month, click on the '>' button to go to previous orders.
+4. This page has orders in the past month. Since none of them have the completed/fulfilled status, the total fulfilled orders are 0 and the amount spent is 0.
+5. Since orders in this page go more than a month before today's date, we have covered all orders for the past month.
+6. Report the number of fulfilled orders and the amount spent.

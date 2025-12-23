@@ -1,0 +1,10 @@
+Give me the brand of the products that have 3 units left
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the bolded heading “Catalog”.
+3. Click the “Filters” button, located to the left of the “Default View” button.
+4. Click into the “from” box, under the bolded text “Quantity”.
+5. Type “3”.
+6. Click into the “to” box, under the “from” box.
+7. Type “3”.
+8. Press enter.
+9. Scroll down through the rows of the product table. While scrolling, record the brands of each relevant product. The name of the product can be found in the 4th column of the product table, which contains information on the brand of the product. All products with the same base name should be considered the same product; do not differentiate between products of different colors or sizes if they have the same base name.

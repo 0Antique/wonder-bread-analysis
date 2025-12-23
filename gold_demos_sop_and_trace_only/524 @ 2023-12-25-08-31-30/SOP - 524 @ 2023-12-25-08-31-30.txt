@@ -1,0 +1,26 @@
+Star the top eight most stared repos in Gitlab.
+1. Click on the dropdown menu at the right of the "Filter by name" input. This should be towards the top right of the page, under the blue "New Project" button.
+2. Click on the option "Most stars" from the dropdown menu.
+3. From the displayed list, click on the name of the first project "Primer/design" under the "All" tab.
+4. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+5. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+6. From the displayed list, click on the name of the second project "The A11Y Project/a11yproject.com" under "All".
+7. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+8. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+9. From the displayed list, click on the name of the third project "Byte Blaze/millenials-to-snake-people" under "All".
+10. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+11. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+12. From the displayed list, click on the name of the fourth project "Byte Blaze/empathy-prompts" under "All".
+13. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+14. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+15. From the displayed list, click on the name of the fifth project "Byte Blaze/a11y-webring.club" under "All".
+16. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+17. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+18. From the displayed list, click on the name of the sixth project "Byte Blaze/ericwbailey.website" under "All".
+19. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+20. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+21. From the displayed list, click on the name of the seventh project "Byte Blaze/a11y-syntax-highlighting" under "All".
+22. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.
+23. Click the "dashboard" button at the top left of the screen. This is the orange "GitLab" fox-like logo in the header menu of the page.
+24. From the displayed list, click on the name of the eight project "Byte Blaze/dotfiles" under "All".
+25. Click on the button "Star" with a star on it at the top right of the screen. This should be inline with the project name, and to the left of the white "Fork" button.

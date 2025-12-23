@@ -1,0 +1,6 @@
+Today is 3/15/2023, generate a refund report for Q1.
+1. Click on the "REPORTS" option in the left side bar under the "CONTENT" option.
+2. Click on the "Refunds" option in the "Reports" menu that appeared, under the second column "Sales".
+3. Type "01/1/2023" in the "From" date selector under the "Period" dropdown menu.
+4. Type "03/31/2023" in the "To" date selector under the "From" date selector.
+5. Click on the orange "Show Report" button at the top right of the screen.

@@ -1,0 +1,5 @@
+List the top 2 search terms in my store
+1. On the left bar, click on "Reports".
+2. Click on "Search Terms" tab under "Marketing".
+3. On the displayed table, click on "Hits" under there is a upward arrow displayed, indicating sort by descending.
+4. From the information shown, report the top 2 search terms in my store.

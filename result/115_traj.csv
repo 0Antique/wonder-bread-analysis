@@ -1,0 +1,28 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+115 @ 2023-12-28-01-11-31.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/a[1],,,,,a,MARKETING,
+115 @ 2023-12-28-01-11-31.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[5]/div[1]/ul[1]/li[2]/ul/li[2]/div[1]/ul/li[1]/a,,,,,a,All Reviews,
+115 @ 2023-12-28-01-11-31.json,5,5,scroll,,,,,,,,
+115 @ 2023-12-28-11-19-48.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1]/span,,,,,span,REPORTS,
+115 @ 2023-12-28-11-19-48.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[2]/div[1]/ul/li[2]/a/span,,,,,span,By Products,
+115 @ 2023-12-28-11-19-48.json,5,5,mouseup,//*[@id='gridProducts_filter_name'],,text,,,input,,
+115 @ 2023-12-28-11-19-48.json,7,7,keystroke,//*[@id='gridProducts_filter_name'],,text,,,input,,
+115 @ 2023-12-28-11-19-48.json,9,9,keypress,//*[@id='gridProducts_filter_name'],,text,,,input,,chloe
+115 @ 2023-12-28-11-19-48.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/tbody[1]/tr/td[7]/a,,,,,a,Show Reviews,
+115 @ 2024-01-08-19-16-33.json,1,1,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/a[1]/span,,,,,span,REPORTS,
+115 @ 2024-01-08-19-16-33.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[7]/div[1]/ul[1]/li[1]/ul/li[2]/div[1]/ul/li[2]/a,,,,,a,By Products,
+115 @ 2024-01-08-19-16-33.json,5,5,mouseup,//*[@id='gridProducts_filter_name'],,text,,,input,,
+115 @ 2024-01-08-19-16-33.json,7,7,keystroke,//*[@id='gridProducts_filter_name'],,text,,,input,,
+115 @ 2024-01-08-19-16-33.json,9,9,keypress,//*[@id='gridProducts_filter_name'],,text,,,input,,chloe
+115 @ 2024-01-08-19-16-33.json,11,11,mouseup,/html/body[1]/div[2]/main[1]/div/div/div/div[1]/div[2]/table/tbody[1]/tr/td[2],,,,,td,Chloe Compete Tank,
+115 @ 2024-01-13-05-34-10.json,1,1,mouseup,//*[@id='back'],,button,,,button,Back,
+115 @ 2024-01-13-05-34-10.json,3,3,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/a[1],,,,,a,CATALOG,
+115 @ 2024-01-13-05-34-10.json,5,5,mouseup,/html/body[1]/div[1]/nav[1]/ul/li[3]/div[1]/ul[1]/li/div[1]/ul/li[1]/a/span,,,,,span,Products,
+115 @ 2024-01-13-05-34-10.json,7,7,mouseup,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+115 @ 2024-01-13-05-34-10.json,9,9,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,
+115 @ 2024-01-13-05-34-10.json,11,11,keystroke,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Chloe tank
+115 @ 2024-01-13-05-34-10.json,13,13,keypress,//*[@id='fulltext'],Search by keyword,text,Search by keyword,,input,,Chloe
+115 @ 2024-01-13-05-34-10.json,15,15,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[4]/table/tbody[1]/tr[1]/td[4]/div,,,,,div,Chloe Compete Tank,
+115 @ 2024-01-13-05-34-10.json,17,17,scroll,,,,,,,,
+115 @ 2024-01-13-05-34-10.json,19,19,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[5]/div[1]/strong,,,,,strong,Product Reviews,
+115 @ 2024-01-13-05-34-10.json,21,21,scroll,,,,,,,,
+115 @ 2024-01-13-05-34-10.json,23,23,mouseup,/html/body[1]/div[2]/main[1]/div[2]/div/div/div/div[2]/div[5]/div[2]/fieldset/div[1]/div/div[3]/table/tbody[1]/tr[3]/td[11]/a,,,,,a,Edit,

@@ -1,0 +1,10 @@
+What is the top-1 best-selling product in 2022
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page.
+2. Click on “Bestsellers” in the pop up menu, located under the heading “Products”.
+3. Click into the “From” text field.
+4. Type in “1/1/22”.
+5. Click into the “To” text field, located directly below the “From” text field.
+6. Type “12/31/22”.
+7. Click the orange “Show Report” button located in the top right hand side of the page.
+8. Scroll down through each row of the report until you reach the bottom of the page. While scrolling, keep track of which product has the sold the greatest quantity. The quantity for each product is found in the “Order Quantity” column of the bestsellers table, on the right hand side of the page.
+9. The product that has the greatest total order quantity is the best selling product in 2022.

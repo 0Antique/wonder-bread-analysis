@@ -1,0 +1,17 @@
+Create a new public project "web_arena" and add Abishek, Vinta as members
+1. Click on the "plus" button at the top of the screen.
+2. Click on the "New project/repository" button in the dropdown menu.
+3. Click on the "Create blank project" button.
+4. Click on the "Project name" input.
+5. Type the project name “web”_arena in the "Project name" input.
+6. Click on the “Public” visibility level option.
+7. Click on the "Create project" button.
+8. Once the project is created, click on the "Project information" button in the left side bar.
+9. Click on "Members" under Project information.
+10. Click on the blue “Invite members" button on the right of the screen.
+11. Under the text box “Username or email address”, type the first username "Abishek".
+12. Press enter to confirm the selection.
+13. Click on the "Username or email address" input.
+14. Type the second username "Vinta".
+15. Press enter to confirm the selection.
+16. Click on the blue “Invite" button.

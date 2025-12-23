@@ -1,0 +1,11 @@
+What are the top-3 best-selling product in Jan 2023
+1. On the left bar, click on the "Reports" button.
+2. Under the "Products" header, click on "Bestsellers".
+3. Click on the down arrow next to the "Period" field.
+4. Click on "Month" in the dropdown.
+5. Click in the box next to the "From" field.
+6. Enter the first date of Jan 2023, which is 01/01/2023.
+7. Click in the box next to the "To" field.
+8. Enter the last date of Jan 2023, which is 01/31/2023.
+9. Click on the "Show Report" button on the top right side of the page.
+10. From the table shown, report the top-3 best-selling product in Jan 2023.

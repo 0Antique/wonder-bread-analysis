@@ -1,0 +1,9 @@
+Add the following users to my time tracking tool as guest: ['yjlou']
+1. Search for repo with key word “time tracking”
+2. Click on the repo
+3. On the repo page, click on the create new + button
+4. In the drop down menu, select Invite members
+5. Click invite members button
+6. Type in user name 'yjlou' and press enter 
+7. In the select a role drop down menu, select guest
+8. Click invite

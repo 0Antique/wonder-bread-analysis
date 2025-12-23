@@ -1,0 +1,21 @@
+Which customer has placed 2 orders in the entire history?
+
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page. The button has a bar plot as symbol and is below the "CONTENT" button and above the "STORES" button.
+2. Click on “Order Count” in the pop up menu, located under the heading “Customers”. The option is below the "Order Total" option and above the "New" option.
+3. In the "From" field, click on the calendar icon. This field is the first field from the left and is just above the records table.
+4. From the calendar, click on the dropdown menu corresponding to the month selection. This dropdown menu is the one at the left in the pop up calendar menu and has the abreviation of a month written in it.
+5. In the gray list showing all the available months, click on the entry corresponding to January, which has the text "Jan" on it.
+6. From the calendar, click on the dropdown menu corresponding to the year selection. This dropdown menu is the one at the right in the pop up calendar menu.
+7. In the gray list showing all the available years, scroll up until you find the first entry. This entry corresponds to the year 1923. Click on that entry.
+8. Click on the day "1" on the calendar menu. This will select the date January 1st, 1923.
+9. In the "To" field, click on the calendar icon. This field is the second field from the left and is just above the records table. This field is at the right of the "From" field.
+10. From the calendar, click on the dropdown menu corresponding to the month selection. This dropdown menu is the one at the left in the pop up calendar menu and has the abreviation of a month written in it.
+11. In the gray list showing all the available months, click on the entry corresponding to the current month.
+12. From the calendar, click on the dropdown menu corresponding to the year selection. This dropdown menu is the one at the right in the pop up calendar menu.
+13. In the gray list showing all the available years, scroll down until you find the current year. Click on that entry.
+14. Click on the day that corresponds to the current date on the calendar menu. This will select the current date as the "To" date.
+15. Click on the "Show By" dropdown menu, located directly to the right of the text “Show By:”. This dropdown menu is at the left of the gray "Refresh" button, above the records table.
+16. Click on “Year” in the dropdown menu. It is the third entry and is below the "Month" option.
+17. click on the gray "Refresh" button at the right of the "Show By" dropdown menu. This button is above the records table.
+18. Scroll down through all records. Keep track of how many total orders each customer has made. The customer can be identified by their name, located in the second column of the data table. The number of orders they made on a given occasion is given in the "Orders" column of the data table. this column is the third one.
+19. The answer is the customer with 2 orders in the entire history from your calculations in the previous step.

@@ -1,0 +1,7 @@
+How much I spend each month from Jan to the end of March 2023 on shopping at One Stop Market?
+1. Click on the blue "My Account" button on the top right of the page.
+2. On the left gray sidebar menu, click on "My Orders".
+3. Sum up the values under "Order Total" for the rows with a value under the "Date" column that falls between January and March 2023.
+4. Click on the right arrow at the bottom of the page to see more orders.
+5. Sum up the values under "Order Total" for the rows with a value under the "Date" column that falls between January and March 2023.
+6. Add the values you obtained in steps 3 and 5 to get the final answer.

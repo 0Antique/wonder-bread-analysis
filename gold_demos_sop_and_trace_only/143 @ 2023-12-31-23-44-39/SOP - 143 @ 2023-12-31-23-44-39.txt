@@ -1,0 +1,6 @@
+How much I spent on home decoration shopping during 1/29/2023?
+1. Click on the blue "My Account" button on the top right of the page.
+2. On the left gray sidebar menu, click on "My Orders".
+3. Click the right arrow at the bottom of the table to see the next page.
+4. Click on the "View Order" link for the row with a date of "1/29/23".
+5. Sum the amount of money spent on home decoration shopping.

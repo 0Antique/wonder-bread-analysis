@@ -1,0 +1,18 @@
+Reduce the price of green Hollister backyard sweater in all size by $5.
+1. Click on the "CATALOG" option in the brown left side bar under the "Sales" option.
+2. Click on the "Products" option in the "Catalog" menu shown.
+3. Search for “Hollister backyard in the "Search by keyword" white search bar.
+4. Click on the blue "Edit" link in the "Action" column of the table shown corresponding to the product id 126 and the type “Configurable Product”.
+5. Scroll down to first check the price of all colors, and confirm it is all 52.
+6.  Scroll up until you see the brown “Edit Configurations" button at the right of the screen.
+7. Click on the brown “Edit Configurations" button at the right of the screen.
+8. On the screen of “Step 1: Select Attributes”, click on the orange "Next" button at the top right of the screen.
+9. On the screen of “Step 2: Attribute Values”, click on the orange "Next" button at the top right of the screen.
+10. On the screen of “Step 3: Bulk Images, Price and Quantity”, scroll down to click on the "Apply unique prices to each SKU" option in the “Price” section at the bottom of the screen.
+11. Select “Color” in the “Select attribute” dropdown menu.
+12. Scroll down and type “47” in the text box for “Green”
+13. Type “52” in the text box for “Red”
+14. Type “52” in the text box for “White”
+15. Click on the orange "Next" button at the top right of the screen.
+16. Click on the orange "Generate Products" button at the top right of the screen.
+17. Click on the orange "Save" button at the top right of the screen.

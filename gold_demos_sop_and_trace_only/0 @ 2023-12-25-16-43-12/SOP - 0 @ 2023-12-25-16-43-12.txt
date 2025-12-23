@@ -1,0 +1,11 @@
+What is the top-1 best-selling product in 2022
+1. On the left bar, click on the "Reports" button.
+2. Under the "Products" header, click on "Bestsellers".
+3. Click on the down arrow next to the "Period" field.
+4. Click on "Year" in the dropdown.
+5. Click in the box next to the "From" field.
+6. Enter the first date of 2022, which is 01/01/2022.
+7. Click in the box next to the "To" field.
+8. Enter the last date of 2022, which is 12/31/2022.
+9. Click on the "Show Report" button on the top right side of the page.
+10. From the table shown, report the top-1 best selling product in 2022.

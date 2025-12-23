@@ -1,0 +1,6 @@
+How much refund I should expect from my order canlled in May 2023 if I cannot get the shipping fee refunded?
+1. Click on the blue "My Account" button on the top right of the page.
+2. On the left gray sidebar menu, click on "My Orders".
+3. Click on the blue "View Order" button for the row with an order date "5/17/23"
+4. Scroll down until you see "Grand Total".
+5. If you cannot get the shipping fee refunded, you should expect to get the number to the right of "Subtotal" as a refund.

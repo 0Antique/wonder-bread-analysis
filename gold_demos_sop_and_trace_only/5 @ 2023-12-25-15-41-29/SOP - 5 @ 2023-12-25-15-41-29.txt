@@ -1,0 +1,10 @@
+What is the top-1 best-selling product type in Jan 2023
+1. Click the "Reports" button on the left to open the menu.
+2. Click on "Bestsellers", which is located under the "Products" section.
+3. Click inside the empty box which is located to the right of the "From" filter.
+4. Type the first date of Jan 2023, which is "01/01/2023".
+5. Click inside the empty box which is located to the right of the "To" filter.
+6. Type the last date of Jan 2023, which is "01/31/2023".
+7. Click on the orange "Show Report" button located at the top right of the page.
+8. Scroll down so all information is visible.
+9. From the given information, state the top-1 best-selling product type in Jan 2023.

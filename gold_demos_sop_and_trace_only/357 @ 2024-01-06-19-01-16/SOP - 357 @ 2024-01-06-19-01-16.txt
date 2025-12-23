@@ -1,0 +1,4 @@
+Checkout merge requests requiring my review
+1. Click the fourth icon from the right, an arrow pointing towards another to see "merge requests"
+2. Click on the first option in the dropdown, "Review requests for you"
+3. Merge requests requiring my review are shown

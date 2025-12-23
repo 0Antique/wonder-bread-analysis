@@ -1,0 +1,10 @@
+Add the following users to repo millennials-to-snake-people as reporter: ['yjlou', 'a11yproject']
+1. Search for repo millennials-to-snake-people
+2. Click on the repo
+3. On the repo page, click on the create new + button
+4. In the drop down menu, select Invite members
+5. Click invite members button
+6. Type in user name 'yjlou' and press enter
+7. Type in user name ‘a11yproject' and press enter
+8. In the select a role drop down menu, select reporter
+9. Click invite

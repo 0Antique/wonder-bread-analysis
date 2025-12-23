@@ -1,0 +1,7 @@
+Find the customer name and email with phone number 555-229-3326
+1. Click on 'CUSTOMERS' on the left sidebar.
+2. Click on 'All Customers' in the popup window.
+3. Click on the 'Filters' button on the right side.
+4. Enter the phone number (555) 229-3326 in the 'Phone' text box on the left.
+5. Click on the 'Apply Filters' black button to filter customers with the phone number.
+6. Report the name and email of the user displayed.

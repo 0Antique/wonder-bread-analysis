@@ -1,0 +1,11 @@
+Among the top 10 post in "books" forum, is there any post talks about supporting local book stores? If so, tell me the organizations involved.
+
+1. Click on the “Forums” tab near the top left of the page. The tab is located in the red horizontal bar at the top of the screen and is between the "Postmill" and "Wiki" tabs.
+2. Click on the gray “Alphabetical” tab, located directly below the “Forums” tab your previously clicked. 
+3. Click on the red “books” link under the big, bolded letter “B” in the first column of forums displayed. Scroll down to view the rest of the “B” category if necessary the "books" link is not visible on the screen.
+4. Click on the sorting criteria dropdown menu with the text “Hot” inside it. The dropdown menu is at the right of the gray "Comments" button.
+5. Click “Top” option in the menu dislayed. The option is the fourth from the top and is above the "Controversial" option.
+6. Click on the dropdown menu with a clock and the text "Past 24 hours" on it. This dropdown menu appeared at the right of the dropdown menu you just interacted with.
+7. Click “All time” in the menu displayed. This option is the last one of the menu, and is below the "Past year" option.
+8. Scroll through the first 10 posts, i.e. the first 10 rows. Each post will have three lines of text. The first one in large black font with the title of the post. The second one starting with the text "Submitted by" in gray. The third one in red stating "X comments", where X is the number of comments the post received.
+9. Return the organizations involved in supporting local bookstores, if any, based on the top 10 posts. Each post is in a separate row. The large text to the right and above the post rating number is the post title, which contains information on the subject of the post, and potentially any organizations involved.

@@ -1,0 +1,14 @@
+Add the following users to repo millennials-to-snake-people as reporter: ['yjlou', 'a11yproject']
+1. In the top right corner, search for the project by typing "mill" into the textbox. There will only be one relevant repo shown.
+2. Click on the project.
+3. Click on the button titled "Project information" on the lefthand side menu.
+4. A button called "Members" just appeared under “Project Information.” Click it. 
+5. Click on the blue "Invite members" button at the right of the screen.
+6. Begin to Type the first user (yjlou) in the textbox that appears under the bold text "Username or email address”.
+7. A dropdown of users with matching information will appear from the textbox. Click on the best one. 
+8. Click on the text box again.
+9. Begin to Type the second user (a11yproject) in the textbox that appears under the bold text "Username or email address”.
+10. A dropdown of users with matching information will appear from the textbox. Click on the best one. 
+11. Click on the dropdown under "select a role"
+12. Select "Maintainer" 
+13. Click on the blue "invite" button.

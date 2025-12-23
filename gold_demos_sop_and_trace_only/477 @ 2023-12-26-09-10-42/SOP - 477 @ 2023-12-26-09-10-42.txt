@@ -1,0 +1,13 @@
+﻿Set up a new, empty repository with the name awesome_program_aided_reasoning?
+
+
+
+
+1. Locate the “plus” button and dropdown menu arrow at the top of the screen in the dark purple header, towards the right of the screen.
+2. Click on the “plus” button to reveal options to create a new repository.
+3. Click on the "Create blank project" button at the left of the screen to reveal the empty repository configurations.
+4. Identify the text box located below the “Project name” black text, labeled “My awesome project”.
+5. Click on the text box to focus it.
+6. Type the project name "awesome_program_aided_reasoning" in the text box.
+7. Identify the blue “Create project” button at the bottom of the screen.
+5. Click on the blue “Create project” button to set up the new repository.

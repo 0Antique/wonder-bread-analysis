@@ -1,0 +1,10 @@
+5 blue Cronus yoga pants with size 33 arrived, update the stock
+1. Click on the "CATALOG" option in the brown left side bar under the "Sales" option.
+2. Click on the "Products" option in the "Catalog" menu shown.
+3. Click in the "Search by keyword" white search bar and type cronus yoga pant" for search.
+4. Click on the blue "Edit" link in the "Action" column of the table shown corresponding to the product id 872.
+5. Double click on the "Quantity" text box under the "Tax Class" dropdown menu to select all the text written.
+6. Type "5" in the "Quantity" text box.
+7. Click on the "Stock Status" dropdown menu under the "Quantity" text box.
+8. Click on the "In Stock" option in the "Stock Status" dropdown menu.
+9. click on the orange "Save" button at the top right of the screen.

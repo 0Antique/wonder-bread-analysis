@@ -1,0 +1,10 @@
+Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the DIY forum.
+1. Click on the 'Forums' tab in the top bar.
+2. Click on the 'Alphabetical' tab to see all forums.
+3. Click on 'DIY'.
+4. Click on the dropdown box next to 'Comments'.
+5. Click on 'New' from the dropdown list to get the latest post first.
+6. Click on the username of the author of the first post which is next to 'Submitted by'.
+7. Click on the 'Comments' tab to see comments by this user.
+8. Scroll down to count the number of comments with negative total votes.
+9. Report the total number of comments with negative total votes.

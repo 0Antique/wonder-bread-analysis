@@ -1,0 +1,6 @@
+Create a shipping report from 08/05/2022 to 03/01/2023.
+1. Click on the "REPORTS" option in the left side bar under the "CONTENT" option.
+2. Click on the "Views" option in the "Reports" menu that appeared, under the third column "Products".
+3. Type "07/05/2021" in the "From" date selector under the "Period" dropdown menu.
+4. Type "05/31/2023" in the "To" date selector under the "From" date selector.
+5. Click on the orange "Show Report" button at the top right of the screen.

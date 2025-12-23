@@ -1,0 +1,2 @@
+Check out the most recent open issues
+1. From the left sidebar, click the fourth tab from the top, which is labeled "Issues".

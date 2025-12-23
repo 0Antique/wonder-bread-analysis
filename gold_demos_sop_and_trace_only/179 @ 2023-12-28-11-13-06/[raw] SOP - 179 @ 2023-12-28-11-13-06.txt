@@ -1,0 +1,9 @@
+To open my latest created issue that has feature in its title to check if it is closed, do the following.
+1. Click the "Issues" icon (located directly to the right of the plus sign icon) in the top purple navigation bar.
+2. Click on the third gray tab labeled "All" at the top.
+3. Click the search box at the top of the page (to the right of the "Assignee" tag).
+4. Enter in the keyword "feature".
+5. Click the down arrow to the right of the search bar to open the sort by dropdown menu.
+6. From the dropdown, click on "Created date".
+7. Click on the first sorted search result that includes the keyword.
+8. From this page, you can find if the issue is closed.

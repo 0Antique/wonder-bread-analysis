@@ -1,0 +1,5 @@
+Tell me the full names of the repositories where I made contributions and they got less than 5 stars?
+1. Click on the box to the right of the "Filter by name" box and under the blue "New project" button.
+2. In the dropdown, select "Most stars" under the "Sort by" section.
+3. Scroll down on the page until you see a star icon followed by a number less than 5. The star icon is a column (vertically aligned with the "Filter by name" box).
+4. That repo and all repositories under it have less than 5 stars.

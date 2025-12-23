@@ -1,0 +1,12 @@
+Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the monthly count of successful orders from May to December 2022 in MM:COUNT format:
+
+1. Click on the “REPORTS” button in the dark gray column on the left hand side of the page.
+2. Click on “Orders” in the pop up menu, located under the heading “Sales”.
+3. Click on the Period box, located directly to the right of the bolded text “Period”.
+4. Click on “Month” in the pop-up menu.
+5. Click into the “From” text field, located on the left side of the page.
+6. Type in “5/1/22”.
+7. Click into the “To” text field, located directly to the right of the “From” text field.
+8. Type in “12/31/22”.
+9. Click on the orange button “Show Report”, located at the top right of the page.
+10. Scroll down through all records. Keep track of how many successful orders were made each month. The month name is located in the first column of the data table. The number of orders made in that month is given in the second column of the data table.

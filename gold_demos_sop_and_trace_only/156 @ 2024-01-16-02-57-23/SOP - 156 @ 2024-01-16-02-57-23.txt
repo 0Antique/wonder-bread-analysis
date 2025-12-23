@@ -1,0 +1,3 @@
+Checkout merge requests assigned to me
+1. Click the merge requests button, located directly to the right of the merge issues button.
+2. Click “Assigned to you” in the drop down menu.

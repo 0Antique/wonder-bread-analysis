@@ -1,0 +1,6 @@
+List out reviewers, if exist, who mention about ear cups being small.
+
+1. Click on the blue "Reviews" link sitting at the right of the 5 stars, under the gray "SKU" text. The link is at the left of the blue "Add Your Review" link and over the price of the headphones.
+2. Scroll down to see each of the reviews. While scrolling, keep track of the reviewers who mention about the ear cups of the headphones being small. The reviewer's name is in black bold text and follows the text "Review by". This should be above the text "Posted on {date}", where date is the date when the review was posted.
+3. Once you get to the bottom of the reviews, you will see a right faced arrow button that leads you to the next page of reviews. Click that button, it should be in the middle of the screen.
+4. Repeat the process described on step three. You want to check all the reviews, gather the names of the reviewers who mention about the ear cups bein small.

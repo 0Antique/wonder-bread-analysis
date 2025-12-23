@@ -1,0 +1,17 @@
+Update the description of Radiant Tee to highlight the real user positive reviews by quoting the comments 
+1. Click the “Catalog” tab on the left side of the screen with the box icon underneath the “Sales tab 
+2. Click the “Products” tab at the top of the opening tab bar on the top right, still on the left side of the screen 
+3. Click the search box above the list of products
+4. Backspace until the search bar is empty
+5. Type “Radiant Tee”
+6. Click on the gray litem listed "Radiant Tee"
+7. Scroll down until “Product Reviews” is visible in black text
+8. Click the bold black text “Product Reviews” dropdown
+9. Select the text of a positive comment by clicking and dragging
+10. Copy to clipboard
+11. Click the bold “Content” dropdown above the “Configurations” dropdown
+12. Click the text box with the “Short Description” text to the left
+13. Type ‘”’
+14. Paste from clipboard
+15. Type ‘”’
+16. Click the orange save button on the top right of the screen 

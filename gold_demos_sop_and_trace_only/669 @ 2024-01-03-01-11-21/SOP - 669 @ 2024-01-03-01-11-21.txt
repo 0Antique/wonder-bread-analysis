@@ -1,0 +1,5 @@
+Open a new issue to discuss the implementation of dark mode.
+1. Click on the "Issues" option in the left side bar.
+2. Click on the blue "New issue" button.
+3. Type the issue title "Dark mode implementation" in the "Title" input box.
+4. Click on the blue "Create issue" button at the bottom.

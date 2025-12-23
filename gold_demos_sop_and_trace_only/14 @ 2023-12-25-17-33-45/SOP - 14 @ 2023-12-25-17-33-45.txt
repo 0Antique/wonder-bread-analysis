@@ -1,0 +1,7 @@
+Tell me the the number of reviews that our store received by far that mention term "not useful".
+
+1. Click on the "Marketing" button on the far lefthand sidebar. It has an icon which looks like a megaphone. It should be located directly above the "Content" button and below the "Customers" button. 
+2. In the popup menu that appears, click on the "All Reviews" link to go to the "Reviews" page. The link should be located under the "User Content" section.
+3. Locate the column labeled "Review" in the table shown and click on the input field below the "Review" white text. This column should be in the middle of the screen.
+4. Type "not useful" in the textbox corresponding to the "Review" column and press enter to search for reviews with "not useful" in them.
+5. Save the number reviews with that appears on above the table, at the left of the screen. The text is in the format "X records found", where X is the number of records found which contain "not useful" in the review. This text is located at the right of the "Actions" dropdown menu.

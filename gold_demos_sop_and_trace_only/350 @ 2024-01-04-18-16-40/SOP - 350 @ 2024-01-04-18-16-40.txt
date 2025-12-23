@@ -1,0 +1,7 @@
+Who else have access to my repo prism-theme, show me their usernames
+1. In the top right corner, there is a search box that says "Filter by name". Click on this textbox to type.
+2. Type in the name of the repo, "prism-theme" until the one relevant repo shows up on the screen. You might not need to type the full name for it to appear. 
+3. Click on the name of the repo. In this case, the project is titled "solarized-prism-theme".
+4. On the lefthand side, click on the menu option that says "Project information". This option is directly above the "Repository" button.
+5. Underneath the "Project information" button on the left hand side menu, click the button that appeared that says "Members".
+6. A list of all the members who are a part of the repo, with their usernames following an @ is shown. In this case we see @byteblaze (which says "It's you") and @abisubramanya27. In this case, it's just abisubramanya27.

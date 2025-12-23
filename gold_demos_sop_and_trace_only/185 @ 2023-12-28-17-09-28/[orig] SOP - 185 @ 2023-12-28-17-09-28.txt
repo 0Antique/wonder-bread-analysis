@@ -1,0 +1,10 @@
+Give me the brand of the products that have 3 units left
+1. Click the "Catalog" icon from the left sidebar.
+2. Click "Products", which is the first option in the dropdown.
+3. Click the gray "Filters" button near the top right.
+4. Click on the "from" box for Quantity.
+5. Type in "3".
+6. Click on the "to" box for Quantity.
+7. Type in "3".
+8. Press the "Enter/Return" key to execute the search.
+9. Given the information, state the brand of the products that have 3 units left.

@@ -1,0 +1,9 @@
+Koushik wants to check my dotfile configurations. Please invite him to the repo as a guest.
+1. Search for the project "dotfiles" in the top search bar,
+2. Click on the project "dotfiles" option.
+3. Clic on the "Project information" option at the left side bar.
+4. Click on the "Members" option under the Project information section.
+5. Click on the blue "Invite members" button at the right of the screen.
+6. Type the username "Koushik" in the "Username or email adress" input box.
+7. Click on the option shown for "Koushik" under the "Username or email address" input box.
+8. Click on the blue "Invite" button in the pop up window.

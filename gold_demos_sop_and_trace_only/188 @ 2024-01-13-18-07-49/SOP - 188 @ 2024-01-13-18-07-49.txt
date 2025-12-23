@@ -1,0 +1,5 @@
+Tell me the total cost of my latest cancelled order?
+1. Click on 'My Account' in the top bar.
+2. Click on 'My Orders' in the left gray box.
+3. Since there is no 'Cancelled' on this page, click on the '>' button to see older orders.
+4. Report the 'Order Total' of the first 'Cancelled' order on this page.

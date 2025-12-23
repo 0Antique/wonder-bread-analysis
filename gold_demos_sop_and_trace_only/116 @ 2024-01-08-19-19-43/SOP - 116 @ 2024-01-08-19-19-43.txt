@@ -1,0 +1,8 @@
+Show me the name of the customers who have expressed dissatisfaction with tanks products
+1. Click on 'MARKETING' in the left sidebar.
+2. Click on 'All Reviews' under 'User Content'.
+3. Type 'tank' in the search box under 'Product' and hit the 'return' key.
+4. Scroll down and report the name of the customer, 'Nickname' if the the review title is not completely positive. 
+5. Scroll up.
+6. Click on the '>' button at the top right to view reviews of the next page. 
+7. Scroll down and report the name of the customer, 'Nickname' if the the review title is not completely positive. 

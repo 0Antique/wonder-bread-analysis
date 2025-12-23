@@ -1,0 +1,41 @@
+trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
+483 @ 2023-12-26-09-27-35.json,1,1,mouseup,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,
+483 @ 2023-12-26-09-27-35.json,3,3,keystroke,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,
+483 @ 2023-12-26-09-27-35.json,5,5,mouseup,/html/body[1]/header[1]/div[1]/div/div[2]/ul/li[1]/form/div[2]/div/div[2]/div/li[2]/a/div,,,,,div,D\ndotfiles\nByte Blaze / dotfiles,
+483 @ 2023-12-26-09-27-35.json,7,7,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+483 @ 2023-12-26-09-27-35.json,9,9,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+483 @ 2023-12-26-09-27-35.json,11,11,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+483 @ 2023-12-26-09-27-35.json,13,13,keystroke,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,dotfile
+483 @ 2023-12-26-09-27-35.json,15,15,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div,,,,,div,Koushik Dutta\nkoush,
+483 @ 2023-12-26-09-27-35.json,17,17,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+483 @ 2024-01-05-14-29-16.json,1,1,mouseup,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,
+483 @ 2024-01-05-14-29-16.json,3,3,keystroke,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,
+483 @ 2024-01-05-14-29-16.json,5,5,keypress,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,dotfil
+483 @ 2024-01-05-14-29-16.json,7,7,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[4]/div[1]/div/div/div/ul[1]/li[1]/div[2]/div/div[1]/h2[1]/a/span[1],,,,,span,Byte Blaze /,
+483 @ 2024-01-05-14-29-16.json,9,9,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+483 @ 2024-01-05-14-29-16.json,11,11,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+483 @ 2024-01-05-14-29-16.json,13,13,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+483 @ 2024-01-05-14-29-16.json,15,15,keystroke,//*[@id='search'],Search GitLab,search,Search GitLab,searchbox,input,,dotfil
+483 @ 2024-01-05-14-29-16.json,17,17,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div,,,,,div,Koushik Dutta\nkoush,
+483 @ 2024-01-05-14-29-16.json,19,19,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/footer[1]/button[2],,button,,,button,Invite,
+483 @ 2024-01-06-14-13-15.json,1,1,mouseup,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,
+483 @ 2024-01-06-14-13-15.json,3,3,keystroke,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,
+483 @ 2024-01-06-14-13-15.json,5,5,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[5]/div/ul/li/div[2]/div/div[1]/h2[1]/a/span[2],,,,,span,dotfiles,
+483 @ 2024-01-06-14-13-15.json,7,7,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1]/span[2],,,,,span,Project information,
+483 @ 2024-01-06-14-13-15.json,9,9,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/ul[1]/li[5]/a/span,,,,,span,Members,
+483 @ 2024-01-06-14-13-15.json,11,11,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3]/span,,,,,span,Invite members,
+483 @ 2024-01-06-14-13-15.json,13,13,keystroke,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,do
+483 @ 2024-01-06-14-13-15.json,15,15,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/span[1],,,,,span,koush,
+483 @ 2024-01-06-14-13-15.json,17,17,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/footer[1]/button[2]/span,,,,,span,Invite,
+483 @ 2024-01-06-21-59-07.json,1,1,mouseup,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,
+483 @ 2024-01-06-21-59-07.json,3,3,keystroke,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,
+483 @ 2024-01-06-21-59-07.json,5,5,keypress,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,dotfile
+483 @ 2024-01-06-21-59-07.json,7,7,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[5]/ul/li/div[2]/div/div[1]/h2[1],,,,,h2,Byte Blaze / dotfiles,
+483 @ 2024-01-06-21-59-07.json,9,9,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[5]/ul/li/div[2]/div/div[1]/h2[1],,,,,h2,Byte Blaze / dotfiles,
+483 @ 2024-01-06-21-59-07.json,11,11,mouseup,/html/body[1]/div[3]/div/div[3]/main/div[5]/ul/li/div[2]/div/div[1]/h2[1]/a/span[2],,,,,span,dotfiles,
+483 @ 2024-01-06-21-59-07.json,13,13,mouseup,/html/body[1]/div[3]/aside[1]/div/ul[1]/li[2]/a[1],Project information,,,,a,Project information,
+483 @ 2024-01-06-21-59-07.json,15,15,mouseup,//*[@id='js-onboarding-members-link'],Members,,,,a,Members,
+483 @ 2024-01-06-21-59-07.json,17,17,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/div/div[1]/div[1]/button[3],,button,,,button,Invite members,
+483 @ 2024-01-06-21-59-07.json,19,19,keystroke,//*[@id='project-filter-form-field'],,search,Filter by name,,input,,dotfile
+483 @ 2024-01-06-21-59-07.json,21,21,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/div[1]/div/div/div[3]/div[1]/div[1]/div[2]/ul/li/button/div/p/div/div/div[1]/span[1],,,,,span,koush,
+483 @ 2024-01-06-21-59-07.json,23,23,mouseup,/html/body[1]/div[10]/div[1]/div/div[1]/footer[1]/button[2],,button,,,button,Invite,

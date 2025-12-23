@@ -1,0 +1,9 @@
+Tell me the number of followers of the contributor who has the most commits to branch main
+1. Click “Repository” in the sidebar.
+2. Click on “Contributors”, located under the bolded heading “Repository” on the left side of the page.
+3. Note the name of the contributor with the most commits. This contributor is the first one listed below the “Commits to main” graph.
+4. Click into the search bar at the top left of the page, with a purple background.
+5. Type in the name of the contributor with the most commits.
+6. Click on the desired user in the drop-down search results. This user has the same name as the contributor with the most commits.
+7. Click on the name of the contributor with the most commits in the search results.
+8. Return the number of followers of this user. This can be found in blue text underneath the bolded text of the user’s name.

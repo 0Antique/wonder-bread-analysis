@@ -1,0 +1,16 @@
+In order to open an issue to report the issue of connection refused in ChatGPT. Assign the issue to Abishek. Set due date to be July 18 2033 yourself:
+1. Click the search bar at the top of the page
+2. Type ‘ChatGPT’ in the search bar
+3. Press enter to search for the project.
+4. Click the first project in the dropdown selection below, as this signals it’s the most relevant project.
+5. Click the white “Issues” tab on the left side of the screen under “Repository”
+6. Click the blue “New Issue” button on the top right of the screen
+7. Type “connection refused” in the textbox where you can title the issue.
+8. Click the white “Assignee” dropdown to select an assignee 
+9. Type “Abishek”
+10. Click the first user that appears in the dropdown with the colorful icon next to it. Make sure the name in the dropdown item is the correct name of the desired assignee. 
+11. Click the white and black “Due Date” text box on the right side of the screen
+12. If there is a date there already, backspace until the text box is empty.
+13. Type 2033-07-18 to set the date – it’s in the format YYYY-MM-DD
+14. Scroll down until the blue “Create Issue” button is visible
+15. Click the blue “Create Issue” button with the white text

@@ -1,0 +1,48 @@
+We've received 378 brown Aero daily fitness tee in every size, please update the inventory.
+1. Click on the “CATALOG” button in the dark gray column on the left hand side of the page.
+2. Click on “Products” in the pop up menu, located under the heading “Catalog”.
+3. Click into the search field, located above the products table.
+4. Type in “Aero daily fitness tee”.
+5. Press enter.
+6. Scroll down to the first relevant product in the color brown.
+7. Click on the product name of this row of the products table.
+8. Click into the “Quantity” field.
+9. Delete the existing number.
+10. Type in the value of 378 + the existing number.
+11. Scroll to the top of the page.
+12. Click the orange “Save” button, located near the top right of the page.
+13. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+14. Scroll down to the next relevant product in the color brown.
+15. Click on the product name of this row of the products table.
+16. Click into the “Quantity” field.
+17. Delete the existing number.
+18. Type in the value of 378 + the existing number.
+19. Scroll to the top of the page.
+20. Click the orange “Save” button, located near the top right of the page.
+21. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+22. Scroll down to the next relevant product in the color brown.
+23. Click on the product name of this row of the products table.
+24. Click into the “Quantity” field.
+25. Delete the existing number.
+26. Type in the value of 378 + the existing number.
+27. Scroll to the top of the page.
+28. Click the orange “Save” button, located near the top right of the page.
+29. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+30. Scroll down to the next relevant product in the color brown.
+31. Click on the product name of this row of the products table.
+32. Click into the “Quantity” field.
+33. Delete the existing number.
+34. Type in the value of 378 + the existing number.
+35. Scroll to the top of the page.
+36. Click the orange “Save” button, located near the top right of the page.
+37. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+38. Scroll down to the next relevant product in the color brown.
+39. Click on the product name of this row of the products table.
+40. Click into the “Quantity” field.
+41. Delete the existing number.
+42. Type in the value of 378 + the existing number.
+43. Scroll to the top of the page.
+44. Click the orange “Save” button, located near the top right of the page.
+45. Click the “Back” button, located to the left of the brown “Add Attribute” button.
+46. Scroll down to the next relevant product in the color brown.
+47. Since there are no more relevant products remaining, we have updated the inventory of all relevant products.

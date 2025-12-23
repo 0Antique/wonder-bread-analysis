@@ -1,0 +1,17 @@
+Create a new private project "planner" and add Abishek, Vinta as members
+1. Click on the blue "New Project" button on the top right of the screen.
+2. Click the "Create blank project" card on the screen.
+3. Click the textbox next to "Project name".
+4. Enter "planner".
+5. Click the dropdown next to "Project URL".
+6. Select "ByteBlaze" from the dropdown.
+7. Click the "Private" radio button under the "Visibility Level" section.
+8. Click on the blue "Create Project" button at the bottom of the form.
+9. On the left menu, click on "Project Information".
+10. From the sub-menu, click on "Members".
+11. Click the blue “Invite members” button on the top right of the page.
+12. Enter “Abishek” in the search field.
+13. Click the icon from the popup that has that name.
+14. Enter "Vinta" in the search field.
+15. Click the icon from the popup that has that name.
+16. Click the blue “Invite” button on the bottom right of this form.

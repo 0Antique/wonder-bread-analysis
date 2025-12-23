@@ -1,0 +1,11 @@
+Show the least expensive switch card holder with a minimum storage capacity of 15 cards
+1. Click the blue "Advanced Search" button in the top right underneath the search bar.
+2. Click in the "Product Name" search box.
+3. Type in the keyword "card holder".
+4. Click in the "Description" search box.
+5. Type in the keyword "switch"
+6. Press the "Enter/Return" key to make the search.
+7. Click the "Sort By" menu to open the dropdown.
+8. Click on the "Price" option.
+9. Click on the second cheapest item since it has the required storage capacity.
+10. Thus, the least expensive switch card holder with a minimum storage capacity of 15 cards has been shown.

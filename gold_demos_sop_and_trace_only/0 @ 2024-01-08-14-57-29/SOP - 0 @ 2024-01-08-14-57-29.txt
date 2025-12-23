@@ -1,0 +1,17 @@
+What is the top-1 best-selling product in 2022
+1. Click on 'REPORTS' in the left sidebar.
+2. Click on 'Bestsellers' under 'Products'.
+3. Click on the dropdown button next to 'Period'.
+4. Click on 'Year' from the dropdown list.
+5. Click on the calendar icon next to 'From'.
+6. Click on the year dropdown button, next to '2024'.
+7. Click on '2022' as the year from the dropdown list.
+8. Click on '1' in the calendar to set the start date as '1/1/2022'.
+9. Click on the calendar icon next to 'To'.
+10. Click on the year dropdown button, next to '2024'.
+11. Click on '2022' as the year from the dropdown list.
+12. Click on the month dropdown button, next to 'Jan'.
+13. Click on 'Dec' as the month from the dropdown list.
+14. Click on '31' in the calendar to set the to date as '12/31/2022'.
+15. Click on the 'Show Report' orange button on the top right.
+16. The first product shown in the resulting table has the highest sales, hence report that product, i.e. Quest Lumaflex Band.

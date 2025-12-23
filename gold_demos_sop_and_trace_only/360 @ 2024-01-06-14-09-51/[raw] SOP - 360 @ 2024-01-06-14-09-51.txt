@@ -1,0 +1,6 @@
+Show me the product names for order number 148.
+1. Click on "My Account" button on the top right of the page
+2. Click on "My Orders" on the left sidebar menu
+3. Click on the bottom right  bar to select “20 “ items per page
+3. Click on order number 148
+4. See product names

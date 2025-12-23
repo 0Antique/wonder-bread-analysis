@@ -1,0 +1,5 @@
+Open a new issue to discuss the implementation of dark mode
+1. Locate the gray sidebar, and click on the "Issues" button
+2. Identify and click on the blue "New issue" button in the top right of the page
+3. Identify and click on the textbox called "Title (required)" and type in "Implementation of Dark Mode"
+4. Click the blue "Create Issue" button at the bottom left of the page
