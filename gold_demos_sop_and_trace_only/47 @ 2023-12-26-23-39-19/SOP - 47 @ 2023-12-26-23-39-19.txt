@@ -1,5 +1,0 @@
-Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.
-1. Click on "My Account" on the top bar.
-2. Click on "My Orders" on the left bar.
-3. Since it is month 6, from the given table, for the past month, click on "right arrow" at the bottom of the table till all entries of month 5 are available.
-4. From the shown information, report the fulfilled orders over the past month, and the total amount of money spent.

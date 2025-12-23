@@ -1,7 +1,0 @@
-Lookup orders that are processing
-1. Click the gray “Sales” tab on the left with the dollar sign above it, above the catalog tab
-2. Click the “Orders” tab from the popout on the right, still on the left hand side of the screen at the top
-3. Click the gray “Filters” button on the middle right of the screen
-4. Click the gray status dropdown on the right side of the screen with the black text
-5. Click “Processing” from the dropdown
-6. Click the gray “Apply filters” button on the bottom right next to the blue text

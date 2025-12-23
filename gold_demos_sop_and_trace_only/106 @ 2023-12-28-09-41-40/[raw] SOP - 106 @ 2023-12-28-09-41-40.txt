@@ -1,6 +1,0 @@
-To display the list of issues in the umano/AndroidSlidingUpPanel repository that have labels related to BUG, do the following.
-1. Click on the "Explore" button on the top gray sidebar under "Projects".
-2. In the search box with the text "Filter by name", search for "AndroidSlidingUPPanel".
-3. Click on the repository titled "umano/AndroidSlidingUpPanel" from the displayed list of projects (third from top).
-4. Click on the "Issues" button on the gray left sidebar.
-5. In the search bar at the top of this page, type "BUG" and press enter.

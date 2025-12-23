@@ -1,6 +1,0 @@
-Show me the product names for order number 148
-1. Click the first blue option at the very top "My Account". This is directly to the left of the "My Wish List" option.
-2. From the gray left sidebar, click the second option "My Orders". This button is directly below "My Account" and directly above "My Downloadable Products".
-3. Click the right arrow below the listing of orders.
-4. Click the blue "View Order" link in the top row for order number 148.
-5. There will be a page summary of the order, including an "Items Ordered" list. Each item will have a subheading called "Product Name", and the desired information is just below it. Given the information, state the product names for order number 148.

@@ -1,4 +1,0 @@
-How many commits did Eric make to a11yproject on 3/2?
-1. Click on the repository named "The A11Y Project / a11yproject.com", which is fourth from the top.
-2. Click on the "Commits" button just underneath the project title.
-3. Given the information, state how many commits Eric made to a11yproject on 3/2.

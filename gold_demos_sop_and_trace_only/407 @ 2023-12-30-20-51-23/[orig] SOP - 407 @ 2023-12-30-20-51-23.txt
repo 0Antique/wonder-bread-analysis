@@ -1,7 +1,0 @@
-Upvote the newest post in deeplearning subreddit.
-1. Click on the white "Forums" option in the top menu, to the right of the "Postmill" option.
-2. Click on the gray "Alphabetical" option in the top menu, located under the red bar at the top of the screen.
-3. Click on the red "deeplearning" link at the bottom of the screen, under the "D" section.
-4. Click on the "Hot" dropdown menu at the top of the screen, which is located to the right of the gray "Comments" option.
-5. Click on the "New" option in the dropdown menu that appears.
-6. Click the up-facing arrow to the left of the first post shown, under the highlighted "Submissions" option.

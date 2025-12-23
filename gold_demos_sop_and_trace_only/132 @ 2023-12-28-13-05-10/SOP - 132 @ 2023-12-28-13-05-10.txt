@@ -1,4 +1,0 @@
-How many commits did kilian make to a11yproject on 3/5/2023?
-1. Click on the title for the a11yproject repo in the main page.
-2. Click on "commits" (located under the title and project id at the top of the page).
-3. Look under the 5 March 2023 subheader in light purple to count the number of commits for Kilian.

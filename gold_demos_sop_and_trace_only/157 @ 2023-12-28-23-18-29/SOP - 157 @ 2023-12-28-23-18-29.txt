@@ -1,3 +1,0 @@
-Show all customers
-1. From the left menu, click on "Customers".
-2. From the popped up sub menu, clicl on "All Customers".

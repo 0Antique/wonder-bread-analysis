@@ -1,9 +1,0 @@
-What is the price range for products from Amazon basic?
-1. Click on "Advanced Search".
-2. Click on the empty text box for "Product Name".
-3. Type in "Amazon basic".
-4. Click the blue "Search" button below.
-5. Click on option for "Sort by" to open the dropdown menu.
-6. Select "Price" from the dropdown menu.
-7. Record the lowest price for an item from "Amazon basic", then click the arrow next to the "Sort by" button to "Set Descending Direction" for price.
-8. From the collected information, report the price range for products from Amazon basic.

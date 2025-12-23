@@ -1,7 +1,0 @@
-Get me my RSS feed token
-1. Click the my account button, which is an icon of the user’s profile picture, and is the leftmost icon in the purple navigation area near the top of the page.
-2. Click on “Edit profile” in the pop-up menu.
-3. Click on “Access Tokens” in the sidebar.
-4. Scroll down to the “Feed token” section.
-5. Click the eye icon, to the right of the feed token text.
-6. Return the RSS feed token. This is the text in the box under the small bolded text “Feed token”.

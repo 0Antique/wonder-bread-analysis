@@ -1,6 +1,0 @@
-Get the purchase date and order id of the most recent pending order
-1. Click the "Sales" icon from the left sidebar to open the dropdown menu.
-2. From the dropdown, click on the first option "Orders".
-3. Click on the fourth column header to sort by "Purchase Date".
-4. Click on the column header "Purchase Date" again to reverse the ordering.
-5. Given the information, state the purchase date and order id of the most recent pending order.

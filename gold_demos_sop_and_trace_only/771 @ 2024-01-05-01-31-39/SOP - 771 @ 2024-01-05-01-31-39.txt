@@ -1,8 +1,0 @@
-Approve the positive reviews to display in our store.
-1. Navigate to the sidebar located on the left side of the screen
-2. Click on the "Marketing" section to reveal the pop-out menu
-3. Click on the "Pending Reviews" button in the "User Content" section of the pop-out menu, to reveal the "Pending Reviews" page
-4. Click the checkboxes on the left side of all the reviews
-5. Click on the "Actions" dropdown menu, and the "Update Status" item revealing another dropdown menu to the right labeled "Status"
-6. Click on the "Status" dropdown menu and select "Approved"
-7. Click the gray "Submit" button on the right

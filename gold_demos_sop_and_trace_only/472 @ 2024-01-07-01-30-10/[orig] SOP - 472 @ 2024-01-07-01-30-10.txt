@@ -1,6 +1,0 @@
-Cancel order 299
-1. Click on the "Sales" button on the left sidebar 
-2. Click on "Orders" 
-3. Fill 299 in the ID field
-4. Select Cancel in the Actions dropdown list
-5. You will see a message "We canceled 1 order(s) at the top of the page"

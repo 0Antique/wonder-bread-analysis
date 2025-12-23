@@ -1,6 +1,0 @@
-How much refund I should expect from my order canlled in 2022/03? I only kept the AC-DC Adapter and the shop told me that I cannot get the shipping fee back?
-1. Click on the blue "My Account" button on the top right of the page.
-2. On the left gray sidebar menu, click on "My Orders".
-3. Click on the blue "View Order" button for the row with an order date "3/2/22"
-4. Scroll down until you see "Grand Total".
-5. If you cannot get the shipping fee refunded, you should expect to get the number to the right of "Subtotal" minus the bolded number to the right of the AC-DC adapter as a refund.

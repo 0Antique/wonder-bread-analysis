@@ -1,4 +1,0 @@
-Show all customers
-1. Click on the "Customers" icon on the left that looks like a person to reveal the pop-out menu.
-2. Click on "All Customers", which is the first option in the menu.
-3. Thus, all customers have been shown, as desired.

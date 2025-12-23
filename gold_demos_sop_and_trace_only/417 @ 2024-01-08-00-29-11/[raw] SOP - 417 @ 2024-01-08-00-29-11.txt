@@ -1,8 +1,0 @@
-To Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @ yourself, do this:
-1. Search in the top bar for "404 link".
-2. click on the suggested result: "update or remove 404 links".
-3. Scroll down until the last comment under "Activity".
-4. Note that the author, @Roshanjossey, did not respond. 
-5. Click on the "Write" input text.
-6. Type the response "@Roshanjossey" in the "Write" input text. I wrote "@davepgreene Reminder!". 
-7. Click on the blue "Comment" button.

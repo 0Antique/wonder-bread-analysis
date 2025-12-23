@@ -1,8 +1,0 @@
-Create a milestone for the upcoming task of merging all branches to main starting on March 15, 2044 and ending on March 30, 2044
-1. Navigate to the left sidebar and click on the "Issues" button
-2. In the new menu that appears below "Issues" click on the "Milestones" button
-3. Click on the blue "New milestone" button in the middle of the page
-4. Locate the "Title" textbox and type in "Task: Merging All Branches"
-5. Below, in the "Start Date" textbox, click on it and type in the start date: "2044-03-15"
-6. On the right, in the "Due Date" textbox, click on it and type in the end date: "2044-03-30"
-7. At the bottom right, click the blue "Create milestone" button

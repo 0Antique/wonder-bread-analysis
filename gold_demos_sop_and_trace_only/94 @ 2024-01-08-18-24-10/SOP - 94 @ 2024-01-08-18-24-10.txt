@@ -1,5 +1,0 @@
-Telll me the grand total of invoice 000000001.
-
-1. Click on the “SALES” button in the dark gray column on the left hand side of the page. The button is below the "DASHBOARD" button and above the "CATALOG" button.
-2. Click on “Invoices” option in the pop up menu, located under the bolded heading “Sales”. This is the second option and is below "Orders".
-3. Record the grand total for invoice 000000001 based on the information in the invoices table. The first column of the table indicate to which invoice the entry corresponds. The first entry is for the invoice 000000001. The second column from the right, the “Grand Total (Purchased)” column,  contains the grand total for each invoice. That is the information you need to record.

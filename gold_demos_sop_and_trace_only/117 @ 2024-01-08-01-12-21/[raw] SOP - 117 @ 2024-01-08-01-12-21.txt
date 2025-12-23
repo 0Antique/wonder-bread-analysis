@@ -1,7 +1,0 @@
-Based on the screenshots provided, here is a step-by-step process (SOP) for how to find the date when the user made their first purchase on this site:
-
-1. Click on the blue text "My Account" at the top of the page.
-2. Click on the "My Orders" tab in the light gray column on the leftmost side of the page.
-3. Scroll down to the page numbers for the order table, located directly below the order table.
-4. Click the “5” in the page numbers for the order table to navigate to the fourth page of the order table, containing the user’s oldest orders.
-5. The page should now display the user’s order table for their oldest purchases. The “Date” column of the last row of the order table contains the date of the user’s first purchase.

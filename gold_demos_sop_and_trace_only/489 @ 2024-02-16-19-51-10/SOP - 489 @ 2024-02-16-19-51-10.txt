@@ -1,8 +1,0 @@
-Change the page title of "Privacy Policy" page on my site to "No privacy policy is needed is this dystopian world".
-1. Click on "Content" in the left side bar.
-2. Click on the "Pages" option under the "Elements" header.
-3. Click on the blue "Select" link corresponding to the page with "Privacy Policy" title.
-4. Click on the "Edit" option shown in the dropdown menu shown under the blue "Select" link for the "404 Not Found" page.
-5. Click on the "Page Title" text box and press COMMAND and DELETE to clear the text.
-6. Type "No privacy policy is needed is this dystopian world" in the "Page Title" text box.
-7. Click on the orange "Save" button at the top right of the screen.

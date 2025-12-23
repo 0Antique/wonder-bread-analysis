@@ -1,5 +1,0 @@
-Assign the issue regarding 404 in a11yproject to Roshanjossey.
-1. In the "Search Gitlab" bar on the top left of the page, type in "404".
-2. In the dropdown, click on the "404s, bad host, timeouts, bad urls for URLs linked from website" link under the "Recent issues" category.
-3. Click on "Edit" right to "Assignee" in the right side bar.
-4. Select "Roshan Jossy" from the dropdown options shown in the "Assign to" section.

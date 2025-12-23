@@ -1,6 +1,0 @@
-Create an orders report from beginning of May 2021 to end of March 2022
-1. From the left menu, click on "Reports".
-2. From the popped up sub-menu, click on "Orders" under the "Sales" section.
-3. In the "From" field, enter "05/01/2021", the first date of May 2021.
-4. In the "To" field, enter "03/31/2023", the last date of March 2022.
-5. Click on the orange "Show Report" button at the top right of the page.

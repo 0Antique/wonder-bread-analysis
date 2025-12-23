@@ -1,4 +1,0 @@
-Check out my todos.
-
-1. Click the todos button, which is an icon that looks like a box with a check in it. This button is in the top purple bar, and is the third button from the right of the screen. At its right, there is a button with a "?" surrounded by a circle.
-2. Scroll down until you reach the end of the page. Each of the entries you see is one of the todos in the todo list. Each entry is divided by a horizontal gray line and are distinguishable because each entry has a thumbnail image at the left.

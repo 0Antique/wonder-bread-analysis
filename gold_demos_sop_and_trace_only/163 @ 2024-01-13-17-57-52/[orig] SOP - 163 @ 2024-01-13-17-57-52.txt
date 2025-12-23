@@ -1,6 +1,0 @@
-What are the main criticisms of this product? Please extract the relevant sentences.
-1. Click on '12 Reviews' below the product name to see reviews.
-2. Scroll down and extract sentences from reviews which convey criticisms.
-3. Click on the '>' button to see remaining reviews.
-4. Extract sentences from reviews which convey criticisms.
-5. Report the sentences extracted.

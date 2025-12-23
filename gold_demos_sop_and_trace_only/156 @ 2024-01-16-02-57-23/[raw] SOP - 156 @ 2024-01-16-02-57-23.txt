@@ -1,4 +1,0 @@
-Based on the screenshots provided, here is a step-by-step process (SOP) for how to check out merge requests assigned to the user:
-
-1. Click the merge requests button, located directly to the right of the merge issues button.
-2. Click “Assigned to you” in the drop down menu.

@@ -1,4 +1,0 @@
-Increase the price of this product by $11.5
-1. Click on the text field to the right of "Price"
-2. Change price by increasing the price by $11.50
-3. Click the "Save" button on the top right

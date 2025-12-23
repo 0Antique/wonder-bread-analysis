@@ -1,3 +1,0 @@
-Based on the screenshots provided, here is a step-by-step process (SOP) for how to check out the user’s most recent open issues:
-
-1. Click the issues button on the sidebar.

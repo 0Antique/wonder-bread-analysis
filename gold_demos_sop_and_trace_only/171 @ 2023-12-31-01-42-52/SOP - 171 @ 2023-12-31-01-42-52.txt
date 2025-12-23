@@ -1,7 +1,0 @@
-Tell me the full names of the repositories where I made contributions and they got less than 5 stars?
-1. Click the dropdown on the right of the "Filter By Name" box, on the filter menu under the top bar
-2. Click "Most Stars" under the "Sort By" sub-menu.
-3. Scroll down
-4. Click the "Next" button at the bottom of the list 
-5. Stop when the end of the list is displayed.
-6. From the displayed information, report the full names of the repositories where I made contributions and they got less than 5 stars. 

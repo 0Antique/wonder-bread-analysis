@@ -1,3 +1,0 @@
-How many commits did kilian make on 3/5/2023?
-1. Click on the "Commits" button just underneath the project title.
-2. Given the information, state how many commits kilian made on 3/5/2023.

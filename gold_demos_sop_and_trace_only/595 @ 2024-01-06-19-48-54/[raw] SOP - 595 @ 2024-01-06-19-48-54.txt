@@ -1,6 +1,0 @@
-To Open the thread of a trending post on the forum "space" and subscribe yourself, do this:
-1. In the header, click "forums"
-2. Under that, click the button that says "Alphabetical"
-3. Find and click on the desired forum. 
-4. You will see a list of posts in the thread. Under one of these posts, click the red, bold text that says "{number} comments".
-5. On the right side of the page, you will see a button that says "Subscribe". Click this.

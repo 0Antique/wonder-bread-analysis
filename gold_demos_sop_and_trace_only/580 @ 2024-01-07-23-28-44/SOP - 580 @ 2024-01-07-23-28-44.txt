@@ -1,8 +1,0 @@
-Create a new forum named sci_fi, with a description of A wild place for sci-fi enthusiasts, and include ['New', 'Classic', 'Movies', 'Post my novel', 'Random'] in the sidebar.
-1. Click on the white "Forums" option in the top menu, right to the "Postmill" option.
-2. Click on the red "Create forum" button at the top right of the screen.
-3. Type "sci_fi" in the "Name" text box under the "Create new forum" title.
-4. Type "sci_fi" in the "Title" text box under the "Name" text box.
-5. Type "A wild place for sci-fi enthusiasts" in the "Description" text box under the "Title" text box.
-6. Type "New Classic Movies Post my novel Random" in the "Sidebar" text box under the "Description" text box.
-7. Click on the red "Create forum" button at the bottom left of the screen.

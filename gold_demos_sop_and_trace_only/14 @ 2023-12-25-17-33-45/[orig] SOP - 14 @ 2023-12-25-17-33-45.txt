@@ -1,6 +1,0 @@
-Tell me the the number of reviews that our store received by far that mention term "not useful"
-1. On the left bar, click on "Marketing".
-2. Under the "User Content" heading, click on "All Reviews".
-3. In the search box under "Review", type "disappointed".
-4. Click on "search".
-5. From the table shown, report the number of reviews that our store received by far that mention term "not useful".

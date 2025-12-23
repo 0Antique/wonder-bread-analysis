@@ -1,7 +1,0 @@
-What is the rating of Ugreen lightning to 3.5mm cable. Please round to the nearest whole number
-
-1. Click into the search bar in the top right corner of the page to focus it. The search bar has an icon of a magnifying glass at its rightmost end, and is located directly to the left of the shopping cart icon.
-2. Type in the name of the desired product to create the search query. In this case, we type in “Ugreen lightning to 3.5mm cable”.
-3. Press enter to search for the desired product.
-4. Look through each row of search results to locate the desired product, in this case “Ugreen lightning to 3.5mm cable”, scrolling down if necessary. The desired product can be identified by finding a search result with a product name that matches our desired product. Each product's name can be found directly under each product’s picture. Since the search results are automatically sorted by relevance, it’s likely our product will appear in the first few rows. In this case, the product appears as the first item in the first row of results.
-5. After finding the desired product, we can find the product’s rating, rounded to the nearest whole number, by observing the star rating for each product, which is the number of colored-in stars directly underneath the product name. We then count the number of fully colored-in stars, and only count partially colored-in stars if they are more than half colored.

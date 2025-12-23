@@ -1,9 +1,0 @@
-Among the top 10 post in "books" forum, is there any post talks about supporting local book stores? If so, tell me the organizations involved
-1. Click on "Forums" on the top bar.
-2. Click on "Alphabetical" tab at the top of th page.
-3. From the list, click on "books" under the "B" list.
-4. On the top of the page, click on the dropdown filter.
-5. In the dropdown, click on "Top".
-6. Next to the dropdown filter, click on the dropdown which says "Past 24 hours"
-7. Click on "All Time".
-8. From the given list, report posts that talk about local stores, and the organizations involved.

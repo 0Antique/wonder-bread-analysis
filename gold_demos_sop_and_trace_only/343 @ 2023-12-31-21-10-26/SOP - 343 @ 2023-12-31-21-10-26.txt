@@ -1,7 +1,0 @@
-List all opened issues that don't have any labels.
-1. Click the "Issues" tab on the left gray sidebar.
-2. Click in the "Search" bar at the top of the page.
-3. From the dropdown that appears, click on the fourth option "Label".
-4. Click the equals sign "=".
-5. Click the "None" option in the next dropdown that appears.
-6. Press the enter key to show the list.

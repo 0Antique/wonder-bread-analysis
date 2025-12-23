@@ -1,8 +1,0 @@
-Create a product view report from 07/05/2021 to 05/31/2023
-1. Navigate to the sidebar located on the left side of the screen
-2. Click on the "Reports" section to reveal the pop-out menu
-3. Under the "Products" area, click on the "Views" button to reveal the "Product Views Report" page
-4. Locate and click on the "From" textbox and type in the date: "07/05/2021"
-5. Locate and click on the "To" textbox and type in the date: "05/31/2023"
-6. Click on the orange "Show Report" button in the top right
-7. Scroll down to reveal the product views report

@@ -1,7 +1,0 @@
-Tell me the count of comments that have received more downvotes than upvotes for the user who made the latest post on the DIY forum.
-1. Click on the "Forums" button on the red header on the top of the page
-2. Click on the "Alphabetical" sub-header at the top-left of the "List of forums" page
-3. Locate the "D" section denoting forums that start with the letter "D" and click on the red "DIY" text
-4. Locate the dropdown menu at the top of the page labeled "Hot" and change it to "New"
-5. Identify the most recent post on the page (first one), click on the username of the poster (the username of the user who posted the post is in bold gray letters)
-6. Click on the rightmost gray tab called "Comments" at the top of the page, and calculate the number of comments that have received more downvotes than upvotes

@@ -1,7 +1,0 @@
-Tell me when I last ordered my conditioner?
-1. In the top navigation bar, click the button that says "My Account"
-2. On the left side, there is a menu with an option "My Orders". Click the "My Orders" button.
-3. We need to manually check each order, from most to least recent, to see if the item was ordered. Each order is logged in a single row of the table shown on the "My Orders" page, with the most recent orders at the top. Under the list, there are numbered buttons (ex: 1, 2, 3, 4) which take you to different pages of the list. 
-4. To see the items in a given order, click "View Order" in the desired row. Navigate using the page numbers below the list if necessary. You will see a list of all the items ordered on that day. 
-5. To go back to the list of all orders, on the left side of the screen, there is a menu with an option "My Orders". Click the "My Orders" button.
-6. Repeat steps 4 and 5, going downward on the "My Orders" list, until you see the desired item in the list of ordered items. Note the date of the order, which is near the top of the page in the format "Order Date: Jan 16, 2023". In this case, that is our answer.

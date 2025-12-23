@@ -1,6 +1,0 @@
-trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
-260 @ 2023-12-27-09-00-01.json,1,1,mouseup,/html/body[1]/div[2]/div[1]/div/div[2]/nav/ul/li[11]/a[1]/span[2],,,,,span,Video Games,
-260 @ 2023-12-30-14-35-19.json,1,1,mouseup,//*[@id='ui-id-228'],,,,menuitem,a,Video Games,
-260 @ 2024-01-01-14-11-28.json,1,1,mouseup,/html/body[1]/div[2]/div[1]/div/div[2]/nav/ul/li[11]/a[1]/span[2],,,,,span,Video Games,
-260 @ 2024-01-08-03-37-35.json,1,1,mouseup,/html/body[1]/div[2]/main[1]/div[3]/div[1]/div[3]/ol/li[1]/div/div[1]/strong[1]/a,,,,,a,"Lynx Battery 12V 200Ah Lithium Iron Phosphate LiFePO4 Prismatic Deep Cell Battery - Set of 4-3.2V Cells with 3 Bus Bars and 8 Lug Nuts - for RV, Solar, Marine & Off-Grid Applications",
-260 @ 2024-01-08-03-37-35.json,3,3,mouseup,/html/body[1]/div[2]/div[1]/div/div[2]/nav/ul/li[11]/a[1]/span[2],,,,,span,Video Games,

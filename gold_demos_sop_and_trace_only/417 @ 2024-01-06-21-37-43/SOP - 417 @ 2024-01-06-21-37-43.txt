@@ -1,8 +1,0 @@
-Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply "Thank you" if he did. Otherwise remind him with a simple @.
-1. Click the fourth icon from the right, an arrow pointing towards another, to see "merge requests"
-2. Click on the first option in the dropdown, "Assigned to you"
-3. Click on the merge request containing the string "404" in its title
-4. Scroll until the "Write a comment or drag your files here..." text box becomes visible.
-5. Type "@RoshanJossy" in the text box and click Enter when the autocomplete result is selected.
-6. Type a reminder message of choice.
-7. Press the blue "Comment" button below the box.

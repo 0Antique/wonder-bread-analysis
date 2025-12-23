@@ -1,3 +1,0 @@
-Checkout merge requests assigned to me
-1. On the top bar, click on the fourth icon from the right, which on hover says "Merge requests".
-2. From the dropdown menu, click on "Assigned to you".

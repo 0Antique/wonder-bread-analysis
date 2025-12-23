@@ -1,6 +1,0 @@
-Add a toothpaste to my wish list.
-1. Click into the search box, located near the top right of the page and directly above the blue text "Advanced Search".
-2. Type in the keyword of the desired product, in this case "toothpaste".
-3. Press enter to get search results for this keyword.
-4. Scroll down through the rows of search results until you find a product fitting the user request. In this case, there is one such product in the first row of results. You can tell whether a product is relevant based on the product name, which is located directly below the product's image.
-5. Click the heart button for the desired product, which is located directly to the right of the "Add to Cart" button.

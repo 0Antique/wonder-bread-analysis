@@ -1,6 +1,0 @@
-trace_file,trace_action_idx,action_id,action_type,element_xpath,element_label,element_type,element_placeholder,element_role,element_tag,element_text,element_value
-205 @ 2023-12-30-13-02-59.json,1,1,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/nav[1]/ul/li[1]/a,,,,,a,"2,320\n Commits",
-205 @ 2024-01-08-09-33-20.json,1,1,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/nav[1]/ul/li[1]/a,,,,,a,"2,320\n Commits",
-205 @ 2024-01-14-06-25-53.json,1,1,mouseup,/html/body[1]/div[3]/div/div[3]/main/ul[1]/li[2]/div/div[1]/div[1]/span/a,,,,,a,Rethink the homepage's content,
-205 @ 2024-01-14-06-25-53.json,3,3,mouseup,/html/body[1]/div[3]/div[1]/div[3]/main/div[2]/nav[1]/ul/li[1]/a,,,,,a,"2,320\n Commits",
-205 @ 2024-01-14-06-25-53.json,5,5,scroll,,,,,,,,

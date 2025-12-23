@@ -1,7 +1,0 @@
-Lookup orders that are processing
-1. From the left menu, click on "Sales".
-2. In the popped up sub-menu, click on "Orders".
-3. On the top right-center corner of the table, click on the grey "Filters" button.
-4. From the opened list of filters, click on the "Status" dropdown.
-5. Select "processing" in the dropdown.
-6. On the bottom of the filters table, click on the grey "Apply Filters" button.

@@ -1,3 +1,0 @@
-Check out my todos
-1. Locate and click on the checkbox icon (third to right icon) on the top purple header of the screen
-2. Scroll down to reveal the todos

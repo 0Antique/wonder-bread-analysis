@@ -1,8 +1,0 @@
-Show the most recent cancelled order.
-
-1. Click on the blue text "My Account" at the top of the page.
-2. Click on the "My Orders" tab in the light gray column on the leftmost side of the page to list all orders.
-3. Scroll down to see if there are any "Canceled" orders.
-4. Since there is no "Canceled" order in this page, click on the next page button, i.e. the ">" icon, located at the bottom of the page.
-5. Since this page has a "Canceled" order, we have found the most recent cancelled order and don't need to go to any further pages.
-6. Click on the first "Canceled" order in this page, which has "Order #" 170, to show this order.

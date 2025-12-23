@@ -1,6 +1,0 @@
-To Post "lgtm" for the merge request related to fixing the broken links in byteblaze/empathy-prompts project yourself, do these steps:  1. In the top right corner, there is a search textbox that reads “Filter by name”. Type the project name until the relevant project shows up in the results. 
-2. Click on the relevant project.
-3. Click on the button titled “Merge requests” on the lefthand side menu.
-4. Click on the relevant item in the list of merge requests.
-5. Across down to the large paragraph textbox that says “Write a comment or drag your files here…” and type in the desired Post content. (Replace any text in the textbox if necessary). 
-6. Press the blue “comment” button underneath when you’re done. 

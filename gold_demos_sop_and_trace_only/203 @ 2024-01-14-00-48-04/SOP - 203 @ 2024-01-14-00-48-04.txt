@@ -1,9 +1,0 @@
-Get the purchase date and order id of the most recent pending order
-1. Click on 'SALES' in the left sidebar.
-2. Click on 'Orders' in the popup window.
-3. Click on the 'Filters' button on the right.
-4. Click on the 'Status' dropdown box.
-5. Click on 'Pending' in the dropdown list.
-6. Click on 'Apply Filters' to filter pending orders.
-7. Click on the 'Purchase Date' column headers two times to sort the orders with newest first.
-8. Report the 'Purchase Date' and 'Order ID' of the first order displayed.

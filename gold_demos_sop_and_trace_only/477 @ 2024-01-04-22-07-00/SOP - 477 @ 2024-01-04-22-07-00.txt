@@ -1,9 +1,0 @@
-Set up a new, empty repository with the name awesome_program_aided_reasoning?
-1. Click the blue “Create project” button on the top right of the screen
-2. Click the “Create Blank Project” pane on the top left of the middle panes
-3. Click the text box under “Project Name”
-4. Type “awesome_program_aided_reasoning”
-5. In the black bold “Project URL” section, click the dropdown on the right side 
-6. Scroll down in the dropdown until “byteblaze” is visible
-7. Click the white “byteblaze” selection
-8. Click the blue “Create project” at the bottom next to the white “Cancel” button

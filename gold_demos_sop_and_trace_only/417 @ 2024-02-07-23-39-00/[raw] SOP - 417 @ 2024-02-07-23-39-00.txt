@@ -1,8 +1,0 @@
-Go to the merge request on 404 link I have to review, find if the author of the merge request responded at the end, and reply \"Thank you\" if he did. Otherwise remind him with a simple @.
-
-1. Click on the fourth option from the right at the top of the screen, in the purple bar. The icon shold have 2 nodes connected and a number with yellow background.
-2. Click on the "Assigned to you" option in the menu displayed. It is the first option under the "Merge requests" text.
-3. Click on the black link corresponding to the "404 link" subject. It is the second entry and has the text "update or remove 404 links".
-4. Under the merge request title at the top of the screen, you will see the text "Roshan Jossy requested to merge". Roshan Jossy is the one who created the merge request. Scroll down until you see the "Comment" textbox. Check if the author answered at the end of the comments.
-5. If there is a response from the author in the end, write "Thank you", otherwise reply with the text "@Roshanjossey".
-6. Click on the blue "Comment" button under the textbox.

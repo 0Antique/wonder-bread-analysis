@@ -1,6 +1,0 @@
-To set your status as "Out of office", do the following.
-1. Click on the multicolored profile icon on the very top right of the page.
-2. Click "Edit status" in the drop-down.
-3. Delete the existing status.
-4. Type in "Out of office".
-5. Press the blue "Set status" button at the bottom of the pop-up.

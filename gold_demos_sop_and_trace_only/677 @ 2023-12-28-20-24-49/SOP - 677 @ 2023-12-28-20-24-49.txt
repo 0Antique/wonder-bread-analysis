@@ -1,7 +1,0 @@
-In order to look up orders that are processing yourself:
-1. Click on the "SALES" option in the left side bar under the "DASHBOARD" option.
-2. Click on the "Orders" option in the "Sales" menu that appeared.
-3. Click on the gray "Filters" button in the middle of the screen.
-4. Click on the "Status" dropdown menu at the right of the screen, under the "Purchase Point" dropdown menu.
-5. Click on the "Processing" option in the gray menu shown.
-6. Click on the gray "Apply Filters" button at the right of the screen, right to the blue "Cancel" link.

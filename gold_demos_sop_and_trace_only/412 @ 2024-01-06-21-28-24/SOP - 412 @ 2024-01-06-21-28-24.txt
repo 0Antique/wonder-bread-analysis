@@ -1,8 +1,0 @@
-Make the LICENSE of byteblaze/accessible-html-content-patterns to Apache License
-1. Click on the "Byte Blaze / accessible-html-content-patterns" project.
-2. Click on the capsule button "MIT License" next to README, with a legal icon
-3. Click on the blue "Edit" button
-4. Click on the "Apply a template" dropdown
-5. Type "apache"
-6. Select the "Apache License 2.0" option in the dropdown
-7. Click on the blue "Commit changes" button towards the bottom

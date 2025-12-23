@@ -1,4 +1,0 @@
-To checkout merge requests requiring my review, do the following.
-1. Click on the merge requests button on the purple bar at the top right of the page. It's to the left of the checkbox icon and to the right of the issues icon.
-2. In the dropdown menu, select the "Review requests for you" button.
-3. You can now see the merge requests requiring your review on this page.

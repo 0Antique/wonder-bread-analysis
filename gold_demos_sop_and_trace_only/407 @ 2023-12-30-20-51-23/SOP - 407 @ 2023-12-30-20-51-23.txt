@@ -1,8 +1,0 @@
-Upvote the newest post in deeplearning subreddit
-
-1. Click on the “Forums” tab in the red navigation bar at the top of the page to navigate to the forums page. It is located directly to the right of the text “Postmill” and to the left of the text “Wiki”.
-2. Click on the “Alphabetical” tab, which is a gray box containing the black text “Alphabetical”, and which is above the big bolded text “List of forums”. This allows you to view the different forums sorted in alphabetical order, making it easier to find the desired forum.
-3. Click on the red link to our desired subreddit, in this case “deeplearning”, located under the alphabetical category of the subreddit name, in this case “D”. Our desired link is located directly below the red “dataisbeautiful” link. This takes us to the desired subreddit page. Scroll down to find the desired subreddit link if it is not immediately visible in its alphabetical category.
-4. Click on the “Sorting Criteria” button, which is located directly above the list of posts and to the right of the “Comments” tab. In this case, since the list is sorted by “Hot” by default, the next in the “Sorting Criteria” button is “Hot”. This allows us to sort the list by a different criteria.
-5. Click on the “New” criteria in the pop-up menu, located directly above “Active” and below “Hot”. This sorts the list by our desired criteria.
-6. Click on the up arrow  for the most recent post to upvote the desired post. The most recent post is the first post in the list, since the list is sorted by most to least recent. The up arrow is directly to the left of the post's title and directly above the post’s net upvote number.

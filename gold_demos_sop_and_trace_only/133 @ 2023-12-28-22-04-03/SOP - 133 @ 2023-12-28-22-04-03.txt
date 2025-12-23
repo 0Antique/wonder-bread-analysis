@@ -1,6 +1,0 @@
-How many commits did Eric make to a11yproject on 3/2?
-1. Click on the "a11yproject" repository from the list of all repositories.
-2. From the left menu, click on "Repository".
-3. In the sub-menu under "Repository", click on "Commits".
-4. Scroll down to the commit made on 3/2, if any.
-5. Count the number of commits made by "Eric" on that day.

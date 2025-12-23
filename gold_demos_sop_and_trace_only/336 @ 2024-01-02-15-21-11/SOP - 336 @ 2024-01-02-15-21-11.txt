@@ -1,6 +1,0 @@
-Tell me when I last ordered my conditioner?
-1. Click the blue "My Account" button at the very top of the screen.
-2. Click the gray "My Orders" tab from the left sidebar.
-3. Click the right arrow near the bottom of the screen.
-4. Click the blue "View Order" button in the second row.
-5. Given the information, state the last date I last ordered my conditioner.

@@ -1,8 +1,0 @@
-Cancel order 299.
-1. Click on the "SALES" option in the left side bar under the "DASHBOARD" option.
-2. Click on the "Orders" option in the "Sales" menu that appeared.
-3. Type "000000299" in the "Search by keyword" search bar.
-4. Click on the magnifying glass in the "Search by keyword" search bar.
-5. Click on the leftmost checkbox corresponding to the "000000299" product.
-6. Click on the gray down facing arrow button right to the "Action" text at the left of the screen.
-7. Click on "Cancel" in the menu displayed under the "Actions" dropdown menu.

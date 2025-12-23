@@ -1,3 +1,0 @@
-Show all customers
-1. Click on the "Customers" icon on the left sidebar, depicted by a silhouette of a person. It is directly below "Catalog" and directly above "Marketing".
-2. Select "All Customers" from the popup sidebar, it is typically the first option under a bold heading titled "Customers." If "All Customers" is not visible due to the size of your browser window or screen resolution, scroll within the dropdown menu to find it.

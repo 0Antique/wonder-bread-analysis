@@ -1,9 +1,0 @@
-Fork all repos from facebook.
-1. Search for "facebook" in the search bar at the top left of the screen.
-2. Click on the "facebook" repo in the menu shown under the search bar.
-3. Click on the "create-react-app" project under the "Personal projects" section at the right of the screen.
-4. Click on the white "Fork" button at the top right of the screen, right to the white "Star" button.
-5. Search for "facebook" in the search bar at the top left of the screen.
-6. Click on the "facebook" repo in the menu shown under the search bar.
-7. Click on the "buck" project under the "Personal projects" section at the right of the screen.
-8. Click on the white "Fork" button at the top right of the screen, right to the white "Star" button.

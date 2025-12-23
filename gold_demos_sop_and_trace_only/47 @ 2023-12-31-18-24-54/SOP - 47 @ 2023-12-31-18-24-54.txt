@@ -1,7 +1,0 @@
-Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.
-
-1. Click on the blue "My Account" link at the top of the page. It is the first link you see at the top of the screen and is at the left of the blue "My Wish List" link.
-2. Click on the "My Orders" tab in the light gray column on the leftmost side of the page. The tab is below the highlighted "My Account" tab and above the "My Downloadable Products" tab.
-3. Scroll down to the next page button for the order table, which is a button with a right arrow head. The button is located directly below the order table and to the right of the blue page numbers.
-4. Click the next page button. This displays the portion of the user's order table containing information on orders within the desired date range, between 5/12/2023 (1 month before today) and 6/12/2023 (today), the status of those orders, located in the "Status" column of each order's row, and the order totals, located in the "Order Total" column of each order's row.
-5. Keep track of the orders that have the "Date" value inside the period mentioned. Consider only the orders with "Complete" in the "Status" column. The "Date" column is the second column and "Status" is the fourth column.

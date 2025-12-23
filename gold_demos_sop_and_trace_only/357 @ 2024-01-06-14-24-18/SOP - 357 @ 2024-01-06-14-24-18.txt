@@ -1,4 +1,0 @@
-Checkout merge requests requiring my review
-1. In the header, click the "Merge requests" button. This is the third button in the top-right and likely has a light orange-colored number on it. It's the button to the left of the checkbox button.
-2. In the dropdown menu that appears, click "Review requests for you". This will be the second option of the dropdown.
-3. Thus, checkout merge requests requiring my review have been shown.

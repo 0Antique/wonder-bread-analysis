@@ -1,7 +1,0 @@
-Tell me the full names of the repositories where I made contributions and they got less than 5 stars?
-1. Scroll down to see all repos and report the names of those with less than 5 stars.
-2. Click on the 'Next' button at the bottom of the page to see the next set of repos.
-3. Scroll down to see all repos and report the names of those with less than 5 stars.
-4. Click on the 'Next' button at the bottom of the page to see the next set of repos.
-5. Scroll down to see all repos and report the names of those with less than 5 stars.
-6. Since we have reached the last page, we have covered all repos.

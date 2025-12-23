@@ -1,5 +1,0 @@
-Tell me the total cost of my latest cancelled order?
-1. Click on "My Account" in the top bar
-2. Click on "My Orders" in the left menu
-3. Scroll until you see a canceled order from me until you see the one with the date closest to today's date.
-4. Report the cost

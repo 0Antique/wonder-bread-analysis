@@ -1,7 +1,0 @@
-Assign the issue regarding flash alert in primer design guide repo to myself.
-1. Navigate to the correct repo on the intial page, by clicking the "design" repo
-2. Locate the gray sidebar, and click on the "Issues" button
-3. Identify the large search bar at the top of the page and type in "flash"
-4. Click on the most relevant result regarding issues and flash alerts
-5. On the right side, under "Assignee" click the "Edit" button and type in myself "ByteBlaze" and click on the resulting icon
-

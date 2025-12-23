@@ -1,6 +1,0 @@
-Update order #304 with the USPS tracking number 13849373987
-1. Click on the "Sales" button on the left sidebar 
-2. Click on "Orders" 
-3. Fill Order number 304 in the search field
-4. In the status menu look for pending orders
-5. Send message saying "USPS tracking number 13849373987"

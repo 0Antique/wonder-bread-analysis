@@ -1,9 +1,0 @@
-What are the top-2 best-selling product in 2022
-1. Click on 'REPORTS' in the left sidebar.
-2. Click on 'Bestsellers' under 'Products'.
-3. Click on the dropdown button next to 'Period'.
-4. Click on 'Year' from the dropdown list.
-5. Write the date '1/1/22' in the 'From' text box to put the start date of 2022.
-6. Write the date '12/31/22' in the 'To' text box to put the end date of 2022.
-7. Click on the 'Show Report' orange button on the top right.
-8. Report the first 2 products listed, which correspond to the top-2 best selling products

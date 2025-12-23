@@ -1,6 +1,0 @@
-Preview the Magento Blank theme for my shop.
-1. Click on the "Content" icon on the gray sidebar on the left side of the screen.
-2. Click on "Themes" under the "Design" section at the bottom of the submenu.
-3. Click on the blue "View" button for the table row which contains "Magento Blank".
-4. Click on the icon to the right of the text "Theme Preview Image".
-5. This is the preview of the desired theme.

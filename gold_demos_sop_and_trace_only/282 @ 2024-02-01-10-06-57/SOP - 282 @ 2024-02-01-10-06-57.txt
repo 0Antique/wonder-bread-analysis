@@ -1,9 +1,0 @@
-List the full product names of slide slippers from Nike and tell me the price range of the available products
-1. Click into the search bar, located at the top, right hand side of the page.
-2. Type “nike slides” into the search bar.
-3. Press enter.
-4. Click on the blue text "Clothing, Shoes & Jewelry", located on the left hand side of the page under the bolded text “Shopping Options” and “Category”
-5. Scroll down through each row of the search results and note down the product names of products by Oral B that are brush heads designed for kids, and keep track of the per brush price of the cheapest and most expensive Oral B children’s brush heads.
-6. Scroll to the bottom of the page.
-7. Click the next search results page button, located directly below the final row of product search results and to the right of the product search results pages.
-8. Repeat steps 5-7 until there are no relevant search results on the page. Then, you have found all information desired about the query.

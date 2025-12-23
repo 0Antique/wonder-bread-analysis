@@ -1,7 +1,0 @@
-Make the LICENSE of byteblaze/a11y-syntax-highlighting to one that mandates all copies and derivative works to be under the same license.
-1. Click on the "Byte Blaze / a11y-syntax-highlighting" project.
-2. Click on the capsule button "MIT License" next to README, with a legal icon
-3. Click on the blue "Edit" button
-4. Click on the "Apply a template" dropdown
-5. Select the "GNU Affero General Public License v3.0" option in the dropdown
-6. Click on the blue "Commit changes" button towards the bottom

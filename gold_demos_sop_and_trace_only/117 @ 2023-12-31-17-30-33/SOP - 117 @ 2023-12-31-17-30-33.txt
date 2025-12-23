@@ -1,5 +1,0 @@
-What is the date when I made my first purchase on this site
-1. Click on the first option of the upper bar labeled "My Account".
-2. From the left sidebar, click the second option labeled "My Orders".
-3. Click the small "4" at the bottom of the page to view the oldest orders. 
-4. Given the information, state the date when I made my first purchase on this site.

@@ -1,4 +1,0 @@
-Tell me the number of followers of the contributor who has the most commits to branch main
-1. Locate the user with the highest number of commits
-2. Locate and click on the search bar in the top left of the page and type in the user with the most commits and click on the matched user that the search returns
-3. Identify the number of followers from the user page

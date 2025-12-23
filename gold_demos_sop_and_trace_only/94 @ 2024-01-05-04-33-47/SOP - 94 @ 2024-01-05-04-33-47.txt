@@ -1,5 +1,0 @@
-Telll me the grand total of invoice 000000001.
-1. Navigate to the sidebar located on the left side of the screen
-2. Click on the "Sales" section to reveal the pop-out menu
-3. Click on the "Invoices" button, to reveal the "Invoices" page
-4. Locate the row called with the Order# 000000001, and find its corresponding grand total

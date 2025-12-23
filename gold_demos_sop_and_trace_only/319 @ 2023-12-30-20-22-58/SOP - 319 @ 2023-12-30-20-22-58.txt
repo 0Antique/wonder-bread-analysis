@@ -1,5 +1,0 @@
-How much refund I should expect from my order canlled in April 2022, including shipping fee
-1. In the top navigation bar, click the button that says "My Account"
-2. On the left side, there is a menu with an option "My Orders". Click the "My Orders" button.
-3. The center of the page has a list of orders and their corresponding date and status. Underneath, there are buttons to navigate to different pages of the list (like 1, 2, 3, 4, etc.). Navigate to the part of the list containing the relevant time frame, in this case "April 2023".
-4. There are no orders within the time frame that have the status of cancelled, so the total refund amount is 0. 

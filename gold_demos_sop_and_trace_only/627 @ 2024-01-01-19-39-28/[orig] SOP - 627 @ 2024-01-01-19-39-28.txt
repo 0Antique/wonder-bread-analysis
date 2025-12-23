@@ -1,6 +1,0 @@
-Create a discussion post about "Harry Potter movie series" in a relevant subreddit and ask users for their opinions with the simple prompt, "your opinion"
-1. In the red header at the top of the screen, click on the "Submit" button with the plus sign to the left of it
-2. Locate and click on the "Title" textbox and type in "Harry Potter movie series"
-3. Locate and click on the "Body" textbox and type in "your opinion?"
-4. Locate and click on the "Forum" drop-down menu and locate, and click on "movies", a relevant forum, by typing in "movies"
-5. Click on the red "Create submission" button at the bottom

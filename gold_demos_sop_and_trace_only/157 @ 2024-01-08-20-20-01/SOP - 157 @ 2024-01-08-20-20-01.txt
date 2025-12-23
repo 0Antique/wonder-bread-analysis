@@ -1,3 +1,0 @@
-Show all customers
-1. Click on 'CUSTOMERS' in the left sidebar.
-2. Click on 'All Customers' in the popup window.

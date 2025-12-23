@@ -1,8 +1,0 @@
-Create a new forum named sci_fi, with a description of A wild place for sci-fi enthusiasts, and include ['New', 'Classic', 'Movies', 'Post my novel', 'Random'] in the sidebar?
-1. Locate and click on the "Forums" button on the red header to reveal the "List of forums" page
-2. Click on the red "Create forum" button on the top right of the screen
-3. Locate and click on the "Name" textbox and type in the forum name: "sci_fi"
-4. Locate and click on the "Title" textbox and type in the title name: "sci_fi"
-5. Locate and click on the "Description" textbox and type in the description: "A wild place for sci-fi enthusiasts"
-6. Locate and click on the "Sidebar" textbox and write a topically relevant and coherent sentence including the words: ['New', 'Classic', 'Movies', 'Post my novel', 'Random']
-7. Click on the red "Create forum" button at the bottom of the screen

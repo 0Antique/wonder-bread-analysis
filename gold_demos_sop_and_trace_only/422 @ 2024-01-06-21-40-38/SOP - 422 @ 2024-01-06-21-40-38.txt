@@ -1,7 +1,0 @@
-Set my gitlab status as Out of Office.
-1. Click your profile icon on the top right of the page
-2. Click "Set status" in the dropdown menu
-3. Check the box next to "Set yourself as busy"
-4. Click the "What's your status?" text box
-5. Type "Out of Office"
-6. Click the blue "Set status" button at the bottom right

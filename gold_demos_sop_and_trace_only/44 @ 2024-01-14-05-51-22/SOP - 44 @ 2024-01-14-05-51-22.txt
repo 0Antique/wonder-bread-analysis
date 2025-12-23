@@ -1,2 +1,0 @@
-Check out my todos
-1. Click the todos button, which is an icon that looks like a box with a check in it, located directly to the right of the merge requests button.

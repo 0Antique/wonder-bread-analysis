@@ -1,7 +1,0 @@
-Tell me the reasons why customers like Olivia zip jacket
-1. On the left bar, click on "Reports".
-2. Under the "Reviews" sub-menu, click on "By Product".
-3. In the "Product" search field, type "Olivia".
-4. Click on the "Search" button at the top of the table.
-5. For the displayed entry, click on "Show Reviews" in the rightmost column.
-6. From the information displayed, report the reasons why customers like Olivia zip jacket.

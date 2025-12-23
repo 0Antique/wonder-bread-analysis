@@ -1,8 +1,0 @@
-List the customer names who thinks EYZUTAK phone cases are of good looking
-1. In the top right side of the webpage, click the searcher which says "Search entire store here..."
-2. Type in the desired item in the textbox, in this case "EYZUTAK phone cases" and press enter to search.
-3. You will be shown results. Click on the relevant search result, in this case the first one.
-4. Scroll down to below the item pictures. There will be two tabs. "Details" and "Reviews". Click "Reviews".
-5. Read the text in every review; you must navigate to each page of reviews using the number buttons (1, 2, 3, 4, etc.) underneath each page of reviews. 
-6. If the review likes the appearance, add the customer's name to your list. You can find their name just under the review text in the format "Review by {NAME}"
-7. In this case, the customer's names are: Lisa Lee, MH, Misba009, Amanda, N Randall, Amazon Customer, Cally, Bethany Robertson.

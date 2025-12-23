@@ -1,4 +1,0 @@
-Telll me the grand total of invoice 000000001.
-1. Click on the "Sales" icon on the left that looks like a dollar sign to reveal the pop-out menu.
-2. Click on "Invoices", which is the second option in the menu.
-3. Given the information, state the grand total of invoice 000000001.

@@ -1,5 +1,0 @@
-Increase the price of this product by $11.5:
-1. Click the text field 5 rows down near the top of the page that says 'Price' and says '[Global]' underneath it with an orange asterisk
-2. Backspace until the text field is empty
-3. Type in the number equal to the previous price + 11.5 
-4. Click the orange button on the upper right side of the screen saying 'Save' with a little down arrow next to it next to the button that says 'Add Attribute'

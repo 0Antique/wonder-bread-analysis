@@ -1,7 +1,0 @@
-Open my latest updated issue that has keyword 'homepage content' in its title to check if it is closed
-1. Click on the rectangular icon, for Issues, right next to the '+' icon in the top navigation bar.
-2. Click on the 'All' tab, under 'Issues' to list all issues.
-3. Click on the 'x' icon next to 'Byte Blaze' in the search bar to remove the assignee filter.
-4. Type 'homepage content' in the search bar and hit the 'return' key to filter issues having 'homepage content' in their title.
-5. Click on the second issue as it has 'homepage content' in its title and it is the latest updated issue (the first issue doesn't have homepage content in its title).
-6. Observe that there's a blue icon 'Closed' at the top which indicates the issue is closed.

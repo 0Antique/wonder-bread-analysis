@@ -1,8 +1,0 @@
-Open my latest updated issue that has keyword "homepage content" in its title to check if it is closed
-1. Click the "Issues" icon located to the right of the plus sign icon
-2. Click the tab under Issues called "All" (third tab from left)
-3. Click the search box at the top of the page
-4. Type "homepage content" 
-5. Press enter
-6. Click the first row result with text relating to "homepage content"
-7. If the issue is closed, click it

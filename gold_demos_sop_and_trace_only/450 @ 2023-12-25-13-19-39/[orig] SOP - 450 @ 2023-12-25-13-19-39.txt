@@ -1,8 +1,0 @@
-Set the homepage URL on my GitLab profile to a11yproject.contributor.me
-1. Click on your profile picture at the top right of the screen.
-2. Click on the "Edit profile" option from the options shown.
-3. Scroll down until you see the "Website url" input box.
-4. Triple click on "Website url" input box to select everything written.
-5. Type "https://a11yproject.contributor.me" in the "Website url" input box.
-6. Scroll down until you see the blue "Update profile settings" button.
-7. Click on the blue "Update profile settings" button.

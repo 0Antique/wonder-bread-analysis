@@ -1,7 +1,0 @@
-Tell me the the number of reviews that our store received by far that mention term "not useful"
-1. Click on the “MARKETING” button in the dark gray column on the left hand side of the page.
-2. Click on “All Reviews” in the pop up menu, located under the heading “User Content”.
-3. Click into the text box located under the column with the heading “Review”.
-4. Type in “not useful”.
-5. Press enter.
-6. The number of records found, which we can see directly above the “Created” column heading, tells us the number of reviews that mention the term “not useful”.

@@ -1,7 +1,0 @@
-Tell me the reasons why customers like Olivia zip jacket.
-1. Click on the "Marketing" icon on the left gray sidebar.
-2. Click on "All Reviews" in the sidebar pop-up (under the "User Content" section at the bottom right).
-3. Click in the textbox under the "Product" title.
-4. Replace any text in the box with "olivia" and press enter.
-5. Click on positive reviews to view the full texts.
-6. Given the information, state the reasons why customers like the product.

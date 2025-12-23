@@ -1,8 +1,0 @@
-Show me the command to clone the best GAN python implementation with SSH.
-1. Click the "Explore" tab under the bold "Projects" title.
-2. Click in the "Filter by name" box in the top right.
-3. Type in the text "GAN".
-4. From the results below, click on the desired repository "Erik Linder-Norén / PyTorch-GAN".
-5. Click the blue "Clone" button at the right to open the dropdown menu.
-6. From the dropdown menu, click on the small clipboard icon in the "Clone with SSH" section to copy the command.
-7. Given the information, state the command to clone the best GAN python implementation with SSH.

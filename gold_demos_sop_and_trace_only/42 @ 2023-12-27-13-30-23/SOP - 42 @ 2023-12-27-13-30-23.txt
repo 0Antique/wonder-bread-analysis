@@ -1,3 +1,0 @@
-List the top 2 search terms in my store
-1. Scroll down so that the section titled "Top Search Terms" in large, black, bold font is visible.
-2. Given the information, state the top 2 search terms in the store.

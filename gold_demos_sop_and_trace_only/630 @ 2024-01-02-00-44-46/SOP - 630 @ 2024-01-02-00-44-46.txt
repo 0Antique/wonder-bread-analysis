@@ -1,8 +1,0 @@
-Ask for product recommendations for noise-cancelling headphones within a budget of $200 in r/headphones
-1. Click on the "Forums" tab on the top bar.
-2. From the filters located at the top of the page, click on "Alphabetical".
-3. Click on the "headphones" forum under the "H" section.
-4. On the top right corner of the top bar, click on "Submit".
-5. Click on the "Title" textarea section.
-6. Enter the title "Recommendations for noise-cancelling headphones under $200".
-7. Click the red "Create submission" button at the bottom of the form.

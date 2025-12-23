@@ -1,7 +1,0 @@
-Among the top 10 post in "books" forum, show me the author name and the book name from posts that recommand a single book
-1. Click on the "Forums" button on the red header on the top of the page
-2. Click on the "Alphabetical" sub-header at the top-left of the "List of forums" page
-3. Locate the "B" section denoting forums that start with the letter "B" and click on the red "books" text
-4. Locate the dropdown menu at the top of the page labeled "Hot" and change it to "Top" -- this will reveal another dropdown menu to its right
-5. Locate the rightmost dropdown menu at the top of the page labeled "Past 24 hours" and change it to "All time"
-6. Scroll down to reveal the information and identify the any posts that talk about supporting local book stores and the corresponding organizations that are mentioned

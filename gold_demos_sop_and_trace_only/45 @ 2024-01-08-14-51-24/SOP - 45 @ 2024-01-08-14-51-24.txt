@@ -1,6 +1,0 @@
-Check out the most recent open issues.
-
-1. From the left sidebar, click the fourth tab from the top, which is labeled "Issues". It has a symbol of a card and a card behind it slightly rotated to the right. The tab is above the "Merge requests" tab and below the "Repository" tab.
-2. At the right of the screen, there is a dropdown menu below the white "Edit issues" and blue "New issue" buttons. It is at the right of the button with a magnifying glass in it. Click on that dropdown menu.
-3. From the revealed menu, click on the "Created date" option. It is the second option, below the "Priority" option. This will sort the issues by creation date in descending order, so the newest issues appear at the top of the screen.
-4. Check out the most recent open issues. Now that the issues are ordered by creation date, the first entries are the newest open issues.

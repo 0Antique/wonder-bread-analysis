@@ -1,9 +1,0 @@
-Make the LICENSE of gimmiethat.space and dotfiles to MIT license.
-1. Scroll down and locate and click on the repo "gimmiethat.space" 
-2. Click on the "Add LICENSE" button located in the middle of the screen
-3. On the right hand side, click on the "Apply a template" dropdown menu and scroll down and click on the "MIT License"
-4. Click the blue "Commit Changes" button and return to the home page
-5. Locate and click on the repo "dotfiles"
-6. Click on the "Add LICENSE" button located in the middle of the screen
-7. On the right hand side, click on the "Apply a template" dropdown menu and scroll down and click on the "MIT License"
-8. Click the blue "Commit Changes" button

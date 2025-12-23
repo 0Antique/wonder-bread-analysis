@@ -1,9 +1,0 @@
-Which customer(s) has completed the second most number of orders in the entire history?
-1. Navigate to the sidebar located on the left side of the screen
-2. Click on the "Reports" section to reveal the pop-out menu
-3. Click on the "Order Total" button in the "Customers" section of the pop-out menu, to reveal the "Order Total Report" page
-4. Click on the "From" textbox and type in the first day of our timeframe: 01/01/2021
-5. Click on the "To" textbox and type in the last day of our timeframe: 01/05/2024
-6. Click on the dropdown menu labelled "Show By:" and select "Year"
-7. Click on the "Refresh" button in gray to display the data
-8. Scroll down and use the information provided to calculate which customer has completed the second most number of orders in the entire history

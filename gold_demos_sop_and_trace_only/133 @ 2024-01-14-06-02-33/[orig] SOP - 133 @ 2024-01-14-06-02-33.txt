@@ -1,8 +1,0 @@
-How many commits did Eric make to a11yproject on 3/2?
-1. Click into the search bar located at the top left of the page, with a purple background.
-2. Type in the name of the desired repository.
-3. Press enter.
-4. Click on the name of the relevant search result, i.e. the name of the desired repository.
-5. Click on “Commits”, located directly below the repository icon.
-6. Scroll down until you see commits that occurred at the desired date (3/2). There will potentially be no such commits, which you will be able to tell if there are no commits listed for the desired date, but there commits listed for dates before and after the desired date.
-7. Record how many commits on that date are made by the user of interest, if there are any commits made on that date at all. The user can be identified by their name, which is located to the right of the profile picture for each commit.

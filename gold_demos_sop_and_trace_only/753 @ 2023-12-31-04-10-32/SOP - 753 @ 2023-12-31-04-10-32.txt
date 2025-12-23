@@ -1,6 +1,0 @@
-Create a private Android repository called "web_agent_android" using the right template to speed up development.
-1. Locate and click on the blue "New Project" button on the top right side of the page
-2. Click on the "Create from template" icon and click on the "Android" template from the list
-3. Click on the "Project name" textbox and type in "web_agent_android"
-4. Under the "Visibility Level" section, click the "Private" box
-5. Click the blue "Create project" button

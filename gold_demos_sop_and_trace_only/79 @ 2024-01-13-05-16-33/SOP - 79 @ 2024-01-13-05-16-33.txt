@@ -1,8 +1,0 @@
-What is the total count of Not Approved reviews amongst all the reviews?
-1. Click on the “MARKETING” button in the dark gray column on the left hand side of the page.
-2. Click on “All Reviews” in the pop up menu, located under the heading “User Content”.
-3. The number of pending reviews is the number of records found, which is located directly above the column heading “Created”.
-4. Click on the box located directly under the column heading “Status”.
-5. Click “Not Approved” in the pop up menu.
-6. Press enter.
-7. The number of approved reviews is the number of records found, which is located directly above the column heading “Created”.

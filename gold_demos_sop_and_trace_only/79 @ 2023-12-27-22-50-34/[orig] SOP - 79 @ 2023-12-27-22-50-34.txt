@@ -1,7 +1,0 @@
-What is the total count of Not Approved reviews amongst all the reviews?
-1. Click on the "Marketing" icon on the left to reveal the pop-out menu.
-2. Click on "All Reviews" under the "User Content" section on the bottom right of the menu.
-3. Click on the dropdown at the top of the fourth column for "Status".
-4. From the dropdown, click on "Not Approved".
-5. Click the gray "Search" button located at the top left.
-6. Given the information, state the total count of Not Approved reviews amongst all the reviews.

@@ -1,4 +1,0 @@
-Telll me the grand total of invoice 000000001.
-1. Click on 'SALES' in the left sidebar.
-2. Click on 'Invoices' in the popup window.
-3. Report the amount under the 'Grand Total (Purchased)' column for the first row which has 'Invoice' column value of 000000001.

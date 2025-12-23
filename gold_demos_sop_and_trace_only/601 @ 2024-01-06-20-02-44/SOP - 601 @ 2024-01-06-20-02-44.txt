@@ -1,7 +1,0 @@
-Post my question, "is car necessary in NYC", in a subreddit where I'm likely to get an answer
-1. In the header, click "forums"
-2. Under that, click the button that says "Alphabetical" to see all the subreddit options.
-3. Click on a relevant forum. In this case, I chose "nyc"
-4. In the header, click the plus button that says "submit".
-5. In the textbox under the "title" header, enter a title that asks your question.
-6. At the bottom of the page, press the "Create submission" button.

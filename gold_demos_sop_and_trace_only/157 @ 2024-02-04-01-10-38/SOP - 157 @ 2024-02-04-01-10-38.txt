@@ -1,3 +1,0 @@
-Show all customers
-1. Click on the “CUSTOMERS” button in the dark gray column on the left hand side of the page.
-2. Click on “All Customers” in the pop up menu, located under the bolded heading “Customers”.

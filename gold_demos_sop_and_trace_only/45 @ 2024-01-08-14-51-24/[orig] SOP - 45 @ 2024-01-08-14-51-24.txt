@@ -1,4 +1,0 @@
-Check out the most recent open issues
-1. Click on 'Issues' in the left sidebar.
-2. Click on the 'Created date' dropdown button on the top right.
-3. Click on 'Created date' in the dropdown list to sort issues with most recent first.

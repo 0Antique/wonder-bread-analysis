@@ -1,7 +1,0 @@
-Give me the name of the products that have 3 units left
-1. On the left menu, click on "Catalog".
-2. From the popped up sub menu, click on "Products".
-3. In the top right corner, click on the "Filters" button.
-4. Under the "Quantity" sub heading, enter 3 in the 'From' and 'To' box field.
-5. In the bottom right corner, click on "Apply Filters".
-6. From the displayed table, report the name of the products that have 3 units left.
