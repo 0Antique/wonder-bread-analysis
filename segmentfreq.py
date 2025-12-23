@@ -390,7 +390,10 @@ def write_csv(path: Path, rows: List[Dict[str, Any]]) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("trace_json", help="Path to a trace json file or a trajectory folder containing *.json")
+    ap.add_argument(
+        "trace_json",
+        help="Path to a trace json file, a trajectory folder (contains *.json), or the base folder (contains many trajectory folders).",
+    )
     ap.add_argument("--out_dir", default="output", help="Output directory")
     ap.add_argument("--freq_dir", default="frequency", help="Directory containing *_traj_highfreq.csv")
     ap.add_argument("--freq_csv", default=None, help="Override: path to a specific *_traj_highfreq.csv")
@@ -422,17 +425,26 @@ def main() -> None:
 
     json_files: List[Path]
     if trace_input.is_dir():
+        # Case 1: trajectory folder (directly contains *.json)
         json_files = sorted(trace_input.glob("*.json"))
+        # Case 2: base folder (contains many trajectory folders)
+        if not json_files:
+            for folder in sorted(p for p in trace_input.iterdir() if p.is_dir()):
+                json_files.extend(sorted(folder.glob("*.json")))
         if not json_files:
             raise FileNotFoundError(f"No *.json files found in: {trace_input}")
     else:
         json_files = [trace_input]
 
     anchor_cache: Dict[Path, Dict[Tuple[str, str], Anchor]] = {}
+    missing_freq: Dict[str, int] = {}
+    processed = 0
 
     for trace_json_path in json_files:
         if args.freq_csv:
             freq_csv = Path(args.freq_csv)
+            if not freq_csv.exists():
+                raise FileNotFoundError(f"Frequency CSV not found: {freq_csv}")
         else:
             task_id = infer_task_id(trace_json_path)
             if not task_id:
@@ -441,18 +453,21 @@ def main() -> None:
                 )
             freq_csv = Path(args.freq_dir) / f"{task_id}_traj_highfreq.csv"
 
-        if not freq_csv.exists():
-            raise FileNotFoundError(f"Frequency CSV not found: {freq_csv}")
-
-        if freq_csv not in anchor_cache:
-            anchor_cache[freq_csv] = load_stage_anchors(
-                freq_csv,
-                min_trace_files=args.min_trace_files,
-                include_missing_anchors=args.include_missing_anchors,
-                include_keystroke_anchors=args.include_keystroke_anchors,
-                anchor_order_margin=args.anchor_order_margin,
-            )
-        anchors = anchor_cache[freq_csv]
+        anchors: Dict[Tuple[str, str], Anchor]
+        if freq_csv.exists():
+            if freq_csv not in anchor_cache:
+                anchor_cache[freq_csv] = load_stage_anchors(
+                    freq_csv,
+                    min_trace_files=args.min_trace_files,
+                    include_missing_anchors=args.include_missing_anchors,
+                    include_keystroke_anchors=args.include_keystroke_anchors,
+                    anchor_order_margin=args.anchor_order_margin,
+                )
+            anchors = anchor_cache[freq_csv]
+        else:
+            # Only possible when we infer by task_id; if user explicitly passed --freq_csv we error above.
+            missing_freq[task_id] = missing_freq.get(task_id, 0) + 1
+            anchors = {}
 
         obj = json.loads(trace_json_path.read_text(encoding="utf-8"))
         trace = obj.get("trace", [])
@@ -469,9 +484,17 @@ def main() -> None:
         write_csv(segments_path, segments)
         write_csv(debug_path, debug_rows)
 
-        print(f"[{trace_json_path.name}] anchors={len(anchors)} (from {freq_csv.name}) segments={len(segments)}")
+        processed += 1
+        freq_name = freq_csv.name if freq_csv.exists() else "(missing freq)"
+        print(f"[{trace_json_path.name}] anchors={len(anchors)} (from {freq_name}) segments={len(segments)}")
         print(f"  -> {segments_path}")
         print(f"  -> {debug_path}")
+
+    if missing_freq:
+        missing_total = sum(missing_freq.values())
+        missing_tasks = ", ".join(sorted(missing_freq.keys(), key=lambda x: int(x) if x.isdigit() else x)[:20])
+        more = "" if len(missing_freq) <= 20 else f" (+{len(missing_freq) - 20} more)"
+        print(f"\nWARNING: missing frequency CSV for {missing_total}/{processed} trajectories. task_ids: {missing_tasks}{more}")
 
 
 if __name__ == "__main__":
